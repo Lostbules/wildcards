@@ -1,0 +1,12 @@
+### 📍 空之轨迹 (Trails in the Sky)
+
+ 艾丝蒂尔·布莱特 (Estelle Bright)
+    estelle_bright, brown_hair, twintails, amber_eyes
+ 科洛丝·琳希 / 柯罗蒂娅 (Kloe Rinz / Klaudia)
+    klaudia_valentz,kloe_rinz, blue_hair, short_hair, purple_eyes
+ 雪拉扎德·哈维 (Scherazard Harvey)
+    scherazard_harvey,oval face,silver_hair,long_wavy_hair,brown_eyes,mature_female,
+ 提妲·拉塞尔 (Tita Russell)
+    'tita_russell, blonde_hair, blue_eyes'‘tita_russell,black_pantyhose’
+ 玲·布莱特 (Renne)
+    renne_(eiyuu_densetsu),purple_hair,golden_eyes,loli,

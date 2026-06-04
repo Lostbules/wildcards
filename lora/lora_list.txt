@@ -1,0 +1,90 @@
+# ============================================================
+# ComfyUI Impact Pack — LoRA 完整清单
+# 来源：wildcards/ 下所有 .txt 文件
+# 更新：2026-06-02
+# 总计：78 个
+# ============================================================
+
+# ── 姿势 / Pose ────────────────────────────────────────────
+_sdxl-hipbom
+all-fours-from-below-ponyxl-lora-nochekaiser
+battoujutsu_sword_stance
+character_sheet
+concept_1fingerselfie_illustriousXL
+down_v2
+fanningcrotch_Pony_v1
+gatotsu-stance-ponyxl-lora-nochekaiser
+half-spread-pussy-from-below-ponyxl-lora-nochekaiser
+JackoAIO-XL-V1
+leg-up-panty-pull-ponyxl-lora-nochekaiser
+lyingsplitV5000013.tVQi
+mating-press-v4-illustriousxl-lora-nochekaiser
+missionary-on-side-ponyxl-lora-nochekaiser
+need_buzz_sign
+oppai-challenge-ponyxl-lora-nochekaiser
+peeking_out_ponyxl
+planted-sinner-ponyxl-lora-nochekaiser
+povstomped_il_v1
+random-nsfw-poses-v12-illustriousxl-lora-nochekaiser
+selfie-mirror-straddling-ponyxl-lora-nochekaiser
+skirt_hold_bowing_d16
+spread-ass-pov-illustriousxl-lora-nochekaiser
+squatting-cowgirl-position-v4-illustriousxl-lora-nochekaiser
+ss_highangle_pony
+standing-doggystyle-from-side-ponyxl-lora-nochekaiser
+standing-groping-sex-ponyxl-lora-nochekaiser
+standingDoggyV3.6spf
+swing_Pony_v1
+the-pose-ponyxl-lora-nochekaiser
+unsheathing_pose_vertical_3_final
+VRP
+
+# ── 动作 / Action ──────────────────────────────────────────
+1076 holding money_v1_pony
+concept_sideboobpeek_ponyXL
+feeding_Pony_v1
+free-oppai-illustriousxl-lora-nochekaiser
+grabbed-breast-over-shoulder-v6-illustriousxl-lora-nochekaiser
+groping-hand-under-clothes-v3-illustriousxl-lora-nochekaiser
+holding_teapot_pouring_3_final_d32
+Incoming_Hug_Pony
+PonyFantasyKnightsV4
+standing-breast-press-handjob-ponyxl-lora-nochekaiser
+
+# ── POV / 视角 ─────────────────────────────────────────────
+LoRAPovOnCouchNoobAIXLvPred
+Selfie_Pov
+
+# ── 衣物 / Clothing ────────────────────────────────────────
+clothes pull_illustrious_V1.0
+panty aside_Pony_V1.0
+panty aside_pony_V2.0
+panty-pull-pov-v2-illustriousxl-lora-nochekaiser
+panty-pull-undressing-from-behind-illustriousxl-lora-nochekaiser
+Pantsing
+shirt-in-mouth-ponyxl-lora-nochekaiser
+shirtpull
+TearingClothesOff_Illustrious
+UnwornPantiesCensor_T0V0
+X-ray_Glasses
+
+# ── 性行为 / Sex Act ───────────────────────────────────────
+bentoverblowjob
+cunnilingus_gesture_v0.1-pony
+FingeringV1
+InniePussy1 Pony v2
+multitaskingProdigy_Illustrious
+penis_on_pussy_ilxl_v1
+restrained_missionary-05
+stable_legs_together_ilxl_v1
+trastey
+
+# ── 角色 / Character ───────────────────────────────────────
+c_azuma seren_nbe11_xl
+juese/CHiiragi_Utena
+juese/Cagliostro_illus
+juese/Eudie_v2
+juese/IsekaiOjisan_Sui_IlluXL
+juese/MajoNoTabiTabi_Elaina_IlluXL
+juese/shield-atla-s3-illustriousxl-lora-nochekaiser
+juese/yuni_default_princess connect_epoch-000075

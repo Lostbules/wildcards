@@ -1,0 +1,24 @@
+### 📍 闪之轨迹 (Trails of Cold Steel)
+
+* **亚莉莎·莱恩福尔特 (Alisa Reinford)**
+    `alisa_reinford, blonde_hair, red_eyes`‘alisa_reinford,blonde_hair,red_eyes,thighhighs,’
+* **劳拉·S·亚尔赛德 (Laura S. Arseid)**
+    `laura s arseid,the legend of heroes,tall female,mature female,amber_eyes,dark blue hair,long hair,very_long_hair,ponytail,hair ribbon,black ribbon,serious expression,confident,`
+* **艾玛·米尔斯汀 (Emma Millstein)**
+    `emma_millstein,bule_eyes` *(注：如果需要戴眼镜可以加 `glasses`)*
+* **菲·克劳塞尔 (Fie Claussell)**
+    `fie_claussell, silver_hair, short_hair, green_eyes`
+* **莎拉·巴雷斯坦 (Sara Valestein)**
+    `sara_valestein, red_hair, gold_eyes`
+* **托娃·赫歇尔 (Towa Herschel)**
+    `towa_herschel, brown_hair, short_hair`
+* **亚尔缇娜·奥莱恩 (Altina Orion)**
+    `altina_orion, silver_hair`‘altina_orion,silver_hair,black_pantyhose,beret,’
+* **尤娜·克劳福德 (Juna Crawford)**
+    `juna_crawford, pink_hair, short_hair, green_eyes`
+* **爱丽谢·舒华泽 (Elise Schwarzer)**
+    `elise_schwarzer, black_hair, long_hair, bule_eyes`‘elise_schwarzer,black_hair,long_hair,bule_eyes,uniform,black_pantyhose,’‘elise_schwarzer,black_hair,long_hair,bule_eyes,uniform,panties_around_one_leg,’
+* **艾尔芬·莱泽·亚诺尔 (Alfin Reise Arnor)**
+    `alfin_reise_arnor,blonde_hair,long_hair,blue_eyes,wavy hair,`
+* **奥蕾莉亚·勒瑰恩 (Aurelia Le Guin)**
+‘Aurelia Le Guin,tall_female,long_hair,skirt,gloves,jewelry,purple_eyes,grey_hair,braid,pantyhose,earrings,black_gloves,cape,uniform,black_pantyhose,military,epaulettes,narrowed_eyes,seductive_smile,femdom,mature_female,’

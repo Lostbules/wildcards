@@ -1,0 +1,15 @@
+# Backup files
+*.bak
+*.bak[0-9]*
+*.tmp
+
+# Temp files  
+_*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

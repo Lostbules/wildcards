@@ -1,0 +1,14 @@
+### 📍 零之轨迹 / 碧之轨迹 (Trails from Zero / Trails to Azure)
+
+* **艾莉·麦克道尔 (Elie MacDowell)**
+    `elie_macdowell, silver_hair, long_hair, green_eyes`
+* **缇欧·普拉托 (Tio Plato)**
+    `tio_plato, blue_hair, yellow_eyes`
+* **莉夏·毛 (Rixia Mao)**
+    `rixia_mao, purple_hair, long_hair, purple_eyes`
+* **伊莉娅·普拉提耶 (Ilya Platiere)**
+    `ilya_platiere, blonde_hair, wavy_hair, long_hair, purple_eyes, mature_female`
+* **塞茜尔·诺伊艾丝 (Cecile Neues)**
+    `cecile_neues,brown_hair,braid,green_eyes,wife,mature_female,`
+* **莎莉·奥兰多 (Shirley Orlando)**
+    `shirley_orlando, red_hair, short_twintails, green_eyes`

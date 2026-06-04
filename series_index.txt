@@ -1,0 +1,731 @@
+  L268   hikami sumire
+  L269   hoshimiya ichigo
+## [ ] aikatsu! \(series\)                                     [2]
+
+  L309   cheshire cat \(alice in wonderland\)
+  L310   white rabbit \(alice in wonderland\)
+## [ ] alice in wonderland                                     [2]
+
+  L485   latifa fleuranza
+  L486   latifa fleuranza
+  L487   latifa fleuranza
+  L488   sento isuzu
+## [ ] amagi brilliant park                                    [4]
+
+  L41    tachibana kanade
+  L311   irie miyuki
+  L312   otonashi yuzuru
+  L313   sekine shiori
+  L314   shiina \(angel beats!\)
+  L315   tachibana kanade
+## [ ] angel beats!                                            [6]
+
+  L393   skadi the corrupting heart \(arknights\)
+  L394   surtr \(colorful wonderland \) \(arknights \)
+  L395   amiya \(arknights\)
+  L396   skadi \(waverider\) \(arknights\)
+  L397   skadi the corrupting heart \(arknights\)
+  L398   surtr \(arknights\)
+  L399   surtr \(colorful wonderland\) \(arknights\)
+## [ ] arknights                                               [7]
+
+  L483   reisalin stout
+  L484   sophie neuenmuller
+## [ ] atelier \(series\)                                      [2]
+
+  L354   pinku \(vtuber\)
+## [ ] atelier live                                            [1]
+
+  L378   formidable \(azur lane\)
+  L379   atago \(azur lane\)
+  L380   atago \(school traumerei\) \(azur lane\)
+  L381   belfast \(azur lane\)
+  L382   cheshire \(azur lane\)
+  L383   cheshire \(summery date!\) \(azur lane\)
+  L384   formidable \(azur lane\)
+  L385   taihou \(azur lane\)
+## [ ] azur lane                                               [8]
+
+  L359   kagarino kirie
+  L360   renge \(bishoujo mangekyou\)
+## [ ] bishoujo mangekyou                                      [2]
+
+  L386   hoshino \(swimsuit \) \(blue archive \)
+  L387   hina \(blue archive\)
+  L388   hina \(dress\) \(blue archive\)
+  L389   hoshino \(blue archive\)
+  L390   hoshino \(flowery charms\) \(blue archive\)
+  L391   hoshino \(swimsuit\) \(blue archive\)
+  L392   shiroko \(blue archive\)
+## [ ] blue archive                                            [7]
+
+  L1     pa-san
+  L4     ijichi nijika
+  L39    pa-san
+  L203   gotoh hitori
+  L204   hiroi kikuri
+  L205   ijichi nijika
+  L206   ijichi seika
+  L207   kita ikuyo
+  L208   pa-san
+  L209   yamada ryo
+## [ ] bocchi the rock!                                        [10]
+
+  L146   power \(chainsaw man\)
+## [ ] chainsaw man                                            [1]
+
+  L349   tomori nao
+## [ ] charlotte \(anime\)                                     [1]
+
+  L316   dekomori sanae
+  L317   shichimiya satone
+  L318   takanashi rikka
+  L319   takanashi touka
+## [ ] chuunibyou demo koi ga shitai!                          [4]
+
+  L277   fujibayashi kyou
+  L278   furukawa nagisa
+## [ ] clannad                                                 [2]
+
+  L471   itsuka kotori
+  L472   tobiichi origami
+  L473   tokisaki kurumi
+## [ ] date a live                                             [3]
+
+  L51    marie rose \(devilish servant against the splashing waves \)
+## [ ] dead or alive 5                                         [1]
+
+  L43    qian renxue \(douluo dalu \)
+  L337   qian renxue \(douluo dalu\)
+  L338   tang wutong \(douluo dalu\)
+  L339   ning rongrong \(douluo dalu\)
+  L340   gu yuena
+  L341   xiao wu \(douluo dalu\)
+## [ ] douluo dalu                                             [6]
+
+  L355   cai lin \(doupo cangqiong\)
+  L356   yun yun \(doupo cangqiong\)
+## [ ] doupo cangqiong                                         [2]
+
+  L46    hestia \(danmachi \)
+  L274   aiz wallenstein
+  L275   hestia \(danmachi\)
+  L276   liliruca arde
+## [ ] dungeon ni deai wo motomeru no wa machigatteiru darou ka [4]
+
+  L279   renne \(eiyuu densetsu\)
+  L491   estelle_bright
+  L492   estelle_bright
+  L493   kloe_rinz
+  L494   scherazard_harvey
+  L495   tita_russell
+  L496   tita_russell
+  L497   elie_macdowell
+  L498   tio_plato
+  L499   tio_plato
+  L500   rixia_mao
+  L501   ilya_platiere
+  L502   cecile_neues
+  L503   shirley_orlando
+  L504   alisa_reinford
+  L505   alisa_reinford
+  L506   alisa_reinford
+  L507   laura_s_arseid
+  L508   laura_s_arseid
+  L509   emma_millstein
+  L510   fie_claussell
+  L511   fie_claussell
+  L512   fie_claussell
+  L513   sara_valestein
+  L514   sara_valestein
+  L515   towa_herschel
+  L516   towa_herschel
+  L517   altina_orion
+  L518   altina_orion
+  L519   altina_orion
+  L520   juna_crawford
+  L521   juna_crawford
+  L522   elise_schwarzer
+  L523   elise_schwarzer
+  L524   elise_schwarzer
+  L525   alfin_reise_arnor
+  L526   alfin_reise_arnor
+  L527   aurelia_le_guin
+  L528   laura_s_arseid
+  L529   renne_\(eiyuu_densetsu\)
+  L530   rixia_mao
+  L531   tio_plato
+  L532   emma_millstein
+  L533   sara_valestein
+  L534   towa_herschel
+  L535   alfin_reise_arnor
+  L536   aurelia_le_guin
+  L537   estelle_bright
+  L538   tita_russell
+  L539   kloe_rinz
+  L540   scherazard_harvey
+  L541   elie_macdowell
+  L542   tio_plato
+  L543   rixia_mao
+  L544   ilya_platiere
+  L545   cecile_neues
+  L546   shirley_orlando
+  L547   emma_millstein
+  L548   fie_claussell
+  L549   sara_valestein
+  L550   juna_crawford
+  L551   alfin_reise_arnor
+  L552   aurelia_le_guin
+  L553   renne_\(eiyuu_densetsu\)
+## [ ] eiyuu densetsu                                          [64]
+
+  L31    izumi sagiri
+  L298   izumi sagiri
+  L299   yamada elf
+## [ ] eromanga sensei                                         [3]
+
+  L295   futaba hotaru
+  L296   shiranui mai
+## [ ] fatal fury                                              [2]
+
+  L375   artoria caster \(second ascension\) \(fate\)
+  L376   ereshkigal \(bitter sweet\) \(fate\)
+  L377   space ereshkigal \(fate\)
+## [ ] fate/grand order                                        [3]
+
+  L11    aerith gainsborough \(red dress\)
+  L135   aerith gainsborough
+  L136   aerith gainsborough \(red dress\)
+  L137   astrologian \(final fantasy\)
+  L138   iris amicitia
+  L139   tifa lockhart \(exotic dress\)
+  L140   tifa lockhart \(fairy of the holy flame\)
+  L141   tifa lockhart \(lifeguard\)
+  L142   trance terra branford
+## [ ] final fantasy                                           [9]
+
+  L321   gabriel tenma white
+  L322   raphiel shiraha ainsworth
+  L323   tapris chisaki sugarbell
+## [ ] gabriel dropout                                         [3]
+
+  L45    sakura chiyo
+  L351   sakura chiyo
+## [ ] gekkan shoujo nozaki-kun                                [2]
+
+  L5     sangonomiya kokomi
+  L6     boo tao \(genshin impact\)
+  L10    boo tao \(genshin impact\)
+  L12    keqing \(genshin impact\)
+  L14    yun jin \(genshin impact\)
+  L17    ganyu \(twilight blossom \) \(genshin impact \)
+  L24    nahida \(genshin impact \)
+  L32    barbara \(summertime sparkle \) \(genshin impact \)
+  L33    fischl \(genshin impact \)
+  L37    focalors \(genshin impact \)
+  L47    yae miko
+  L49    noelle \(genshin impact \)
+  L89    barbara \(genshin impact\)
+  L90    amber \(genshin impact\)
+  L91    barbara \(summertime sparkle\) \(genshin impact\)
+  L92    chevreuse \(genshin impact\)
+  L93    collei \(genshin impact\)
+  L94    diona \(genshin impact\)
+  L95    dori \(genshin impact\)
+  L96    faruzan \(cafe\) \(genshin impact\)
+  L97    faruzan \(genshin impact\)
+  L98    fischl \(ein immernachtstraum\) \(genshin impact\)
+  L99    fischl \(genshin impact\)
+  L100   furina \(genshin impact\)
+  L101   focalors \(genshin impact\)
+  L102   ganyu \(genshin impact\)
+  L103   ganyu \(twilight blossom\) \(genshin impact\)
+  L104   guizhong \(genshin impact\)
+  L105   hina \(genshin impact\)
+  L106   hu tao \(genshin impact\)
+  L107   hu tao \(lawson\) \(genshin impact\)
+  L108   kamisato ayaka
+  L109   kamisato ayaka \(heytea\)
+  L110   kamisato ayaka \(springbloom missive\)
+  L111   keqing \(genshin impact\)
+  L112   keqing \(lantern rite\) \(genshin impact\)
+  L113   keqing \(opulent splendor\) \(genshin impact\)
+  L114   kirara \(genshin impact\)
+  L115   lumine \(genshin impact\)
+  L116   lynette \(genshin impact\)
+  L117   mona \(genshin impact\)
+  L118   mualani \(genshin impact\)
+  L119   nahida \(genshin impact\)
+  L120   navia \(genshin impact\)
+  L121   nilou \(breeze of sabaa\) \(genshin impact\)
+  L122   nilou \(genshin impact\)
+  L123   noelle \(genshin impact\)
+  L124   noelle \(kfc\) \(genshin impact\)
+  L125   qiqi \(genshin impact\)
+  L126   raiden shogun
+  L127   rukkhadevata \(genshin impact\)
+  L128   sangonomiya kokomi
+  L129   sigewinne \(genshin impact\)
+  L130   skirk \(genshin impact\)
+  L131   xiangling \(genshin impact\)
+  L132   yae miko
+  L133   yoimiya \(genshin impact\)
+  L134   yun jin \(genshin impact\)
+## [ ] genshin impact                                          [58]
+
+  L325   guild girl \(goblin slayer!\)
+  L326   high elf archer \(goblin slayer!\)
+  L327   priestess \(goblin slayer!\)
+  L328   sword maiden
+## [ ] goblin slayer!                                          [4]
+
+  L489   kafuu chino
+  L490   tedeza rize
+## [ ] gochuumon wa usagi desu ka?                             [2]
+
+  L20    victorica de blois
+  L352   victorica de blois
+## [ ] gosick                                                  [2]
+
+  L456   djeeta \(granblue fantasy \)
+  L457   djeeta \(granblue fantasy\)
+  L458   narmaya \(granblue fantasy\)
+  L459   narmaya \(summer\) \(granblue fantasy\)
+  L460   vira \(granblue fantasy\)
+  L461   vira \(summer\) \(granblue fantasy\)
+## [ ] granblue fantasy                                        [6]
+
+  L407   firefly \(honkai: star rail\)
+  L408   fu xuan \(honkai: star rail\)
+  L409   herta \(honkai: star rail\)
+  L410   huohuo \(honkai: star rail\)
+  L411   march 7th \(honkai: star rail\)
+  L412   robin \(honkai: star rail\)
+  L413   seele \(honkai: star rail\)
+  L414   silver wolf \(honkai: star rail\)
+  L415   sparkle \(honkai: star rail\)
+  L416   tingyun \(honkai: star rail\)
+  L417   yunli \(honkai: star rail\)
+  L432   seele vollerei \(herrscher of rebirth\)
+  L433   seele vollerei \(stygian nymph\)
+  L434   bronya zaychik \(herrscher of reason\)
+  L435   bronya zaychik \(black nucleus\)
+  L436   bronya zaychik \(herrscher of reason\)
+  L437   bronya zaychik \(herrscher of truth\)
+  L438   bronya zaychik \(silverwing: n-ex\)
+  L439   elysia \(herrscher of human: ego\) \(honkai impact\)
+  L440   elysia \(honkai impact\)
+  L441   elysia \(summer miss elf\) \(honkai impact\)
+  L442   fu hua \(azure empyrea\)
+  L443   fu hua \(fenghuang of vicissitude\)
+  L444   fu hua \(phoenix\)
+  L445   griseo
+  L446   griseo \(starry impression\)
+  L447   raiden mei \(herrscher of thunder\)
+  L448   raiden mei \(lightning empress\)
+  L449   raiden mei \(valkyrie bladestrike\)
+  L450   seele \(alter ego\)
+  L451   seele vollerei \(herrscher of rebirth\)
+  L452   seele vollerei \(starchasm nyx\)
+  L453   seele vollerei \(stygian nymph\)
+  L454   seele vollerei \(swallowtail phantasm\)
+  L455   seele \(honkai: star rail\)
+## [ ] honkai \(series\)                                       [35]
+
+  L400   huohuo \(honkai: star rail\)
+  L401   sushang \(honkai: star rail\)
+  L402   sparkle \(honkai: star rail \)
+  L403   sparkle \(school uniform \) \(honkai: star rail \)
+  L404   herta \(honkai: star rail \)
+  L405   lynx landau
+  L406   guinaifen \(honkai: star rail \)
+  L418   asta \(honkai: star rail\)
+  L419   bailu \(honkai: star rail\)
+  L420   black swan \(honkai: star rail\)
+  L421   clara \(honkai: star rail\)
+  L422   feixiao \(honkai: star rail\)
+  L423   firefly \(ar-26710\) \(honkai: star rail\)
+  L424   guinaifen \(honkai: star rail\)
+  L425   lingsha \(honkai: star rail\)
+  L426   march 7th \(hunt\) \(honkai: star rail\)
+  L427   qingque \(honkai: star rail\)
+  L428   serval landau
+  L429   sushang \(honkai: star rail\)
+  L430   xueyi \(honkai: star rail\)
+  L431   yukong \(honkai: star rail\)
+## [ ] honkai: star rail                                       [21]
+
+  L320   chitanda eru
+## [ ] hyouka                                                  [1]
+
+  L358   sui \(isekai ojisan\)
+## [ ] isekai ojisan                                           [1]
+
+  L257   fujiwara chika
+  L258   hayasaka ai
+  L259   iino miko
+  L260   shirogane kei
+## [ ] kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~ [4]
+
+  L88    shimakaze \(kancolle\)
+  L363   verniy \(kancolle\)
+  L364   yuudachi kai ni \(kancolle\)
+  L365   atago \(kancolle\)
+  L366   kashima \(kancolle\)
+## [ ] kantai collection                                       [5]
+
+  L236   daki \(kimetsu no yaiba\)
+  L237   kamado nezuko
+  L238   kanroji mitsuri
+  L239   kochou kanae
+  L240   tsuyuri kanao
+## [ ] kimetsu no yaiba                                        [5]
+
+  L13    saikawa riko
+  L261   kanna kamui
+  L262   saikawa riko
+  L263   tohru \(maidragon\)
+## [ ] kobayashi-san chi no maidragon                          [4]
+
+  L19    megumin
+  L210   aqua \(konosuba\)
+  L211   chris \(konosuba\)
+  L212   eris \(konosuba\)
+  L213   iris \(konosuba\)
+  L214   komekko
+  L215   luna \(konosuba\)
+  L216   megumin
+  L217   shinjin succubus \(konosuba\)
+## [ ] kono subarashii sekai ni shukufuku wo!                  [9]
+
+  L18    noumi kudryavka
+  L34    kamikita komari
+  L40    kamikita komari
+  L280   doruji
+  L281   futaki kanata
+  L282   kurugaya yuiko
+  L283   natsume rin
+  L284   noumi kudryavka
+  L285   saigusa haruka
+  L286   sasasegawa sasami
+  L287   tokido saya
+## [ ] little busters!                                         [11]
+
+  L301   kurumi \(lycoris recoil\)
+  L302   nishikigi chisato
+  L303   inoue takina
+## [ ] lycoris recoil                                          [3]
+
+  L476   tomoe mami
+  L477   ultimate madoka
+## [ ] mahou shoujo madoka magica                              [2]
+
+  L475   kaname madoka \(magical girl \)
+## [ ] mahou shoujo madoka magica \(anime \)                   [1]
+
+  L357   shiba miyuki
+## [ ] mahouka koukou no rettousei                             [1]
+
+  L38    elaina \(majo no tabitabi \)
+  L329   elaina \(majo no tabitabi\)
+## [ ] majo no tabitabi                                        [2]
+
+  L54    angelic buster
+  L353   angelic buster
+## [ ] maplestory                                              [2]
+
+  L248   gwenpool
+  L249   spider-gwen
+## [ ] marvel                                                  [2]
+
+  L474   senjougahara hitagi
+## [ ] monogatari \(series\)                                   [1]
+
+  L35    roxy migurdia
+  L36    eris greyrat
+  L288   aisha greyrat
+  L289   elinalise dragonroad
+  L290   eris greyrat
+  L291   roxy migurdia
+## [ ] mushoku tensei                                          [6]
+
+  L243   haruno sakura
+  L244   hyuuga hanabi
+  L245   hyuuga hinata
+## [ ] naruto \(series\)                                       [3]
+
+  L7     compa
+  L218   adult neptune
+  L219   black heart \(neptunia\)
+  L220   black sister
+  L221   blanc \(neptunia\)
+  L222   cyberconnect2
+  L223   histoire
+  L224   if \(neptunia\)
+  L225   neptune \(neptunia\)
+  L226   noire \(neptunia\)
+  L227   orange heart \(neptunia\)
+  L228   pish
+  L229   pururut
+  L230   ram \(neptunia\)
+  L231   uni \(neptunia\)
+  L232   vert \(neptunia\)
+  L233   white heart \(neptunia\)
+## [ ] neptune \(series\)                                      [17]
+
+  L234   2b \(nier:automata\)
+  L235   yonah
+## [ ] nier \(series\)                                         [2]
+
+  L2     shiro \(no game no life\)
+  L9     hatsuse izuna
+  L330   hatsuse izuna
+  L331   jibril \(no game no life\)
+  L332   shiro \(no game no life\)
+  L333   stephanie dora
+## [ ] no game no life                                         [6]
+
+  L143   nami \(one piece\)
+## [ ] one piece                                               [1]
+
+  L3     gokou ruri
+  L29    gokou ruri
+  L253   aragaki ayase
+  L254   gokou ruri
+  L255   hanazawa kana
+  L256   kousaka kirino
+## [ ] ore no imouto ga konna ni kawaii wake ga nai            [6]
+
+  L147   black cat d.va
+  L148   d.va \(overwatch\)
+  L149   kiriko \(overwatch\)
+## [ ] overwatch                                               [3]
+
+  L343   hiiragi shinoa
+  L344   krul tepes
+  L345   krul tepes
+## [ ] owari no seraph                                         [3]
+
+  L462   marnie \(pokemon\)
+  L463   marnie \(summer 2021\) \(pokemon\)
+  L464   misty \(pokemon\)
+  L465   serena \(sygna suit\) \(pokemon\)
+## [ ] pokemon                                                 [4]
+
+  L367   kokkoro \(ceremonial \) \(princess connect! \)
+  L368   kokkoro \(new year \) \(princess connect! \)
+  L369   kokkoro \(princess connect! \)
+  L370   kokkoro \(princess connect!\)
+  L371   kokkoro \(summer\) \(princess connect!\)
+  L372   maho \(princess connect!\)
+  L373   pecorine \(princess connect!\)
+  L374   pecorine \(summer\) \(princess connect!\)
+## [ ] princess connect!                                       [8]
+
+  L27    emilia \(re:zero \)
+  L50    ram \(re:zero \)
+  L189   beatrice \(re:zero\)
+  L190   echidna \(re:zero\)
+  L191   elsa granhilte
+  L192   emilia \(re:zero\)
+  L193   felix argyle
+  L194   felt \(re:zero\)
+  L195   frederica baumann
+  L196   pandora \(re:zero\)
+  L197   petra leyte
+  L198   priscilla barielle
+  L199   puck \(re:zero\)
+  L200   ram \(re:zero\)
+  L201   rem \(re:zero\)
+  L202   theresia van astrea
+## [ ] re:zero kara hajimeru isekai seikatsu                   [16]
+
+  L478   suigintou
+  L479   barasuishou
+  L480   shinku
+  L481   suigintou
+  L482   suiseiseki
+## [ ] rozen maiden                                            [5]
+
+  L361   frey \(rune factory\)
+  L362   toona
+## [ ] rune factory                                            [2]
+
+  L324   sakurajima mai
+## [ ] seishun buta yarou                                      [1]
+
+  L48    carol malus dienheim
+  L241   carol malus dienheim
+  L242   yukine chris
+## [ ] senki zesshou symphogear                                [3]
+
+  L307   alastor \(shakugan no shana\)
+  L308   shana
+## [ ] shakugan no shana                                       [2]
+
+  L251   krista lenz
+  L252   mikasa ackerman
+## [ ] shingeki no kyojin                                      [2]
+
+  L42    inui sajuna
+  L270   inui sajuna
+  L271   kitagawa marin
+  L272   kuroe shizuku
+  L273   rizu-kyun
+## [ ] sono bisque doll wa koi wo suru                         [5]
+
+  L469   frieren
+  L470   fern \(sousou no frieren\)
+## [ ] sousou no frieren                                       [2]
+
+  L250   yor briar
+## [ ] spy x family                                            [1]
+
+  L297   makise kurisu
+## [ ] steins;gate                                             [1]
+
+  L350   himeragi yukina
+## [ ] strike the blood                                        [1]
+
+  L8     yui \(sao\)
+  L16    silica
+  L173   alice zuberg
+  L174   argo the rat
+  L175   asuna \(sao-alo\)
+  L176   asuna \(sao\)
+  L177   asuna \(stacia\)
+  L178   leafa
+  L179   lisbeth \(sao-alo\)
+  L180   llenn \(sao\)
+  L181   pina \(sao\)
+  L182   silica
+  L183   sinon
+  L184   sinon \(sao-alo\)
+  L185   titania \(sao\)
+  L186   yui \(sao-alo\)
+  L187   yuna \(sao\)
+  L188   yuuki \(sao\)
+## [ ] sword art online                                        [18]
+
+  L334   filo \(tate no yuusha no nariagari\)
+  L335   melty q melromarc
+## [ ] tate no yuusha no nariagari                             [2]
+
+  L342   shuna \(tensei shitara slime datta ken\)
+## [ ] tensei shitara slime datta ken                          [1]
+
+  L246   asamiya athena
+  L247   kula diamond
+## [ ] the king of fighters                                    [2]
+
+  L21    yuuki mikan
+  L264   konjiki no yami
+  L265   kurosaki mea
+  L266   master nemesis
+  L267   nana asta deviluke
+## [ ] to love-ru                                              [5]
+
+  L150   frenda seivelun
+  L151   himegami aisa
+  L152   index \(toaru majutsu no index\)
+  L153   kanzaki kaori
+  L154   misaka imouto
+  L155   misaka mikoto
+  L156   saten ruiko
+  L157   shirai kuroko
+  L158   shokuhou misaki
+  L159   suzushina yuriko
+  L160   tsukuyomi komoe
+  L161   uiharu kazari
+## [ ] toaru majutsu no index                                  [12]
+
+  L28    aisaka taiga
+  L300   aisaka taiga
+## [ ] toradora!                                               [2]
+
+  L15    chen
+  L22    reisen udongein inaba
+  L26    hakurei reimu
+  L30    chen
+  L52    komeiji satori
+  L53    inaba tewi
+  L55    fujiwara no mokou
+  L56    hata no kokoro
+  L57    houraisan kaguya
+  L58    alice margatroid
+  L59    cirno
+  L60    clownpiece
+  L61    hieda no akyuu
+  L62    hinanawi tenshi
+  L63    houjuu nue
+  L64    ibaraki kasen
+  L65    inaba tewi
+  L66    inubashiri momiji
+  L67    izayoi sakuya
+  L68    kirisame marisa
+  L69    kishin sagume
+  L70    kochiya sanae
+  L71    komeiji satori
+  L72    koakuma
+  L73    konpaku youmu
+  L74    kudamaki tsukasa
+  L75    maga-reimu
+  L76    lily black
+  L77    luna child
+  L78    medicine melancholy
+  L79    mononobe no futo
+  L80    nazrin
+  L81    niwatari kutaka
+  L82    reisen udongein inaba
+  L83    remilia scarlet
+  L84    tenkyuu chimata
+  L85    watatsuki no yorihime
+  L86    yorigami jo'on
+  L87    yorigami shion
+## [ ] touhou                                                  [39]
+
+  L336   violet evergarden
+## [ ] violet evergarden \(series\)                            [1]
+
+  L466   changli \(wuthering waves \)
+  L467   changli \(wuthering waves\)
+  L468   jinhsi \(wuthering waves\)
+## [ ] wuthering waves                                         [3]
+
+  L144   mythra \(massive melee\) \(xenoblade\)
+  L145   pyra \(xenoblade\)
+## [ ] xenoblade chronicles \(series\)                         [2]
+
+  L292   isshiki iroha
+  L293   yuigahama yui
+  L294   yukinoshita yukino
+## [ ] yahari ore no seishun lovecome wa machigatteiru.        [3]
+
+  L25    kasugano sora
+  L346   kasugano sora
+## [ ] yosuga no sora                                          [2]
+
+  L347   sakayanagi arisu
+  L348   karuizawa kei
+## [ ] youkoso jitsuryoku shijou shugi no kyoushitsu e         [2]
+
+  L162   anby demara
+  L163   belle \(zenless zone zero\)
+  L164   corin wickes
+  L165   ellen joe
+  L166   hoshimi miyabi
+  L167   koleda belobog
+  L168   nekomiya mana
+  L169   nicole demara
+  L170   piper wheel
+  L171   qingyi \(zenless zone zero\)
+  L172   soukaku \(zenless zone zero\)
+## [ ] zenless zone zero                                       [11]
+
+  L23    louise francoise le blanc de la valliere
+  L44    henrietta de tristain
+  L304   henrietta de tristain
+  L305   louise francoise le blanc de la valliere
+  L306   tabitha \(zero no tsukaima\)
+## [ ] zero no tsukaima                                        [5]
+
