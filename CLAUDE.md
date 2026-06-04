@@ -35,11 +35,12 @@
 wildcards/
 ├── XL-pose_SFW_clean.txt          # SFW 姿势（309行）
 ├── XL-pose_NSFW_solo-nude.txt     # 单人裸体姿势（212行）
-├── XL-pose_NSFW_sex.txt           # 性行为姿势（271行）
-├── XL-pose_merged.txt             # 合并版（792行 = SFW+solo-nude+sex）
+├── XL-pose_NSFW_sex.txt           # 性行为姿势（242行，去重后）
+├── XL-pose_merged.txt             # 合并版（763行 = SFW+solo-nude+sex）
 ├── characters_curated.txt         # 角色通配符（精选后，563行）
 ├── series_index.txt               # 角色题材索引（含决策标记）
 ├── CLAUDE.md                      # 本文档
+├── .gitignore                     # Git 忽略规则
 ├── backups/                       # 备份归档
 ├── lora/                          # LoRA 清单
 ├── samples/                       # 示例文件
@@ -48,6 +49,19 @@ wildcards/
 ├── characters_categories/         # 角色分类快照（4系列）
 └── references/                    # tag-crafter skill 参考文档
 ```
+
+### Git 仓库
+
+- 仓库：https://github.com/Lostbules/wildcards
+- 本目录为独立 Git 仓库（非 ComfyUI-Impact-Pack 子仓库）
+- 远程：`origin` → `https://github.com/Lostbules/wildcards`
+- 分支：`master`
+- 推送流程：
+  ```bash
+  git add -A
+  git commit -m "改动说明"
+  git push
+  ```
 
 ---
 
