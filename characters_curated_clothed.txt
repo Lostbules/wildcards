@@ -3,7 +3,7 @@ adult neptune, neptune \(series\), purple eyes, hair between eyes, purple hair, 
 aerith gainsborough \(red dress\), final fantasy, green eyes, brown hair, long hair, wavy hair, sidelocks, parted bangs, ponytail, ringlets, hair flower, hair ribbon, medium breasts, cleavage, red dress, strapless dress, flamenco dress, bare shoulders, red ribbon, bracelet
 aerith gainsborough, final fantasy, green eyes, brown hair, long hair, wavy hair, sidelocks, parted bangs, braided ponytail, hair ribbon, medium breasts, pink dress, cropped jacket, red jacket
 aisaka taiga, toradora!, brown eyes, hair between eyes, brown hair, long hair, oohashi high school uniform
-aisaka taiga,toradora!,oohashi high school uniform,brown eyes,brown hair
+aisaka taiga, toradora!, oohashi high school uniform, brown eyes, brown hair
 aisha greyrat, mushoku tensei, maid, maid apron, maid headdress, green eyes, red hair, short hair, ponytail, black dress, white apron
 aiz wallenstein, dungeon ni deai wo motomeru no wa machigatteiru darou ka, yellow eyes, hair between eyes, blonde hair, long hair, medium breasts, large breasts, armor, silver armor, cape, thigh highs
 alastor \(shakugan no shana\), shakugan no shana, red eyes, red hair, long hair, very long hair, black hair, school uniform, thighhighs, pendant
@@ -38,7 +38,7 @@ aurelia_le_guin, eiyuu densetsu, white_hair, long_hair, braid, crown_braid, purp
 bailu \(honkai: star rail\), honkai: star rail, dragon horns, dragon tail, pointy ears, hair between eyes, blue eyes, aqua eyes, purple hair, long hair, very long hair, blue hair, crossed bangs, ahoge, twin braids, hair tubes, detached sleeves, long sleeves, dragon girl
 barasuishou, rozen maiden, yellow eyes, eyepatch, long hair, very long hair, two side up, gothic lolita, white dress, frilled dress, eyepatch, rose
 barbara \(genshin impact\), genshin impact, blue eyes, hair between eyes, blonde hair, long hair, twintails, medium breasts, hat, white dress, white headwear, bare shoulders, long sleeves, detached sleeves, twin drills
-barbara \(summertime sparkle \) \(genshin impact \),genshin impact,duck,animal bag,casual one-piece swimsuit,sailor hat,blue choker,blue eyes,drill hair
+barbara \(summertime sparkle \) \(genshin impact \), genshin impact, duck, animal bag, casual one-piece swimsuit, sailor hat, blue choker, blue eyes, drill hair
 barbara \(summertime sparkle\) \(genshin impact\), genshin impact, blue eyes, hair between eyes, blonde hair, long hair, twintails, hair flower, thighs, thigh strap, sailor hat, casual one-piece swimsuit, blue one-piece swimsuit, white headwear, detached sleeves, long sleeves, bare shoulders, blue sailor collar, bowtie, blue choker, bag, twin drills, duck
 beatrice (court mage), re:zero kara hajimeru isekai seikatsu, loli, blue eyes, symbol-shaped pupils, butterfly-shaped pupils, blonde hair, long hair, sidelocks, twintails, hair ribbon, red capelet, striped thighhighs, fur-trimmed capelet, long sleeves, twin drills, mini crown
 beatrice \(re:zero\), re:zero kara hajimeru isekai seikatsu, loli, blue eyes, symbol-shaped pupils, butterfly-shaped pupils, blonde hair, long hair, sidelocks, twintails, hair ribbon, red capelet, striped clothes, fur-trimmed capelet, long sleeves, twin drills, mini crown
@@ -55,32 +55,31 @@ bronya zaychik \(herrscher of truth\), honkai \(series\), grey eyes, hair betwee
 bronya zaychik \(silverwing: n-ex\), honkai \(series\), grey eyes, hair between eyes, grey hair, long hair, drill hair, very long hair, large breasts, cleavage, black gloves, white dress, bare shoulders, twin drills
 cai lin \(doupo cangqiong\), doupo cangqiong, pointy ears, red eyes, long hair, black hair, brown hair, hair ornament, red dress, earrings
 carol malus dienheim, senki zesshou symphogear, shiny skin, blue eyes, mole under eye, blonde hair, long hair, braided ponytail, large breasts, elbow gloves
-carol malus dienheim,senki zesshou symphogear,sideless outfit,side cutout,braided ponytail,aged up,mole under eye,blue eyes,drill hair
+carol malus dienheim, senki zesshou symphogear, sideless outfit, side cutout, braided ponytail, aged up, mole under eye, blue eyes, drill hair
 cecile_neues, eiyuu densetsu, brown_hair, braid, green_eyes, pantyhose, mature_female, nurse uniform, white dress, nurse cap
 changli \(wuthering waves\), wuthering waves, hair between eyes, yellow eyes, white pupils, pink hair, white hair, two-tone hair, very long hair, twin braids, ahoge, hair intakes, hair ornament, hair bow, large breasts, cleavage, thigh strap, white dress, black jacket, bare shoulders, black collar, halterneck, black bow, black sleeves, colored extremities, body markings
-chen,touhou,multiple tails,nekomata,two tails,animal ear piercing,mob cap,brown eyes,brown hair
+chen, touhou, multiple tails, nekomata, two tails, animal ear piercing, mob cap, brown eyes, brown hair
 cheshire \(azur lane\), azur lane, maid, maid headdress, fake animal ears, aqua eyes, blue eyes, streaked hair, black hair, two-tone hair, short hair, aqua hair, blue hair, large breasts, cleavage, white thighhighs, bare shoulders, wrist cuffs
-cheshire \(summery date!\) \(azur lane\), azur lane, skin fang, cat ears, fake animal ears, aqua eyes, blue eyes, eyewear on head, streaked hair, black hair, short hair, two-tone hair, aqua hair, blunt bangs, large breasts, cleavage, thighs, navel, purple bikini, strapless bikini, sunglasses, bare shoulders, frills, arm garter, bridal garter, stomach, beach, sarong
+cheshire \(summery date!\) \(azur lane\), azur lane, skin fang, cat ears, fake animal ears, aqua eyes, blue eyes, streaked hair, black hair, short hair, two-tone hair, aqua hair, blunt bangs, large breasts, cleavage, thighs, navel, purple bikini, strapless bikini, bare shoulders, frills, arm garter, bridal garter, stomach, beach, sarong
 cheshire cat \(alice in wonderland\), alice in wonderland, cat ears, cat tail, blue eyes, long hair, blonde hair, striped clothes, cat
 chevreuse \(genshin impact\), genshin impact, holding gun, mole under mouth, purple eyes, hair between eyes, white pupils, eyepatch, purple hair, very long hair, streaked hair, white hair, two-tone hair, pointy hair, crossed bangs, sidelocks, shako cap, white gloves, red dress, black headwear, two-tone dress, black dress, strapless dress, bare shoulders, puffy detached sleeves, detached collar, black necktie, earmuffs around neck, earmuffs, gold trim
 chitanda eru, hyouka, purple eyes, black hair, long hair, serafuku, kamiyama high school uniform \(hyouka\)
 chris \(konosuba\), kono subarashii sekai ni shukufuku wo!, purple eyes, hair between eyes, short hair, grey hair, small breasts, navel, scar on cheek, black gloves
 cirno, touhou, blue eyes, blue hair, short hair, hair bow, blue dress, blue bow, ice wings, wings
 clara \(honkai: star rail\), honkai: star rail, red eyes, hair between eyes, pink eyes, white hair, long hair, grey hair, very long hair, sidelocks, hair intakes, feet, legs, barefoot, red jacket, red coat, long sleeves
-clownpiece, touhou, red eyes, blonde hair, very long hair, long hair, jester cap, american flag dress, striped clothes, short sleeves, fairy wings, neck ruff
 collei \(genshin impact\), genshin impact, purple eyes, hair between eyes, green hair, medium hair, long hair, ahoge, crossed bangs, hair ornament, green capelet, detached sleeves
 compa, neptune \(series\), nurse uniform, nurse cap, white dress
 corin wickes, zenless zone zero, maid, maid headdress, maid apron, purple eyes, hair between eyes, screw hair ornament, green hair, long hair, twintails, black dress, white apron, puffy short sleeves
-cyberconnect2, neptune \(series\), tail, animal ears, green eyes, goggles, blonde hair, short hair, navel, hat, gloves, crop top
+cyberconnect2, neptune \(series\), tail, animal ears, green eyes, blonde hair, short hair, navel, hat, gloves, crop top
 d.va \(overwatch\), overwatch, lips, pink lips, brown eyes, brown hair, long hair, swept bangs, medium breasts, pilot suit, headphones, white gloves, whisker markings, facepaint
 daki \(kimetsu no yaiba\), kimetsu no yaiba, green eyes, yellow eyes, text in eyes, eyelashes, white hair, very long hair, long hair, black hair, green hair, hair stick, large breasts, kimono, obi, wide sleeves, japanese clothes, long sleeves
 dekomori sanae, chuunibyou demo koi ga shitai!, blue eyes, blonde hair, long hair, twintails, icho private high school uniform
 diona \(genshin impact\), genshin impact, cat girl, loli, cat ears, animal ear fluff, cat tail, green eyes, thick eyebrows, pink hair, short hair, bangs pinned back, navel, hat, detached sleeves
-djeeta \(granblue fantasy \),granblue fantasy,pink hairband,gauntlets,pink dress,hairband,thigh boots,brown eyes
-dori \(genshin impact\), genshin impact, yellow eyes, hair between eyes, red-tinted eyewear, pink hair, short hair with long locks, sidelocks, ahoge, navel, sunglasses, hat, purple headwear, purple pants, black shirt, detached sleeves, bare shoulders, long sleeves, white sleeves, vision \(genshin impact\), crop top, pince-nez, midriff
+djeeta \(granblue fantasy \), granblue fantasy, pink hairband, gauntlets, pink dress, hairband, thigh boots, brown eyes
+dori \(genshin impact\), genshin impact, yellow eyes, hair between eyes, pink hair, short hair with long locks, sidelocks, ahoge, navel, hat, purple headwear, purple pants, black shirt, detached sleeves, bare shoulders, long sleeves, white sleeves, vision \(genshin impact\), crop top, midriff
 doruji, little busters!, red eyes, brown hair, long hair, very long hair, ponytail, school uniform, cat
 echidna \(re:zero\), re:zero kara hajimeru isekai seikatsu, hair between eyes, purple eyes, colored eyelashes, white hair, very long hair, long hair, butterfly hair ornament, medium breasts, large breasts, black dress, black capelet, long sleeves
-elaina \(majo no tabitabi \),majo no tabitabi,open robe,black robe,witch,yellow bowtie,hair between eyes,white hair
+elaina \(majo no tabitabi \), majo no tabitabi, open robe, black robe, witch, yellow bowtie, hair between eyes, white hair
 elaina \(majo no tabitabi\), majo no tabitabi, hair between eyes, blue eyes, purple eyes, long hair, white hair, grey hair, ahoge, black robe, witch hat, white shirt, black headwear, collared shirt, long sleeves, witch
 elie_macdowell, eiyuu densetsu, silver_hair, long_hair, green_eyes, white_shirt, orange_skirt, jacket, black_hairband, ascot, black_pantyhose, pumps
 elie_macdowell, eiyuu densetsu, silver_hair, long_hair, green_eyes, white_shirt, orange_skirt, jacket, thigh_boots, black_hairband, ascot
@@ -94,7 +93,7 @@ elysia \(herrscher of human: ego\) \(honkai impact\), honkai \(series\), pink ey
 elysia \(honkai impact\), honkai \(series\), blue eyes, hair between eyes, pink eyes, purple eyes, pink hair, very long hair, long hair, hair ornament, large breasts, cleavage, bare shoulders, elf
 elysia \(summer miss elf\) \(honkai impact\), honkai \(series\), blue eyes, hair between eyes, pink pupils, pink hair, very long hair, long hair, white hairband, large breasts, cleavage, legs, navel, white bikini, bikini skirt, see-through sleeves, pearl necklace, elf, white headband
 emilia (white robe), re:zero kara hajimeru isekai seikatsu, pointy ears, purple eyes, long hair, white hair, grey hair, very long hair, x hair ornament, crown braid, blunt bangs, hair flower, hair ribbon, medium breasts, cleavage, bare shoulders, purple ribbon, elf, white thighhighs
-emilia \(re:zero \),re:zero kara hajimeru isekai seikatsu,crown braid,purple ribbon,white rose,green gemstone,x hair ornament,purple eyes
+emilia \(re:zero \), re:zero kara hajimeru isekai seikatsu, crown braid, purple ribbon, white rose, green gemstone, x hair ornament, purple eyes
 emilia \(re:zero\), re:zero kara hajimeru isekai seikatsu, pointy ears, purple eyes, long hair, white hair, grey hair, very long hair, x hair ornament, crown braid, blunt bangs, hair flower, hair ribbon, medium breasts, cleavage, bare shoulders, purple ribbon, elf
 emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, blue_eyes, kimono, pink_kimono, argyle_kimono, argyle_clothes, japanese_clothes, fur_trim, fur-trimmed_kimono, obi, wide_sleeves
 emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, braided_ponytail, blue_eyes, dress, purple_dress, staff, mage_staff
@@ -106,7 +105,7 @@ estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, armo
 estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, waitress, white_apron, apron, blue_dress, dress, red_bowtie, bowtie, white_ribbon, ribbon, puffy_short_sleeves, puffy_sleeves, short_sleeves, white_wrist_cuffs, wrist_cuffs
 faruzan \(cafe\) \(genshin impact\), genshin impact, maid, maid headdress, maid apron, green eyes, triangle-shaped pupils, symbol-shaped pupils, aqua hair, long hair, x hair ornament, twintails, white apron, white thighhighs, puffy short sleeves, wrist cuffs, white wrist cuffs
 faruzan \(genshin impact\), genshin impact, green eyes, symbol-shaped pupils, triangle-shaped pupils, aqua hair, long hair, x hair ornament, twintails, small breasts, white dress, bare shoulders, bracelet
-feixiao \(honkai: star rail\), honkai: star rail, fox girl, fox ears, animal ears, green eyes, long hair, white hair, grey hair, very long hair, parted bangs, ponytail, high ponytail, large breasts, chinese clothes, earrings,  eyeliner, red eyeliner
+feixiao \(honkai: star rail\), honkai: star rail, fox girl, fox ears, animal ears, green eyes, long hair, white hair, grey hair, very long hair, parted bangs, ponytail, high ponytail, large breasts, chinese clothes, earrings, eyeliner, red eyeliner
 felix argyle, re:zero kara hajimeru isekai seikatsu, 1boy, cat boy, cat ears, cat tail, brown eyes, yellow eyes, hair between eyes, thick eyebrows, short eyebrows, short hair, brown hair, bob cut, parted bangs, hair bow, hair ribbon, collarbone, striped clothes, vertical-striped clothes, bare shoulders, white bow, detached sleeves, blue choker, blue ribbon
 felt \(re:zero\), re:zero kara hajimeru isekai seikatsu, fang, red eyes, hair between eyes, blonde hair, short hair, braid, ponytail, hair bow, small breasts, navel, red scarf, brown gloves, black bow
 fern \(sousou no frieren\), sousou no frieren, purple eyes, purple hair, long hair, straight hair, blunt bangs, sidelocks, large breasts, white dress, long sleeves
@@ -119,7 +118,7 @@ firefly \(ar-26710\) \(honkai: star rail\), honkai: star rail, purple eyes, hair
 firefly \(honkai: star rail\), honkai \(series\), hair between eyes, purple eyes, grey hair, long hair, black hairband, hair intakes, white shirt, black jacket, long sleeves
 fischl \(ein immernachtstraum\) \(genshin impact\), genshin impact, red eyes, hair over one eye, blonde hair, long hair, hair ribbon, purple dress, white thighhighs, bare shoulders, detached sleeves, long sleeves, tiara
 fischl \(genshin impact\), genshin impact, green eyes, hair over one eye, eyepatch, blonde hair, long hair, two side up, hair ribbon, medium breasts, small breasts, bare shoulders
-focalors \(genshin impact \),genshin impact,drop-shaped pupils,gradient dress,barefoot sandals \(jewelry \),blue brooch,cowlick,hair between eyes,streaked hair
+focalors \(genshin impact \), genshin impact, drop-shaped pupils, gradient dress, barefoot sandals \(jewelry \), blue brooch, cowlick, hair between eyes, streaked hair
 formidable \(azur lane\), azur lane, red eyes, very long hair, grey hair, twintails, hair ribbon, large breasts, cleavage, between breasts, black dress, frilled dress, bare shoulders, two-tone ribbon
 frederica baumann, re:zero kara hajimeru isekai seikatsu, maid, maid headdress, sharp teeth, green eyes, hair between eyes, thick eyebrows, blonde hair, long hair, very long hair, large breasts, medium breasts, cleavage, roswaal mansion maid uniform, black ribbon
 frenda seivelun, toaru majutsu no index, blue eyes, blonde hair, long hair, beret
@@ -139,28 +138,28 @@ futaba hotaru, fatal fury, blue eyes, blue hair, long hair, low twintails, ahoge
 futaki kanata, little busters!, yellow eyes, hair between eyes, brown eyes, purple hair, long hair, very long hair, ahoge, side ponytail, hair bobbles, school uniform, little busters! school uniform, pink bow, half updo
 gabriel tenma white, gabriel dropout, blue eyes, blonde hair, very long hair, long hair, messy hair, ahoge, track jacket
 ganyu \(genshin impact\), genshin impact, goat horns, horns, purple eyes, hair between eyes, blue hair, long hair, ahoge, sidelocks, medium breasts, large breasts, thighs, black gloves, bare shoulders, detached sleeves, neck bell, bodystocking
-ganyu \(twilight blossom \) \(genshin impact \),genshin impact,gradient dress,sideless dress,goat horns,gradient clothes,see-through cleavage,purple eyes,official alternate hairstyle
+ganyu \(twilight blossom \) \(genshin impact \), genshin impact, gradient dress, sideless dress, goat horns, gradient clothes, see-through cleavage, purple eyes, official alternate hairstyle
 ganyu \(twilight blossom\) \(genshin impact\), genshin impact, goat horns, purple eyes, blue hair, long hair, official alternate hairstyle, ahoge, sidelocks, large breasts, medium breasts, thighs, blue dress, black gloves, sleeveless dress, black dress, bare shoulders, detached sleeves, long sleeves
-gokou ruri,ore no imouto ga konna ni kawaii wake ga nai,gothic lolita,hime cut,lolita fashion,purple rose,mole under eye,purple eyes,black hair
+gokou ruri, ore no imouto ga konna ni kawaii wake ga nai, gothic lolita, hime cut, lolita fashion, purple rose, mole under eye, purple eyes, black hair
 gotoh hitori, bocchi the rock!, blue eyes, hair between eyes, pink hair, long hair, cube hair ornament, large breasts, pink jacket, track jacket, long sleeves, one side up
 griseo \(starry impression\), honkai \(series\), purple eyes, hair between eyes, blue hair, long hair, very long hair, ahoge, twintails, hair ornament, barefoot, white dress, black headwear, bare shoulders, beret
 griseo, honkai \(series\), purple eyes, hair between eyes, blue hair, long hair, very long hair, ahoge, twintails, hair ornament, large breasts, white dress, bare shoulders, beret
 gu yuena, douluo dalu, purple eyes, white hair, long hair, very long hair, grey hair, large breasts, white dress, bare shoulders
 guild girl \(goblin slayer!\), goblin slayer!, brown eyes, hair between eyes, yellow eyes, long hair, brown hair, blonde hair, single braid, large breasts, white shirt, black skirt, long sleeves
-guinaifen \(honkai: star rail \),honkai: star rail,partially fingerless gloves,orange hair,red dress,chinese clothes,side ponytail,orange eyes
+guinaifen \(honkai: star rail \), honkai: star rail, partially fingerless gloves, orange hair, red dress, chinese clothes, side ponytail, orange eyes
 guinaifen \(honkai: star rail\), honkai: star rail, hair between eyes, yellow eyes, orange eyes, orange hair, long hair, very long hair, ponytail, side ponytail, hair flower, large breasts, medium breasts, chinese clothes, black gloves, bare shoulders, detached sleeves
 guizhong \(genshin impact\), genshin impact, blue eyes, grey hair, short hair with long locks, long hair, tassel hair ornament, sidelocks, thighs, white dress, bare shoulders, detached sleeves, sleeves past fingers, long sleeves, wide sleeves
 gwenpool, marvel, blue eyes, blonde hair, pink hair, short hair, two-tone hair, gradient hair, medium breasts, large breasts, pink leotard, katana, superhero costume
-hakurei reimu,touhou,hair tubes,frilled bow,ribbon-trimmed sleeves,ascot,brown eyes
+hakurei reimu, touhou, hair tubes, frilled bow, ribbon-trimmed sleeves, ascot, brown eyes
 hanazawa kana, ore no imouto ga konna ni kawaii wake ga nai, red eyes, long hair, short hair, school uniform, serafuku, ribbon
 haruno sakura, naruto \(series\), green eyes, pink hair, short hair, red cheongsam, chinese dress, sandals
 hata no kokoro, touhou, pink eyes, pink hair, very long hair, long hair, plaid shirt, fox mask, bubble skirt, long sleeves
 hayasaka ai (winter uniform), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~, blue eyes, hair between eyes, blonde hair, long hair, side ponytail, sidelocks, hair scrunchie, medium breasts, large breasts, thighs, collarbone, shuuchiin academy school uniform, white shirt, blue nails, nail polish, blue scrunchie, black pantyhose
 hayasaka ai, kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~, blue eyes, hair between eyes, blonde hair, long hair, side ponytail, sidelocks, hair scrunchie, medium breasts, large breasts, thighs, collarbone, shuuchiin academy school uniform, white shirt, blue nails, nail polish, blue scrunchie
 henrietta de tristain, zero no tsukaima, blue eyes, purple hair, short hair, large breasts, crown
-henrietta de tristain,zero no tsukaima,pentacle,princess,crown,tiara,lingerie,pink eyes,purple hair
+henrietta de tristain, zero no tsukaima, pentacle, princess, crown, tiara, lingerie, pink eyes, purple hair
 herta \(honkai: star rail\), honkai \(series\), purple eyes, brown hair, very long hair, long hair, hair intakes, hair flower, black headwear, white dress, hat flower, long sleeves, shoulder cutout, purple choker, key necklace, beret, key, chain, lock, black hat
-hestia \(danmachi \),dungeon ni deai wo motomeru no wa machigatteiru darou ka,rei no himo,pencil dress,hestia \(danmachi \) \(cosplay \),arm ribbon,blue ribbon,blue eyes,hair ribbon
+hestia \(danmachi \), dungeon ni deai wo motomeru no wa machigatteiru darou ka, rei no himo, pencil dress, hestia \(danmachi \) \(cosplay \), arm ribbon, blue ribbon, blue eyes, hair ribbon
 hestia \(danmachi\), dungeon ni deai wo motomeru no wa machigatteiru darou ka, blue eyes, black hair, long hair, very long hair, twintails, hair ribbon, large breasts, cleavage, cleavage cutout, white gloves, white dress, pencil dress, blue ribbon, rei no himo
 hieda no akyuu, touhou, purple eyes, purple hair, short hair, hair flower, kimono
 high elf archer \(goblin slayer!\), goblin slayer!, green eyes, hair between eyes, green hair, long hair, sidelocks, hair bow, small breasts, black bow, elf
@@ -176,11 +175,11 @@ histoire, neptune \(series\), blue eyes, hair between eyes, blonde hair, long ha
 hoshimi miyabi, zenless zone zero, fox girl, fox ears, animal ear fluff, red eyes, black hair, long hair, very long hair, blunt bangs, sidelocks, large breasts, white shirt, black skirt, black gloves, aqua jacket, collared shirt, black necktie, half updo
 hoshino \(blue archive\), blue archive, heterochromia, fang, blue eyes, hair between eyes, yellow eyes, pink hair, very long hair, long hair, ahoge, low twintails, small breasts, white shirt, halo, pink halo, long sleeves
 hoshino \(flowery charms\) \(blue archive\), blue archive, heterochromia, fang, hair between eyes, blue eyes, yellow eyes, pink hair, long hair, very long hair, official alternate hairstyle, star hair ornament, double bun, ahoge, huge ahoge, medium bangs, small breasts, thighs, barefoot, china dress, white dress, halo, pink halo, short sleeves
-hoshino \(swimsuit \) \(blue archive \),blue archive,blue-tinted eyewear,white-framed eyewear,frilled bikini,yellow eyes,hair bobbles
-hoshino \(swimsuit\) \(blue archive\), blue archive, heterochromia, fang, blue eyes, yellow eyes, hair between eyes, eyewear on head, blue-tinted eyewear, pink hair, very long hair, long hair, ahoge, low twintails, hair bobbles, small breasts, navel, collarbone, white bikini, frilled bikini, sunglasses, blue jacket, open jacket, halo, pink halo, long sleeves
+hoshino \(swimsuit \) \(blue archive \), blue archive, frilled bikini, yellow eyes, hair bobbles
+hoshino \(swimsuit\) \(blue archive\), blue archive, heterochromia, fang, blue eyes, yellow eyes, hair between eyes, pink hair, very long hair, long hair, ahoge, low twintails, hair bobbles, small breasts, navel, collarbone, white bikini, frilled bikini, blue jacket, open jacket, halo, pink halo, long sleeves
 houraisan kaguya, touhou, red eyes, black hair, long hair, very long hair, long sleeves, hime cut
 hu tao \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, twintails, thighs, hat flower, black headwear, long sleeves, black nails, nail polish, ghost
-hu tao \(lawson\) \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, unworn eyewear, eyewear hang, brown hair, very long hair, long hair, blue hairband, twintails, sidelocks, blue jacket, blue skirt, open jacket, pleated skirt, sunglasses, white shirt, black pantyhose, off-shoulder shirt, long sleeves, black nails, nail polish
+hu tao \(lawson\) \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, blue hairband, twintails, sidelocks, blue jacket, blue skirt, open jacket, pleated skirt, white shirt, black pantyhose, off-shoulder shirt, long sleeves, black nails, nail polish
 huohuo \(honkai: star rail\), honkai \(series\), fox girl, fox ears, fox tail, green eyes, paw-shaped pupils, symbol-shaped pupils, green hair, long hair, yin yang hair ornament, ahoge, hair ornament, hat, long sleeves, bare shoulders, yin yang
 hyuuga hanabi, naruto \(series\), purple eyes, hair between eyes, long hair, black hair, brown hair, very long hair, large breasts, collarbone, kimono, hyuuga robe, traditional, sandals
 hyuuga hinata, naruto \(series\), purple eyes, black hair, long hair, short hair, blunt bangs, large breasts, ninja outfit, fishnet shirt, mesh armor, sandals, headband
@@ -190,12 +189,12 @@ iino miko, kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~, brown ey
 ijichi nijika, bocchi the rock!, red eyes, blonde hair, long hair, very long hair, side ponytail, ahoge, sidelocks, school uniform, white shirt, collared shirt, long sleeves
 ijichi seika, bocchi the rock!, red eyes, blonde hair, long hair, very long hair, ahoge, collarbone, long sleeves, black choker
 ilya_platiere, eiyuu densetsu, blonde_hair, wavy_hair, long_hair, purple_eyes, fishnet_thighhighs, garter_straps, mature_female, elegant dress, evening gown, long gloves
-inaba tewi,touhou,carrot necklace,carrot,floppy ears,rabbit girl,rabbit ears,red eyes,purple hair, pink dress, rabbit ears, carrot necklace
+inaba tewi, touhou, carrot necklace, carrot, floppy ears, rabbit girl, rabbit ears, red eyes, purple hair, pink dress, rabbit ears, carrot necklace
 index \(toaru majutsu no index\), toaru majutsu no index, nun, green eyes, long hair, blue hair, grey hair, habit, safety pin, white dress
 inoue takina, lycoris recoil, purple eyes, black hair, long hair, lycoris uniform, blue dress, white shirt, long sleeves, neck ribbon
 inubashiri momiji, touhou, wolf ears, wolf tail, red eyes, short hair, white hair, tokin hat, pom pom \(clothes\), detached sleeves
+inui sajuna, sono bisque doll wa koi wo suru, borrowed clothes, red sailor collar, black flower, crossed bangs, yellow bow, pink eyes, pink hair
 inui sajuna, sono bisque doll wa koi wo suru, hair between eyes, pink eyes, purple eyes, long hair, pink hair, crossed bangs, two side up, small breasts, thighs, collarbone, white shirt, short sleeves
-inui sajuna,sono bisque doll wa koi wo suru,borrowed clothes,red sailor collar,black flower,crossed bangs,yellow bow,pink eyes,pink hair
 irie miyuki, angel beats!, purple eyes, hair between eyes, purple hair, long hair, very long hair, shinda sekai sensen uniform, serafuku, white shirt, long sleeves
 iris \(konosuba\), kono subarashii sekai ni shukufuku wo!, blue eyes, hair between eyes, blonde hair, long hair, grape hair ornament, single braid, side braid, small breasts, navel, princess dress, white dress, royal attire, tiara, long gloves
 isshiki iroha (winter uniform), yahari ore no seishun lovecome wa machigatteiru., brown eyes, yellow eyes, brown hair, medium hair, short hair, medium breasts, collarbone, sobu high school uniform, black pantyhose
@@ -203,7 +202,7 @@ isshiki iroha, yahari ore no seishun lovecome wa machigatteiru., brown eyes, yel
 itsuka kotori, date a live, red eyes, hair between eyes, red hair, very long hair, long hair, twintails, ahoge, hair ribbon, small breasts, shrine maiden outfit, white ribbon, red hakama
 izayoi sakuya, touhou, maid, maid headdress, blue eyes, grey hair, short hair, twin braids
 izumi sagiri, eromanga sensei, blue eyes, grey hair, long hair, low-tied long hair, hair bow, small breasts, pink bow
-izumi sagiri,eromanga sensei,pink bow,pajamas,aqua eyes,low-tied long hair
+izumi sagiri, eromanga sensei, pink bow, pajamas, aqua eyes, low-tied long hair
 jibril \(no game no life\), no game no life, angel, angel wings, wing ears, bird ears, yellow eyes, orange eyes, symbol-shaped pupils, pink hair, very long hair, gradient hair, long hair, large breasts, sideboob, navel, tattoo, gloves, spiked halo, feathered wings, low wings, white wings, midriff, crop top, cross
 jinhsi \(wuthering waves\), wuthering waves, grey eyes, white pupils, white hair, very long hair, twintails, two side up, medium breasts, large breasts, mole on cheek, black dress, white bow, earrings
 juna_crawford, eiyuu densetsu, pink_hair, short_hair, green_eyes, pink_dress, alternate_costume
@@ -212,10 +211,10 @@ juna_crawford, eiyuu densetsu, pink_hair, short_hair, green_eyes, school_uniform
 kafuu chino (rabbit house), gochuumon wa usagi desu ka?, blue eyes, hair between eyes, blue hair, long hair, very long hair, x hair ornament, blue dress, white apron, white thighhighs, maid headdress, puffy short sleeves
 kagarino kirie, bishoujo mangekyou, red eyes, blue eyes, white hair, long hair, very long hair, twintails, hair ribbon, small breasts, black dress, gothic, detached sleeves, choker, frills
 kamado nezuko \(kimetsu no yaiba\), kimetsu no yaiba, pink eyes, black hair, very long hair, gradient hair, brown hair, two-tone hair, long hair, hair ribbon, kimono, haori, obi, japanese clothes, long sleeves
-kamikita komari,little busters!,little busters! school uniform,long ribbon,yellow sweater,pink bow,star hair ornament,eyes visible through hair
+kamikita komari, little busters!, little busters! school uniform, long ribbon, yellow sweater, pink bow, star hair ornament, eyes visible through hair
 kamisato ayaka \(heytea\), genshin impact, blue eyes, mole under eye, long hair, white hair, light blue hair, very long hair, ponytail, blunt bangs, sidelocks, high ponytail, hair bow, medium breasts, serafuku, white shirt, pleated skirt, blue skirt, long sleeves, white sailor collar, tress ribbon, blunt tresses, blue neckerchief
 kamisato ayaka \(springbloom missive\), genshin impact, blue eyes, mole under eye, official alternate hairstyle, light blue hair, butterfly hair ornament, blunt bangs, braid, hair flower, medium breasts, blue dress, brown headwear, multicolored dress, puffy long sleeves, white collar, blunt tresses
-kaname madoka \(magical girl \),mahou shoujo madoka magica \(anime \),bubble skirt,magical girl,short twintails,red choker,pink eyes,drill hair
+kaname madoka \(magical girl \), mahou shoujo madoka magica \(anime \), bubble skirt, magical girl, short twintails, red choker, pink eyes, drill hair
 kanna kamui, kobayashi-san chi no maidragon, loli, dragon horns, tail, blue eyes, long hair, purple hair, gradient hair, light purple hair, blunt bangs, low twintails, twintails, hair beads, hairband, white thighhighs, dragon girl, school uniform, randoseru, backpack
 kanroji mitsuri \(kimetsu no yaiba\), kimetsu no yaiba, green eyes, hair between eyes, mole under eye, mole under each eye, pink hair, green hair, gradient hair, long hair, two-tone hair, twin braids, tri braids, large breasts, green thighhighs, demon slayer uniform, long sleeves
 kanzaki kaori, toaru majutsu no index, purple eyes, very long hair, black hair, purple hair, long hair, ponytail, hair ribbon, large breasts, navel, katana, midriff, crop top, single pantsleg, sheathed
@@ -237,14 +236,13 @@ koakuma, touhou, demon wings, red eyes, red hair, long hair, large breasts, head
 kochiya sanae, touhou, green eyes, green hair, long hair, frog hair ornament, snake hair ornament, hair tubes, large breasts, detached sleeves, snake
 kochou kanae \(kimetsu no yaiba\), kimetsu no yaiba, purple eyes, black hair, long hair, very long hair, purple hair, butterfly hair ornament, medium breasts, demon slayer uniform, haori, long sleeves
 kochou shinobu \(kimetsu no yaiba\), kimetsu no yaiba, purple eyes, black hair, long hair, purple hair, gradient hair, butterfly hair ornament, small breasts, demon slayer uniform, haori, long sleeves
-kokkoro \(ceremonial \) \(princess connect! \),princess connect!,white bridal gauntlets,cone hair bun,bridal gauntlets,elf,antenna hair,eyes visible through hair
-kokkoro \(new year \) \(princess connect! \),princess connect!,two-tone kimono,gourmet guild \(princess connect! \),green hakama,green kimono,miko,pink eyes,antenna hair
-kokkoro \(princess connect! \),princess connect!,gourmet guild \(princess connect! \),see-through sleeves,elf,antenna hair,green dress,pink eyes
+kokkoro \(ceremonial \) \(princess connect! \), princess connect!, white bridal gauntlets, cone hair bun, bridal gauntlets, elf, antenna hair, eyes visible through hair
+kokkoro \(new year \) \(princess connect! \), princess connect!, two-tone kimono, gourmet guild \(princess connect! \), green hakama, green kimono, miko, pink eyes, antenna hair
+kokkoro \(princess connect! \), princess connect!, gourmet guild \(princess connect! \), see-through sleeves, elf, antenna hair, green dress, pink eyes
 kokkoro \(princess connect!\), princess connect!, hair between eyes, red eyes, pink eyes, purple eyes, short hair, antenna hair, grey hair, white hair, hair flower, small breasts, bare shoulders, detached sleeves, elf
 kokkoro \(summer\) \(princess connect!\), princess connect!, hair between eyes, red eyes, purple eyes, pink eyes, short hair, antenna hair, grey hair, white hair, hair flower, small breasts, covered navel, collarbone, casual one-piece swimsuit, white one-piece swimsuit, frilled one-piece swimsuit, green one-piece swimsuit, bare shoulders, frills, elf, armlet
 koleda belobog, zenless zone zero, bear ears, sharp teeth, fake animal ears, red eyes, hair between eyes, eyepatch, red hair, very long hair, long hair, twintails, ahoge, small breasts, navel, fingerless gloves, black gloves, white pants, bare shoulders, midriff, crop top
 komeiji satori, touhou, pink eyes, purple eyes, third eye, short hair, pink hair, purple hair, hairband, long sleeves, eyeball, heart
-komekko, kono subarashii sekai ni shukufuku wo!, red eyes, black hair, short hair, brown hair, star hair ornament, low twintails, short twintails, white shirt, suspender skirt, long sleeves, child
 konjiki no yami, to love-ru, red eyes, blonde hair, very long hair, long hair, two side up, hair intakes, small breasts, thigh strap
 konpaku youmu, touhou, blue eyes, short hair, white hair, grey hair, black hairband, hair ribbon, green dress, hakama, white shirt, ribbon
 kousaka kirino, ore no imouto ga konna ni kawaii wake ga nai, blue eyes, aqua eyes, long hair, orange hair, blonde hair, hairclip, kousaka kirino's school uniform
@@ -255,7 +253,7 @@ kula diamond, the king of fighters, red eyes, long hair, blue hair, medium breas
 kuroe shizuku, sono bisque doll wa koi wo suru, purple eyes, purple hair, short hair, medium hair, black hair, blunt bangs, hair flower, large breasts, cleavage, black dress, frilled dress, long sleeves, black necktie, detached collar, frilled sleeves, nail polish, gothic lolita, bonnet, wig, chain leash
 kurosaki mea, to love-ru, blue eyes, hair between eyes, red hair, very long hair, ahoge, braid, hair ornament, medium breasts, small breasts, navel, school uniform, serafuku, ribbon, knee socks
 kurugaya yuiko, little busters!, purple eyes, black hair, long hair, very long hair, hair ribbon, large breasts, cleavage, school uniform, little busters! school uniform
-latifa fleuranza,amagi brilliant park,tiara,drill hair,red bikini,twin drills,blue eyes
+latifa fleuranza, amagi brilliant park, tiara, drill hair, red bikini, twin drills, blue eyes
 laura_s_arseid, eiyuu densetsu, blue_hair, long_hair, ponytail, yellow_eyes, double-parted_bangs, hair_between_eyes, blue_jacket, cropped_jacket, fingerless_gloves, black_gloves, shorts, garter_straps, thigh_boots, white_boots, high_heels, sword, large_breasts, tall_female
 laura_s_arseid, eiyuu densetsu, blue_hair, long_hair, ponytail, yellow_eyes, double-parted_bangs, hair_between_eyes, yellow_ascot, blue_gloves, fingerless_gloves, black_thighhighs, lace-trimmed_thighhighs, boots, sword, large_breasts, tall_female
 laura_s_arseid, eiyuu densetsu, blue_hair, long_hair, ponytail, yellow_eyes, white_jacket, open_jacket, black_corset, corset, blue_gloves, fingerless_gloves, black_thighhighs, boots, holding_sword, sword, large_breasts
@@ -265,18 +263,18 @@ lily black, touhou, red eyes, blonde hair, long hair, hat, black dress, long sle
 lingsha \(honkai: star rail\), honkai: star rail, pointy ears, orange eyes, red eyes, brown hair, long hair, very long hair, black hair, blunt bangs, ahoge, cleavage, navel, bare shoulders, colored extremities
 lisbeth \(sao-alo\), sword art online, pointy ears, red eyes, pink eyes, pink hair, short hair, hairclip, medium breasts, freckles, fairy \(sao\), blacksmith apron, leather apron
 llenn \(sao\), sword art online, rabbit ears, brown eyes, red eyes, hair between eyes, brown hair, short hair, pink headwear, pink gloves, rabbit hat, pink jacket, pink pants, long sleeves, p90, bandana, pink hat
-louise francoise le blanc de la valliere,zero no tsukaima,pentacle,pink eyes,cape,flat chest,pink hair
+louise francoise le blanc de la valliere, zero no tsukaima, pentacle, pink eyes, cape, flat chest, pink hair
 lumine \(genshin impact\), genshin impact, yellow eyes, hair between eyes, blonde hair, short hair with long locks, sidelocks, hair flower, medium breasts, large breasts, cleavage, white dress, bare shoulders
 luna \(konosuba\), kono subarashii sekai ni shukufuku wo!, brown eyes, yellow eyes, blonde hair, long hair, folded ponytail, sidelocks, large breasts, cleavage, detached collar, bare shoulders
 luna child, touhou, red eyes, blonde hair, drill hair, short hair, hat, fairy wings
 lynette \(genshin impact\), genshin impact, cat girl, cat ears, cat tail, animal ear fluff, purple eyes, grey hair, long hair, medium breasts, cleavage, star tattoo, black pantyhose, long sleeves, aqua bow, star facial mark
-lynx landau,honkai: star rail,snowflake print,blue pantyhose,blue scarf,blue capelet,fur-trimmed capelet,blue eyes,hair intakes
+lynx landau, honkai: star rail, snowflake print, blue pantyhose, blue scarf, blue capelet, fur-trimmed capelet, blue eyes, hair intakes
 maga-reimu, touhou, red eyes, white hair, long hair, hair bow, hair tubes, detached sleeves
 maho \(princess connect!\), princess connect!, fox girl, fox ears, animal ear fluff, fox tail, green eyes, brown hair, very long hair, long hair, light brown hair, blunt bangs, sidelocks, wide sleeves, long sleeves
 makise kurisu, steins;gate, blue eyes, hair between eyes, purple eyes, long hair, brown hair, red hair, pantyhose under shorts, black shorts, white shirt, black pantyhose, red necktie
 march 7th \(honkai: star rail\), honkai \(series\), blue eyes, pink eyes, two-tone eyes, hair between eyes, pink hair, medium hair, medium breasts, collarbone, white shirt, blue jacket, tied jacket, blue skirt, black gloves, long sleeves, black choker, single earring, buttons
 march 7th \(hunt\) \(honkai: star rail\), honkai: star rail, blue eyes, two-tone eyes, pink eyes, purple eyes, pink pupils, pink hair, official alternate hairstyle, medium hair, medium breasts, chinese clothes, black gloves, fingerless gloves, black dress, blue belt, jingle bell, hairpin, single earring
-marie rose \(devilish servant against the splashing waves \),dead or alive 5,marie rose \(cosplay \),frilled one-piece swimsuit,frilled thighhighs,blue one-piece swimsuit,blue thighhighs,blue eyes,x hair ornament
+marie rose \(devilish servant against the splashing waves \), dead or alive 5, marie rose \(cosplay \), frilled one-piece swimsuit, frilled thighhighs, blue one-piece swimsuit, blue thighhighs, blue eyes, x hair ornament
 medicine melancholy, touhou, blue eyes, blonde hair, short hair, hair ribbon, gothic dress, black dress, red ribbon
 megumin, kono subarashii sekai ni shukufuku wo!, red eyes, short hair, brown hair, short hair with long locks, black hair, sidelocks, small breasts, bandaged leg, collarbone, witch hat, red dress, black thighhighs, fingerless gloves, black gloves
 melty q melromarc, tate no yuusha no nariagari, purple eyes, blue eyes, long hair, blue hair, purple hair, twintails, hair intakes, sidelocks, small breasts, thighs, princess dress, blue dress, royal attire, tiara
@@ -288,7 +286,7 @@ mona \(genshin impact\), genshin impact, green eyes, black hair, long hair, purp
 mononobe no futo, touhou, blue eyes, grey eyes, grey hair, long hair, ponytail, wide sleeves, long sleeves, kariginu, tate eboshi
 mualani \(genshin impact\), genshin impact, dark skin, red eyes, orange eyes, long hair, white hair, grey hair, light blue hair, blue hairband, low twin braids, braid, small breasts, thighs, navel, fingerless gloves, bare shoulders, midriff, stomach
 mythra \(massive melee\) \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, blonde hair, very long hair, long hair, swept bangs, large breasts, chest jewel, thigh strap, black pantyhose, elbow gloves, white dress, white gloves, short dress, sleeveless dress, bare shoulders, earrings, tiara, microdress, headpiece, gem
-nahida \(genshin impact \),genshin impact,leaf hair ornament,cross-shaped pupils,green sleeves,green cape,white bloomers,green eyes
+nahida \(genshin impact \), genshin impact, leaf hair ornament, cross-shaped pupils, green sleeves, green cape, white bloomers, green eyes
 nahida \(genshin impact\), genshin impact, loli, pointy ears, green eyes, hair between eyes, cross-shaped pupils, symbol-shaped pupils, long hair, white hair, green hair, gradient hair, grey hair, leaf hair ornament, side ponytail, sidelocks, hair ornament, white dress, detached sleeves, toes
 nami \(one piece\), one piece, brown eyes, orange eyes, orange hair, long hair, large breasts, cleavage, navel, shoulder tattoo, bikini top, jeans, log pose, bracelet
 nana asta deviluke, to love-ru, demon tail, fang, tail, pink eyes, purple eyes, pink hair, long hair, twintails, flat chest, navel, school uniform, serafuku, ribbon, demon tail
@@ -297,7 +295,7 @@ narmaya \(summer\) \(granblue fantasy\), granblue fantasy, pointy ears, horns, b
 natsume rin, little busters!, red eyes, brown hair, long hair, ponytail, ahoge, school uniform, little busters! school uniform, plaid skirt, pink bow
 navia \(genshin impact\), genshin impact, blue eyes, blonde hair, very long hair, long hair, large breasts, cleavage, thighs, black headwear, black gloves, hat flower, bare shoulders, detached sleeves, drill sidelocks
 nazrin, touhou, mouse ears, mouse tail, red eyes, grey hair, short hair, mouse \(animal\), pendant, brown dress, mouse ears, mouse tail, pendant
-nekomiya mana, zenless zone zero, cat girl, dark-skinned female, cat ears, animal ear fluff, cat tail, two tails, red eyes, black hair, long hair, red hairband, ponytail, small breasts,  black thighhighs, detached sleeves, bare shoulders,  neck bell
+nekomiya mana, zenless zone zero, cat girl, dark-skinned female, cat ears, animal ear fluff, cat tail, two tails, red eyes, black hair, long hair, red hairband, ponytail, small breasts, black thighhighs, detached sleeves, bare shoulders, neck bell
 neptune \(neptunia\), neptune \(series\), purple eyes, hair between eyes, purple hair, short hair, d-pad hair ornament, striped clothes
 nicole demara, zenless zone zero, green eyes, mole under eye, pink hair, long hair, very long hair, two side up, hair ribbon, hairclip, large breasts, mole on breast, cleavage, thighs, navel, black shorts, black thighhighs, black ribbon, bare shoulders, long sleeves, crop top, midriff, tube top, stomach
 nilou \(breeze of sabaa\) \(genshin impact\), genshin impact, aqua eyes, red hair, very long hair, parted bangs, double bun, hair flower, medium breasts, white dress, sleeveless dress, detached sleeves, bare shoulders, white sleeves, circlet
@@ -305,12 +303,12 @@ nilou \(genshin impact\), genshin impact, fake horns, aqua eyes, blue eyes, red 
 ning rongrong \(douluo dalu\), douluo dalu, blue eyes, long hair, brown hair, braid, blue dress, long sleeves
 nishikigi chisato, lycoris recoil, red eyes, blonde hair, short hair, bob cut, hair ribbon, large breasts, lycoris uniform, red dress, red ribbon, one side up
 niwatari kutaka, touhou, bird tail, red eyes, blonde hair, red hair, two-tone hair, short hair, white shirt, orange dress, puffy short sleeves, bird wings, feathered wings, yellow wings, chick, bird on head, animal
-noelle \(genshin impact \),genshin impact,braided bangs,red rose,armored dress,red ascot,red flower,green eyes,hair flower
+noelle \(genshin impact \), genshin impact, braided bangs, red rose, armored dress, red ascot, red flower, green eyes, hair flower
 noelle \(genshin impact\), genshin impact, maid, maid headdress, green eyes, short hair, grey hair, braid, blunt bangs, braided bangs, hair flower, medium breasts, large breasts, cleavage
 noelle \(kfc\) \(genshin impact\), genshin impact, green eyes, short hair, grey hair, braid, blunt bangs, braided bangs, large breasts, medium breasts, fast food uniform, apron, employee uniform, black headwear, black dress, white apron, long sleeves, beret, red ascot, black hat
 noire \(neptunia\), neptune \(series\), red eyes, hair between eyes, black hair, very long hair, long hair, twintails, hair ribbon, hair ornament, medium breasts, cleavage, bare shoulders
 noumi kudryavka, little busters!, fang, blue eyes, long hair, blonde hair, grey hair, bat hair ornament, school uniform, little busters! school uniform, hat, cape, thighhighs, plaid skirt, pink bow
-noumi kudryavka,little busters!,little busters! school uniform,bat hair ornament,large buttons,pink bow,plaid skirt,blue eyes
+noumi kudryavka, little busters!, little busters! school uniform, bat hair ornament, large buttons, pink bow, plaid skirt, blue eyes
 orange heart \(neptunia\), neptune \(series\), blue eyes, hair between eyes, symbol-shaped pupils, power symbol-shaped pupils, orange hair, long hair, twintails, medium breasts, elbow gloves, bare shoulders, power symbol
 otonashi yuzuru, angel beats!, 1boy, brown eyes, brown hair, school uniform, shinda sekai sensen uniform
 pa-san, bocchi the rock!, ear piercing, green eyes, aqua eyes, black hair, colored inner hair, purple hair, long hair, two-tone hair, blunt bangs, large breasts, black dress, black choker, long sleeves, bare shoulders, goth fashion, chin piercing, hime cut
@@ -319,14 +317,14 @@ pecorine \(princess connect!\), princess connect!, blue eyes, hair between eyes,
 pecorine \(summer\) \(princess connect!\), princess connect!, blue eyes, hair between eyes, orange hair, very long hair, white hairband, ahoge, side braid, braid, hair flower, hair ribbon, large breasts, cleavage, thighs, navel, collarbone, white bikini, side-tie bikini bottom, bare shoulders, red ribbon, bead bracelet
 petra leyte, re:zero kara hajimeru isekai seikatsu, maid, hair between eyes, green eyes, blue eyes, short hair, blonde hair, orange hair, bow hairband, red hairband, roswaal mansion maid uniform, red ribbon, detached sleeves
 pinku \(vtuber\), atelier live, red eyes, hair between eyes, pink hair, long hair, braid, hair ribbon, medium breasts, white dress, white ribbon, bare shoulders, detached sleeves, virtual youtuber
-piper wheel, zenless zone zero, green eyes, goggles around neck, blonde hair, long hair, single hair bun, small breasts, navel, armpits, black shorts, yellow gloves, detached sleeves, midriff, crop top, stomach
+piper wheel, zenless zone zero, green eyes, blonde hair, long hair, single hair bun, small breasts, navel, armpits, black shorts, yellow gloves, detached sleeves, midriff, crop top, stomach
 power \(chainsaw man\), chainsaw man, demon horns, red horns, sharp teeth, hair between eyes, yellow eyes, red eyes, cross-shaped pupils, long hair, blonde hair, white shirt
 priestess \(goblin slayer!\), goblin slayer!, blue eyes, hair between eyes, blonde hair, long hair, very long hair, small breasts, hat, long sleeves
 priscilla barielle, re:zero kara hajimeru isekai seikatsu, red eyes, blonde hair, long hair, orange hair, very long hair, braided bangs, single braid, sidelocks, hair flower, large breasts, medium breasts, cleavage, collarbone, red dress, bare shoulders, choker, necklace, earrings, bridal gauntlets
 puck \(re:zero\), re:zero kara hajimeru isekai seikatsu, purple eyes, blue eyes, long hair, white hair, grey hair, blonde hair, x hair ornament, crown braid, hair ribbon, hair flower, medium breasts, cleavage, long sleeves, cat
 pururut, neptune \(series\), purple eyes, pink eyes, hair between eyes, purple hair, very long hair, long hair, braid, single braid, bare shoulders
 pyra \(xenoblade\), xenoblade chronicles \(series\), red eyes, red hair, short hair, swept bangs, bob cut, large breasts, chest jewel, fingerless gloves, earrings, tiara, headpiece
-qian renxue \(douluo dalu \),douluo dalu,falling feathers,dark persona,side cutout,armored dress,blue eyes
+qian renxue \(douluo dalu \), douluo dalu, falling feathers, dark persona, side cutout, armored dress, blue eyes
 qian renxue \(douluo dalu\), douluo dalu, blue eyes, long hair, blonde hair, hair ornament, white dress, bare shoulders, detached sleeves, detached collar
 qingque \(honkai: star rail\), honkai: star rail, green eyes, hair between eyes, long hair, brown hair, light brown hair, low twintails, braid, twintails, hairclip, green dress, bare shoulders, long sleeves, shoulder cutout, mahjong tile
 qingyi \(zenless zone zero\), zenless zone zero, green eyes, green hair, long hair, very long hair, twintails, side braids, navel, fingerless gloves, black gloves, android, robot girl, midriff
@@ -337,12 +335,12 @@ raiden mei \(valkyrie bladestrike\), honkai \(series\), purple eyes, blue eyes, 
 raiden shogun, genshin impact, purple eyes, mole under eye, purple hair, long hair, very long hair, braided ponytail, hair ornament, large breasts, cleavage, thighs, purple kimono, purple nails, obi, bridal gauntlets
 ram (roswaal maid), re:zero kara hajimeru isekai seikatsu, maid, maid headdress, red eyes, pink eyes, hair over one eye, pink hair, short hair, x hair ornament, hair ribbon, small breasts, medium breasts, roswaal mansion maid uniform, detached sleeves, white thighhighs
 ram \(neptunia\), neptune \(series\), blue eyes, hair between eyes, brown hair, long hair, hat
-ram \(re:zero \),re:zero kara hajimeru isekai seikatsu,roswaal mansion maid uniform,x hair ornament,purple ribbon,eyes visible through hair
+ram \(re:zero \), re:zero kara hajimeru isekai seikatsu, roswaal mansion maid uniform, x hair ornament, purple ribbon, eyes visible through hair
 ram \(re:zero\), re:zero kara hajimeru isekai seikatsu, maid, maid headdress, red eyes, pink eyes, hair over one eye, pink hair, short hair, x hair ornament, hair ribbon, small breasts, medium breasts, roswaal mansion maid uniform, detached sleeves
 raphiel shiraha ainsworth, gabriel dropout, yellow eyes, long hair, white hair, grey hair, very long hair, cross hair ornament, ahoge, large breasts, medium breasts, school uniform
 reisalin stout, atelier \(series\), brown eyes, brown hair, short hair, hairclip, large breasts, cleavage, thighs, thick thighs, navel, collarbone, white headwear, short shorts, red shorts, brown gloves, bare shoulders, beret
-reisen udongein inaba, touhou,rabbit ears, red eyes, purple hair, long hair, skirt
-reisen udongein inaba,touhou,rabbit ears,rabbit girl,red necktie,blazer,rabbit tail,red eyes,purple hair
+reisen udongein inaba, touhou, rabbit ears, rabbit girl, red necktie, blazer, rabbit tail, red eyes, purple hair
+reisen udongein inaba, touhou, rabbit ears, red eyes, purple hair, long hair, skirt
 rem (roswaal maid), re:zero kara hajimeru isekai seikatsu, maid, maid headdress, blue eyes, hair over one eye, blue hair, short hair, x hair ornament, hair ribbon, medium breasts, large breasts, cleavage, roswaal mansion maid uniform, detached sleeves, white thighhighs
 rem \(re:zero\), re:zero kara hajimeru isekai seikatsu, maid, maid headdress, blue eyes, hair over one eye, blue hair, short hair, x hair ornament, hair ribbon, medium breasts, large breasts, cleavage, roswaal mansion maid uniform, detached sleeves
 remilia scarlet, touhou, red eyes, short hair, blue hair, mob cap, bat wings
@@ -355,13 +353,13 @@ rixia_mao, eiyuu densetsu, purple_hair, long_hair, purple_eyes, wa_maid, white_a
 rizu-kyun, sono bisque doll wa koi wo suru, demon girl, demon horns, demon wings, demon tail, pointy ears, fangs, black horns, green eyes, red hair, long hair, blunt bangs, two side up, sidelocks, twintails, large breasts, medium breasts, thighs, navel, black panties, frilled panties, long sleeves, black nails, nail polish, black wings
 robin \(honkai: star rail\), honkai \(series\), hair between eyes, aqua eyes, green eyes, long hair, very long hair, blue hair, purple hair, white gloves, white dress, halo, bare shoulders, detached sleeves, short sleeves, head wings, white wings
 roxy migurdia, mushoku tensei, blue eyes, hair between eyes, blue hair, very long hair, long hair, twin braids, ahoge, crossed bangs, small breasts, witch hat, long sleeves
-roxy migurdia,mushoku tensei,brown cape,long braid,crossed bangs,hair between eyes,eyebrows hidden by hair
+roxy migurdia, mushoku tensei, brown cape, long braid, crossed bangs, hair between eyes, eyebrows hidden by hair
 rukkhadevata \(genshin impact\), genshin impact, pointy ears, green eyes, hair between eyes, cross-shaped pupils, symbol-shaped pupils, white hair, green hair, very long hair, gradient hair, long hair, streaked hair, leaf hair ornament, ahoge, sidelocks, single braid, braid, large breasts, cleavage, white dress, strapless dress, bare shoulders, detached sleeves, gold trim
 saigusa haruka, little busters!, blue eyes, purple hair, long hair, very long hair, side ponytail, hair bobbles, hairclip, school uniform, little busters! school uniform, striped clothes, striped thighhighs, plaid skirt, pink bow
 saikawa riko, kobayashi-san chi no maidragon, green eyes, brown hair, long hair, hair flower, green shirt, long sleeves
 sakayanagi arisu, youkoso jitsuryoku shijou shugi no kyoushitsu e, purple eyes, blue eyes, long hair, grey hair, medium hair, blunt bangs, braid, advanced nurturing high school uniform, red jacket, white thighhighs, white shirt, white skirt, pleated skirt, long sleeves, blazer
 sakura chiyo, gekkan shoujo nozaki-kun, purple eyes, long hair, orange hair, hair bow, rouman academy school uniform, polka dot bow
-sakura chiyo,gekkan shoujo nozaki-kun,rouman academy school uniform,polka dot bow,purple eyes,orange hair
+sakura chiyo, gekkan shoujo nozaki-kun, rouman academy school uniform, polka dot bow, purple eyes, orange hair
 sakurajima mai, seishun buta yarou, rabbit ears, fake animal ears, purple eyes, blue eyes, black hair, long hair, rabbit hair ornament, hairclip, medium breasts, large breasts, cleavage, black leotard, strapless leotard, black pantyhose, detached collar, black bowtie, playboy bunny, wrist cuffs
 sangonomiya kokomi, genshin impact, purple eyes, blue eyes, pink hair, bow-shaped hair, gradient hair, long hair, blue hair, very long hair, blunt bangs, hair ornament, navel, white gloves, white thighhighs, bare shoulders, wide sleeves, fish, colored tipssangonomiya kokomi, genshin impact, purple eyes, blue eyes, pink hair, bow-shaped hair, gradient hair, long hair, blue hair, very long hair, blunt bangs, hair ornament, navel, white gloves, white thighhighs, bare shoulders, wide sleeves, fish, colored tips
 sara_valestein, eiyuu densetsu, pink_hair, long_hair, yellow_eyes, hair_bun, single_hair_bun, kimono, purple_kimono, butterfly_print, butterfly_print_kimono, japanese_clothes, floral_print
@@ -399,31 +397,30 @@ shiroko \(blue archive\), blue archive, wolf ears, animal ear fluff, extra ears,
 shokuhou misaki, toaru majutsu no index, yellow eyes, hair between eyes, brown eyes, star-shaped pupils, blonde hair, long hair, very long hair, large breasts, tokiwadai school uniform, white gloves, elbow gloves, white thighhighs, summer uniform
 shuna \(tensei shitara slime datta ken\), tensei shitara slime datta ken, oni, oni horns, hair between eyes, red eyes, pink eyes, pink hair, very long hair, long hair, medium breasts, collarbone, white kimono, long sleeves, wide sleeves, ribbon-trimmed sleeves, miko, red hakama
 sigewinne \(genshin impact\), genshin impact, animal ears, red eyes, hair between eyes, eyelashes, blue hair, medium hair, gradient hair, purple hair, pom pom hair ornament, low twintails, sidelocks, crossed bangs, white gloves, nurse cap, white apron, red bowtie, puffy long sleeves, long sleeves, white hat
-silica,sword art online,breastplate,short twintails,red eyes,brown hair
-silver wolf \(honkai: star rail\), honkai \(series\), grey eyes, hair between eyes, eyewear on head, goggles on head, grey hair, long hair, drill hair, ponytail, crossed bangs, hair ribbon, thighs, thigh strap, navel, black jacket, fur-trimmed jacket, black gloves, white shirt, black shorts, fingerless gloves, crop top, midriff
+silica, sword art online, breastplate, short twintails, red eyes, brown hair
+silver wolf \(honkai: star rail\), honkai \(series\), grey eyes, hair between eyes, grey hair, long hair, drill hair, ponytail, crossed bangs, hair ribbon, thighs, thigh strap, navel, black jacket, fur-trimmed jacket, black gloves, white shirt, black shorts, fingerless gloves, crop top, midriff
 sinon, sword art online, blue eyes, hair between eyes, aqua eyes, short hair, blue hair, aqua hair, short hair with long locks, sidelocks, hairclip, medium breasts, fingerless gloves, short shorts
-skadi \(waverider\) \(arknights\), arknights, red eyes, hair between eyes, eyewear on head, very long hair, grey hair, white hair, low-tied long hair, ahoge, large breasts, medium breasts, cleavage, thighs, navel, thigh strap, sunglasses, white shirt, off-shoulder shirt, short shorts, blue shorts, bare shoulders, black choker, short sleeves, stomach
+skadi \(waverider\) \(arknights\), arknights, red eyes, hair between eyes, very long hair, grey hair, white hair, low-tied long hair, ahoge, large breasts, medium breasts, cleavage, thighs, navel, thigh strap, white shirt, off-shoulder shirt, short shorts, blue shorts, bare shoulders, black choker, short sleeves, stomach
 skadi the corrupting heart \(arknights\), arknights, red eyes, hair between eyes, very long hair, grey hair, white hair, medium breasts, navel cutout, thighs, navel, red dress, hat, aqua gloves, bare shoulders, detached sleeves, long sleeves, black ascot
 skirk \(genshin impact\), genshin impact, pink eyes, hair between eyes, red eyes, grey hair, very long hair, long hair, butterfly hair ornament, medium breasts, large breasts, thighs, bare shoulders, detached sleeves
-soukaku \(zenless zone zero\), zenless zone zero, oni, demon tail, blue skin, skin-covered horns, pointy ears, ear piercing, hair between horns, blue horns, tail, red eyes, orange eyes, hair between eyes, white hair, short hair, sidelocks, white shirt, black skirt, open jacket, collared shirt, black necktie, long sleeves
 space ereshkigal \(fate\), fate/grand order, red eyes, blonde hair, long hair, two side up, parted bangs, medium breasts, thighs, white one-piece swimsuit, two-tone swimsuit, bare shoulders, frills
-sparkle \(honkai: star rail \),honkai: star rail,fox mask,flower tattoo,mask on head,mark under both eyes,butterfly-shaped pupils,gradient hair
+sparkle \(honkai: star rail \), honkai: star rail, fox mask, flower tattoo, mask on head, mark under both eyes, butterfly-shaped pupils, gradient hair
 sparkle \(honkai: star rail\), honkai \(series\), pink eyes, red eyes, black hair, very long hair, brown hair, long hair, twintails, medium breasts, thighs, mask on head, red dress, fox mask, black gloves, bare shoulders, black choker, detached sleeves, facial mark, neck bell, criss-cross halter, obi
-sparkle \(school uniform \) \(honkai: star rail \),honkai: star rail,holding mask,fox mask,mask on head,blazer,straight hair,pink eyes
+sparkle \(school uniform \) \(honkai: star rail \), honkai: star rail, holding mask, fox mask, mask on head, blazer, straight hair, pink eyes
 spider-gwen, marvel, skin tight, blue eyes, eyebrow piercing, blonde hair, short hair, medium breasts, breasts, hooded bodysuit, superhero costume
 stephanie dora, no game no life, blue eyes, red hair, short hair, pink hair, hair flower, large breasts, cleavage, bare shoulders
 sui \(isekai ojisan\), isekai ojisan, green eyes, blonde hair, long hair, parted bangs, medium breasts, long sleeves, elf
-suigintou,rozen maiden,lolita hairband,gothic lolita,lolita fashion,ouji fashion,pink eyes
+suigintou, rozen maiden, lolita hairband, gothic lolita, lolita fashion, ouji fashion, pink eyes
 suiseiseki, rozen maiden, heterochromia, green eyes, red eyes, brown hair, very long hair, long hair, long sleeves
 surtr \(arknights\), arknights, demon horns, demon girl, horns, purple eyes, hair between eyes, red hair, very long hair, long hair, hair intakes, medium breasts, large breasts, cleavage, black dress, bare shoulders
-surtr \(colorful wonderland \) \(arknights \),arknights,swimsuit cover-up,burnt clothes,criss-cross halter,cherry,purple eyes,star hair ornament
+surtr \(colorful wonderland \) \(arknights \), arknights, swimsuit cover-up, burnt clothes, criss-cross halter, cherry, purple eyes, star hair ornament
 surtr \(colorful wonderland\) \(arknights\), arknights, demon horns, horns, purple eyes, hair between eyes, red hair, very long hair, star hair ornament, hair intakes, hair rings, large breasts, medium breasts, cleavage, thighs, thigh strap, navel, black bikini, swimsuit cover-up, side-tie bikini bottom, bare shoulders, detached sleeves, long sleeves, criss-cross halter, stomach
 sushang \(honkai: star rail\), honkai: star rail, brown eyes, brown hair, long hair, very long hair, twintails, braid, hair bell, large breasts, medium breasts, chinese clothes, bare shoulders, long sleeves
 suzushina yuriko, toaru majutsu no index, pale skin, red eyes, white hair, short hair, hair flower, a certain high school uniform, serafuku, albino
 sword maiden, goblin slayer!, hair between eyes, blonde hair, very long hair, long hair, large breasts, white dress, necklace, habit, black blindfold
-tabitha \(zero no tsukaima\), zero no tsukaima, blue eyes, glasses, blue hair, short hair, cape, pentacle
+tabitha \(zero no tsukaima\), zero no tsukaima, blue eyes, blue hair, short hair, cape, pentacle
+tachibana kanade, angel beats!, hand sonic, shinda sekai sensen uniform, blazer, company connection, angel wings, yellow eyes, grey hair
 tachibana kanade, angel beats!, yellow eyes, long hair, grey hair, blue hair, white hair, school uniform, blazer
-tachibana kanade,angel beats!,hand sonic,shinda sekai sensen uniform,blazer,company connection,angel wings,yellow eyes,grey hair
 taihou \(azur lane\), azur lane, red eyes, hair between eyes, black hair, very long hair, ahoge, crossed bangs, hair ornament, large breasts, cleavage, thighs, collarbone, black thighhighs, bare shoulders, one side up
 takanashi rikka, chuunibyou demo koi ga shitai!, blue eyes, medical eyepatch, short hair, black hair, blue hair, ahoge, hair ribbon, icho private high school uniform, black thighhighs, plaid skirt, one side up
 takanashi touka, chuunibyou demo koi ga shitai!, red eyes, black hair, long hair, ahoge, large breasts, collar, ladle, maid uniform, apron, ladle, frilled headband
@@ -440,7 +437,7 @@ tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_e
 tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_ear_hairband, white_jacket, orange_skirt, blue_boots, brown_gloves, fingerless_gloves, staff
 tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_ear_hairband, white_jacket, orange_skirt, brown_gloves, fingerless_gloves, staff, white_thighhighs, zettai_ryouiki
 tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, overalls, red_overalls, black_pantyhose
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, overalls, red_overalls, goggles_on_head, fingerless_gloves, ascot, red_ascot, shorts
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, overalls, red_overalls, fingerless_gloves, ascot, red_ascot, shorts
 tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, waitress, white_apron, apron, blue_dress, dress, red_bow, red_bowtie, bowtie, ribbon
 titania \(sao\), sword art online, ear covers, brown eyes, brown hair, very long hair, medium breasts, large breasts, navel, bare shoulders, fairy wings, transparent wings, white wings, fairy \(sao\), elf, fairy, midriff
 tobiichi origami, date a live, blue eyes, hair between eyes, white hair, short hair, hairclip, medium breasts, school uniform, serafuku, hairclip
@@ -450,25 +447,24 @@ tokisaki kurumi, date a live, lolita hairband, heterochromia, red eyes, yellow e
 tomoe mami, mahou shoujo madoka magica, yellow eyes, blonde hair, long hair, drill hair, twintails, large breasts, fingerless gloves, twin drills, magical girl, beret
 tomori nao, charlotte \(anime\), blue eyes, hair between eyes, long hair, grey hair, white hair, two side up, hoshinoumi academy school uniform, serafuku
 toona, rune factory, pointy ears, blue eyes, hair between eyes, red hair, long hair, navel, earrings, pink trench coat, orange scarf, black top, orange skirt, black leggings, pink boots, earrings
-towa_herschel, eiyuu densetsu, brown_hair, ponytail, blue_eyes, blue-framed_eyewear, jacket, green_jacket, white_shirt
+towa_herschel, eiyuu densetsu, brown_hair, ponytail, blue_eyes, jacket, green_jacket, white_shirt
 towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, dress, green_dress, flower_wreath, head_wreath
 towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, school_uniform, ascot, pantyhose, garrison_cap
 trance terra branford, final fantasy, monster girl, pink skin, pointy ears, blue eyes, long hair, pink hair, medium breasts, claws, esper form, magical girl, pink bodysuit
 tsukuyomi komoe, toaru majutsu no index, pink eyes, pink hair, short hair, school uniform, serafuku, lab coat
 tsuyuri kanao \(kimetsu no yaiba\), kimetsu no yaiba, purple eyes, black hair, long hair, butterfly hair ornament, side ponytail, demon slayer uniform, long sleeves
-ubuyashiki amane \(kimetsu no yaiba\), kimetsu no yaiba, purple eyes, white hair, very long hair, long hair, kimono, obi, wide sleeves, japanese clothes, long sleeves
+ubuyashiki amane \(kimetsu no yaiba\), kimetsu no yaiba, mature_female, married woman, curvy, purple eyes, white hair, very long hair, long hair, kimono, obi, wide sleeves, japanese clothes, long sleeves
 uiharu kazari, toaru majutsu no index, brown eyes, short hair, black hair, hair flower, sakugawa school uniform, serafuku, summer uniform, head wreath
 ultimate madoka, mahou shoujo madoka magica, yellow eyes, pink hair, very long hair, long hair, two side up, hair bow, hair ribbon, white gloves, white dress, wings, magical girl
 uni \(neptunia\), neptune \(series\), red eyes, hair between eyes, black hair, long hair, two side up, hair ornament, hair ribbon, small breasts, bare shoulders
 verniy \(kancolle\), kantai collection, blue eyes, hair between eyes, long hair, grey hair, white hair, serafuku, black thighhighs, pleated skirt, hat, flat cap, long sleeves, hammer and sickle
 vert \(neptunia\), neptune \(series\), blue eyes, blonde hair, long hair, very long hair, large breasts, cleavage, bare shoulders
+victorica de blois, gosick, chin strap, victorian, gothic lolita, lolita fashion, green eyes, hair spread out
 victorica de blois, gosick, green eyes, blonde hair, very long hair, long hair, gothic lolita
-victorica de blois,gosick,chin strap,victorian,gothic lolita,lolita fashion,green eyes,hair spread out
 violet evergarden, violet evergarden \(series\), blue eyes, hair between eyes, blonde hair, short hair, medium hair, hair intakes, french braid, braid, hair ribbon, blue jacket, white dress, red ribbon, juliet sleeves, brooch, green gemstone, white ascot
 vira \(granblue fantasy\), granblue fantasy, red eyes, hair between eyes, blonde hair, long hair, ponytail, hair bow, large breasts, cleavage, bare shoulders
 vira \(summer\) \(granblue fantasy\), granblue fantasy, red eyes, hair between eyes, orange eyes, blonde hair, long hair, ponytail, sidelocks, hair bow, hair flower, large breasts, cleavage, navel, white bikini, bare shoulders
 watatsuki no yorihime, touhou, red eyes, purple eyes, purple hair, long hair, ponytail, high ponytail, hair ribbon, hair bow, large breasts, elegant dress, purple dress, high collar, long skirt
-white heart \(neptunia\), neptune \(series\), red eyes, hair between eyes, symbol-shaped pupils, power symbol-shaped pupils, short hair with long locks, blue hair, ahoge, sidelocks, small breasts, elbow gloves, white gloves, bare shoulders, power symbol
 white rabbit \(alice in wonderland\), alice in wonderland, rabbit ears, blue eyes, blonde hair, long hair, pocket watch, rabbit
 xiangling \(genshin impact\), genshin impact, yellow eyes, thick eyebrows, short hair, blue hair, braided hair rings, braid, twin braids, hair rings, hairclip, small breasts, thighs, china dress, fingerless gloves, bare shoulders
 xiao wu \(douluo dalu\), douluo dalu, rabbit ears, pink eyes, brown hair, long hair, ponytail, hair ornament, pink dress
@@ -480,7 +476,7 @@ yoimiya \(genshin impact\), genshin impact, yellow eyes, hair between eyes, oran
 yonah, nier \(series\), blue eyes, white hair, long hair, short hair, white dress
 yor briar (assassin dress), spy x family, red eyes, black hair, long hair, short hair with long locks, gold hairband, sidelocks, hair flower, large breasts, cleavage, thighs, black dress, black gloves, bare shoulders, black thighhighs
 yor briar, spy x family, red eyes, black hair, long hair, short hair with long locks, gold hairband, sidelocks, hair flower, large breasts, cleavage, thighs, black dress, black gloves, bare shoulders
-yorigami jo'on, touhou, orange eyes, eyewear on head, round eyewear, orange hair, light brown hair, long hair, twintails, hair bow, sunglasses, hat bow, white dress, top hat, black headwear, purple coat, long sleeves, earrings, ring, necklace, twin drills, pendant, bangle
+yorigami jo'on, touhou, orange eyes, orange hair, light brown hair, long hair, twintails, hair bow, hat bow, white dress, top hat, black headwear, purple coat, long sleeves, earrings, ring, necklace, twin drills, pendant, bangle
 yorigami shion, touhou, blue eyes, hair between eyes, blue hair, very long hair, long hair, hair bow, barefoot, blue skirt, grey hoodie, blue bow, short sleeves, bangle
 yui \(sao-alo\), sword art online, pointy ears, black eyes, brown eyes, black hair, very long hair, long hair, hair flower, barefoot, dress, detached sleeves, bare shoulders, fairy wings, transparent wings, white wings, fairy \(sao\), fairy, minigirl, mini person
 yuigahama yui, yahari ore no seishun lovecome wa machigatteiru., red eyes, hair between eyes, blue eyes, single hair bun, short hair, pink hair, orange hair, single side bun, large breasts, collarbone, sobu high school uniform, white shirt
@@ -494,4 +490,4 @@ yuna \(sao\), sword art online, floating hair, red eyes, very long hair, white h
 yunli \(honkai: star rail\), honkai \(series\), hair between eyes, yellow eyes, orange eyes, long hair, grey hair, low twintails, hairclip, chinese clothes, detached sleeves, bare shoulders, short sleeves, detached collar, headpiece, stomach
 yuudachi kai ni \(kancolle\), kantai collection, red eyes, long hair, blonde hair, hair flaps, hair ribbon, hairclip, white scarf, black ribbon
 yuuki \(sao\), sword art online, floating hair, pointy ears, red eyes, purple hair, very long hair, long hair, red hairband, ahoge, hair intakes, fingerless gloves, detached sleeves, bare shoulders, fairy \(sao\), breastplate
-yuuki mikan,to love-ru,topknot,hair bobbles,flat chest,small breasts,brown eyes, school uniform, serafuku, hair bobbles, knee socks
+yuuki mikan, to love-ru, topknot, hair bobbles, flat chest, small breasts, brown eyes, school uniform, serafuku, hair bobbles, knee socks

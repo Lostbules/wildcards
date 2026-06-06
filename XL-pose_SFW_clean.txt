@@ -9,9 +9,9 @@ standing,dynamic pose
 holding bubble tea,cafev
 solo,(Selfie:1.2),bent over,on all fours
 straight-on, full body,mountaintop city,light,Making a heart with fingers,:D
-<lora:DZ\unsheathing_pose_vertical_3_final:0.9>,arm up unsheathing sword
+<lora:unsheathing_pose_vertical_3_final:0.9>,arm up unsheathing sword
 crossed arms,standing
-<lora:DZ\Incoming_Hug_Pony:1>,incoming hug
+<lora:Incoming_Hug_Pony:1>,incoming hug
 smug face,wink,tongue out,peace sign,thick thighs,skinny,forest,night time,dark sky,beautiful sky,(selfie, looking down top, standing, high-angle view),closed mouth
 upper body,concert,night,full moon,arms behind head,embarrassed,nose blush
 closed eyes,sleepy,tired,(lying:1.2),bedroom,bed,window,night
@@ -59,46 +59,46 @@ gamer chair,legs up,upskirt,dark cozy room,gamer-girl room,( beautiful face:1.1)
 ocean,partially submerged,standing,waving,wet,blue sky,cowboy shot
 indoors,sitting,bed,(blush:1.2),(embarrass:1.4),night,(hand between legs:1.4)
 indoor,standing,from above,doorway,(hands between legs:1.2)
-<lora:DZ\squatting-cowgirl-position-v4-illustriousxl-lora-nochekaiser:0.5>,squatting,legs together,from below
-<lora:DZ\holding_teapot_pouring_3_final_d32>,(pouring:1.2),holding cup,holding teapot
-<lora:DZ\skirt_hold_bowing_d16:1>,skirt hold bowing,crossed legs,leaning forward,smile
-<lora:DZ\fanningcrotch_Pony_v1:0.8>,fanning crotch,(electric fan:1.2),lifted by self,navel,wind lift,steam,skirt lift,panties,standing,sweat,hot,wind lift,indoors
+<lora:squatting-cowgirl-position-v4-illustriousxl-lora-nochekaiser:0.5>,squatting,legs together,from below
+<lora:holding_teapot_pouring_3_final_d32>,(pouring:1.2),holding cup,holding teapot
+<lora:skirt_hold_bowing_d16:1>,skirt hold bowing,crossed legs,leaning forward,smile
+<lora:fanningcrotch_Pony_v1:0.8>,fanning crotch,(electric fan:1.2),lifted by self,navel,wind lift,steam,skirt lift,panties,standing,sweat,hot,wind lift,indoors
 fell asleep,take a nap,fell asleep,closed eyes,messy girl room,rare angle,ass,cameltoe,dramatic lighting,spotlight from below,perky tits,head on pillow,(no shoes:1.2)
 sitting on rock by seashore,gray sky,(sole, foot focus:1.2),crossed legs,((perfect foot)),high arched foot,confident smile,looking at viewer,elegant pose,detailed sole,sweaty sole,high-arched foot,wrinkled sole,meaty sole,front view,from below,5_toes
 full body,standing,greatsword,huge weapon,holding,fighting stance,mountain,fantasy,outdoors,blue sky,dynamic pose,looking at viewer,closed mouth,fehatk,full body,standing
 closed mouth,sad expression,[five fingers],dress lift,flying sweatdrops,lifted by self,clothes lift,embarrased,white panties,white thighhighs,garter straps,from below,looking at viewer
 closed mouth,sad expression,[five fingers],dress lift,flying sweatdrops,lifted by self,clothes lift,embarrased,from below,looking at viewer,panties
 novel illustration,(extremely intricate detail),extremely delicate and beautiful,(beautiful and aesthetic:1.2),(cute, pretty, pale skin),detailed face,glowing effect,ethereal glow,electricity,light particles floating,transcendent realms,abstract background,vibrant auras,euphoric harmonies,whispers of magic,shiny skin,((full body shot,standing)),dynamic pose
-<lora:DZ\swing_Pony_v1:0.7>,swing,playground,cowboy shot,looking at viewer,from_below,smile
-<lora:DZ\_sdxl-hipbom:0.7>,_sdxl-hipbom,ass focus,top-down bottom-up,looking_back,from behind
-<lora:DZ\feeding_Pony_v1:0.9>,feeding,food,open mouth,incoming food,looking at viewer,holding fork,cake,dutch angle,wide shot
-<lora:DZ\battoujutsu_sword_stance:0.7>,battoujutsu sword stance,ready to draw
-<lora:DZ\down_v2:1>,lifting_own_clothes,underboob,from_below,clothes lift,shirt lift,lifted by self
-<lora:DZ\JackoAIO-XL-V1:1>,jack-o' challenge,top-down bottom-up,ass up
-<lora:DZ\character_sheet:0.7>,full body,(multiple views:1.2),(front and side:1.2),full body portrait,simple background
+<lora:swing_Pony_v1:0.7>,swing,playground,cowboy shot,looking at viewer,from_below,smile
+<lora:_sdxl-hipbom:0.7>,_sdxl-hipbom,ass focus,top-down bottom-up,looking_back,from behind
+<lora:feeding_Pony_v1:0.9>,feeding,food,open mouth,incoming food,looking at viewer,holding fork,cake,dutch angle,wide shot
+<lora:battoujutsu_sword_stance:0.7>,battoujutsu sword stance,ready to draw
+<lora:down_v2:1>,lifting_own_clothes,underboob,from_below,clothes lift,shirt lift,lifted by self
+<lora:JackoAIO-XL-V1:1>,jack-o' challenge,top-down bottom-up,ass up
+<lora:character_sheet:0.7>,full body,(multiple views:1.2),(front and side:1.2),full body portrait,simple background
 closed eyes,closed mouth,sleeping,on bed,lying,on side,bed,from above,night,dark
 laying on back,green grass,expanse of colorful flowers,lake background,light smile,hands behind the head,from front,(depth of field),(dynamic angle),full_shot
-<lora:DZ\ss_highangle_pony:0.7>,ss_highangle,from behind,from above,pov,dynamic angle,couch,sit down,look back
+<lora:ss_highangle_pony:0.7>,ss_highangle,from behind,from above,pov,dynamic angle,couch,sit down,look back
 lying on back,wet hair,arms behind head,swimming pool,from side
 sitting,(from above),Expressionless,outstretched hand,ruin,sunset
-<lora:DZ\the-pose-ponyxl-lora-nochekaiser:1>,the pose,on stomach,lying,soles,feet,legs up,head rest,barefoot,ass
+<lora:the-pose-ponyxl-lora-nochekaiser:1>,the pose,on stomach,lying,soles,feet,legs up,head rest,barefoot,ass
 Emotionalization,smile,open mouth,golden hour,unconventional supreme masterpiece,masterful details,temperate atmosphere,with a high-end texture,in the style of fashion photography,magazine cover,Dynamic Angle,Dynamic posture,cowboy_shot
 ass,sitting,panties,spread legs,thighs,couch
-<lora:DZ\PonyFantasyKnightsV4:0.6>,hkstyle,full body shot,sword focus,combat pose,((dynamic pose)),(wielding a giant crucifix sword),(the sword glowing with a fiery red mystical holy energy),hyper stylize,trending on art station,diagonal shot,a castle in the background,midnight,dynamic angle
-<lora:DZ\PonyFantasyKnightsV4:0.7>,holding an electric sword made out of light orange lightning with blue glowing runes,running through a dark forest,close-up shot,vibrant colors,detailed background,she is charging the sword towards the camera,camera focus on the giant sword,close up shot on the sword,hkstyle:1.2:1.2
-<lora:DZ\PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
-<lora:DZ\PonyFantasyKnightsV4:0.6>,Low angle view,darkness covering his face,holding a red glowing sword in each hand in an epic stance,church windows in background,hkstyle:1.2
-<lora:DZ\PonyFantasyKnightsV4:0.5>,upper body shot,giant sword focus,hyper stylize,trending on art station,goth cathedral background,impaling pose,hkstyle,fancy effect,diagonal,holding a giant sword,(wielding a giant sword),giant sword color same as hair color,particle effect around the giant sword,the giant sword emits mysterious dark energy,glowing sword
-<lora:DZ\PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
-<lora:DZ\ss_highangle_pony:0.7>,ss_highangle,living room,relaxing,look back,from behind,pov,from above,sitting on person,sitting on lap,smile
-<lora:DZ\1076 holding money_v1_pony:1>,ruanyi1076,pov hands,holding money,money,banknote
-<lora:DZ\1076 holding money_v1_pony:0.8>,ruanyi1076,pov hands,holding money,money,banknote,lift up the skirt,(panties:1.2),(lift the skirt:1.2),skirtlift
-<lora:DZ\all-fours-from-below-ponyxl-lora-nochekaiser:0.8>,all fours from below,all fours,from below
+<lora:PonyFantasyKnightsV4:0.6>,hkstyle,full body shot,sword focus,combat pose,((dynamic pose)),(wielding a giant crucifix sword),(the sword glowing with a fiery red mystical holy energy),hyper stylize,trending on art station,diagonal shot,a castle in the background,midnight,dynamic angle
+<lora:PonyFantasyKnightsV4:0.7>,holding an electric sword made out of light orange lightning with blue glowing runes,running through a dark forest,close-up shot,vibrant colors,detailed background,she is charging the sword towards the camera,camera focus on the giant sword,close up shot on the sword,hkstyle:1.2:1.2
+<lora:PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
+<lora:PonyFantasyKnightsV4:0.6>,Low angle view,darkness covering his face,holding a red glowing sword in each hand in an epic stance,church windows in background,hkstyle:1.2
+<lora:PonyFantasyKnightsV4:0.5>,upper body shot,giant sword focus,hyper stylize,trending on art station,goth cathedral background,impaling pose,hkstyle,fancy effect,diagonal,holding a giant sword,(wielding a giant sword),giant sword color same as hair color,particle effect around the giant sword,the giant sword emits mysterious dark energy,glowing sword
+<lora:PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
+<lora:ss_highangle_pony:0.7>,ss_highangle,living room,relaxing,look back,from behind,pov,from above,sitting on person,sitting on lap,smile
+<lora:1076 holding money_v1_pony:1>,ruanyi1076,pov hands,holding money,money,banknote
+<lora:1076 holding money_v1_pony:0.8>,ruanyi1076,pov hands,holding money,money,banknote,lift up the skirt,(panties:1.2),(lift the skirt:1.2),skirtlift
+<lora:all-fours-from-below-ponyxl-lora-nochekaiser:0.8>,all fours from below,all fours,from below
 floating hair,sunset,lake background,dynamic angle,fashion photography,sharp,from_above
 Full Body Shot,floating hair,sunset,lake background,dynamic angle,fashion photography,sharp,from_above
-<lora:DZ\need_buzz_sign:1>,need_buzz,holding sign,sitting,:o,from above
-<lora:DZ\need_buzz_sign:1>,need_buzz,holding sign,crossed legs,indoors,sofa,smug
-<lora:DZ\gatotsu-stance-ponyxl-lora-nochekaiser:0.9>,gatotsu stance,weapon,sword,katana,holding weapon,holding,holding sword,foreshortening
+<lora:need_buzz_sign:1>,need_buzz,holding sign,sitting,:o,from above
+<lora:need_buzz_sign:1>,need_buzz,holding sign,crossed legs,indoors,sofa,smug
+<lora:gatotsu-stance-ponyxl-lora-nochekaiser:0.9>,gatotsu stance,weapon,sword,katana,holding weapon,holding,holding sword,foreshortening
 from above,from side,foreshortening,blue theme,black background,holding sword,glowing katana,energy,serious
 rose,petals,on back
 happy,close-up,from below,magic,casting spell,holding fire,(light trail, electricity, light particles:2),wizard,black background,multicolored background
@@ -106,10 +106,10 @@ Smiling face with open mouth and smiling eyes,full body,swirling black light aro
 (hyperrealistic:1.1),(high_contrast:1.1),(holy_(\theme\):1.2),(black-color-scheme:1.1),character card,abstract sun,moon and stars,murals,holy light,mural moon,simple black background,angels come,stars,card border,frame pattern
 indoors,bathroom,tiles,upper body,guided breast grab,guiding hand,grabbing anothers breast,groping,pov hands,naughty face
 outdoors,stairs,stone stairs,tree,(forest),nature,bamboo forest,battoujutsu stance,ready to draw,fighting stance,unsheathing,holding sheath,cowboy shot
-indoors,wooden floor,fireplace,(persian carpet),carpet,full body,lying,on stomach,barefoot,the pose,soles,legs up,feet,toes,crossed ankles,ass,on floor,head on hand,head rest,smile
+indoors,wooden floor,fireplace,(persian carpet),carpet,full body,lying,on stomach,the pose,soles,legs up,feet,toes,crossed ankles,ass,on floor,head on hand,head rest,smile
 sweat,indoors,locker room,locker,bench,undressing,open clothes,surprised,underwear,shorts pull,panties,shirt lift,underboob,blush,excited,closed mouth
 breasts,breast lift,from below,night,night sky,starry sky,upper body,v-shaped eyebrows,smug
-indoor,bedroom,Close-up,blowing kiss,heart,puckered lips,o3o
+indoor, bedroom, upper body, blowing kiss, heart, puckered lips, o3o, looking at viewer, soft lighting
 holding,holding weapon,holding sword,signature,standing,glowing,blood,closed mouth,embers,black background
 lips,thin lips,parted lips,solo,upper body,dark,underlightling,very aesthetic
 negative space,cinematic shot,wide shot,from above,tragedy,standing,looking up,head up,head tilt,outstretched hand,reaching towards viewer,black background,simple background,smug
@@ -146,7 +146,7 @@ panorama,field of flowers,sunrays,godrays,night,full moon,the pose,wavy mouth,cl
 laying on back,green grass,expanse of colorful flowers,lake background,light smile,hands behind the head,from front,(depth of field),(dynamic angle),full_shot
 from above,outdoors,lantern festival,summer festival,indoors,outstretched hand,:\3
 full body,living room,couch,dark,spread legs,distracted,aloof,oblivious
-Lying on back with legs raised, soles of feet touching
+full body, lying, on back, legs up, feet together, soles, looking at viewer, smile, simple background
 Sitting on ground,legs crossed at ankles,hands resting on knees
 head tilt,blue sky,wheat field,reaching towards viewer,from above,film grain,cinematic lighting,dynamic pose,depth of field,detailed background
 lying back with arms stretched out and legs slightly bent,a soft smile on the face,enjoying the moment
@@ -163,13 +163,13 @@ cowboy shot,from behind,bent over,(ass focus),looking back,hands on wall,solo,th
 dynamic composition,1girl,hand on katana,unsheathing,closed mouth,embers,black background,dynamic pose,dutch angle,foreshortening,twilight,glowing,ink background
 cherry blossoms,standing,gift box,foreshortening,(holding gift:1.2),outstretched arms,embarrassed,knees together feet apart,day
 from below,straight-on,hand up,holding umbrella,looking at viewer,cowboy shot,floating skirt,embarrassed,blush,open mouth,wavy mouth,legs apart,facing viewer,upskirt,rain background,water drop,wind
-sitting,(one leg up:1.2),toes,pantyhose covering soles,seductive smile,looking at viewer,indoors,bedroom,sunlight,close up
+sitting, (one leg up:1.2), feet, toes, (pantyhose:1.2), seductive smile, looking at viewer, indoors, bedroom, sunlight, cowboy shot, from side
 looking at viewer,white background,pointing,from_above
 lying,on back,on bed,looking to the side,from_below,feet
 lying,on back,on bed,looking to the side,from_below
 feet,close up,foot focus,blurry_background,low angle,sitting on bed,barefoot,seductive_smile,feet,toes,no_shoes,indoors,spread_toes,cabinet,fireplace,cabin,wooden_floor,books,steaming foot,steam,wet feet
 backlighting,holding katana,weapon focus,reflection on blade,night,dynamic pose
-((low angle,hand reaching to viewer,smile:1.5)),(Church:1.5),(sunlight,golden hue:1.5),((negative space:1.1)),((dynamic angle:1,2)),(background blur:0.7),((foreshortening:1.5)),((extreme perspective:1.4)),(dynamic pose:1.5)),((volumetric lighting:1.5)),((high contrast lighting:1.5)),((cinematic lighting:1.5)),((dramatic lighting:1.5)),((glowing lighting:1.5))
+((low angle, hand reaching to viewer, gentle smile:1.2)), (Church:1.5), (sunlight, golden hue:1.5), ((negative space:1.1)), ((dynamic angle:1.2)), (background blur:0.7), ((foreshortening:1.5)), ((extreme perspective:1.4)), (dynamic pose:1.5), ((volumetric lighting:1.5)), ((high contrast lighting:1.5)), ((cinematic lighting:1.5)), ((dramatic lighting:1.5)), ((glowing lighting:1.5))
 cloudy sky,wind,daytime,sitting,near rock,on near rock,crossed legs,hand on own face,hand on own cheek
 weapon,holding,holding weapon,holding sword,floral print,katana,glint,black background,dynamic pose,dynamic composition,dutch angle,foreshortening,detailed backgroud,depth of field,petals
 standing,full body,from side,floating hair,black background,building,arms at sides,halftone,colorful,abstract background,abstract,glitch,digital dissolve
@@ -238,7 +238,7 @@ breasts, looking_at_viewer, blush, holding, closed_mouth, standing, ass, outdoor
 1girl, solo, yeargothic architecture, from below, sitting,, soles:1.2, foot focus, presenting foot, show foot, nails, floating hair, hair strand, cute, choppy bangs, shiny eyes, beautiful detailed eyes, eyelashes, portrait, dutch angle, dynamic, lens flare, vignetting, dramatic shadow, cinematic lighting, light particles, rim light, (detailed background), volumetric lighting
 1girl, female focus, front view, from below, cowboy shot, chitose_cnr, looking at viewer, looking down, glaring, disgust, flustered, light blush, closed mouth, (glossy panties:1.3), motion lines, trembling, standing, feet apart, indoors, moody lighting, dress lift
 1girl, solo, long_hair, looking_at_viewer, smile, bangs, hair_ornament, sitting, green_eyes, purple_hair, flower, multicolored_hair, barefoot, pointy_ears, hair_flower, feet, toes, soles, foreshortening, foot_focus
-1girl, solo, sitting, panties, belt, indoors, feet, wet, legs, toes, wooden_floor, on_floor, ((head_out_of_frame)), foot_focus
+1girl, solo, sitting, panties, belt, indoors, feet, wet, legs, toes, wooden_floor, on_floor, ((head_out_of_frame))
 1girl, solo, looking_at_viewer, blush, smile, open_mouth, feet, wet, toes, no_shoes, soles, leg_up, from_below, foot_focus
 from_below, dynamic_pose, looking_at_viewer, blush, sitting, closed_mouth, shiny, feet, legs, toes, shadow, frown, no_shoes, soles, wavy_mouth, leg_up, legs_up, tearing_up, meme, pout, foot_focus, sack, wall, in_container, brick_wall, trash_can, stuck, stone_wall, trash_bag
 looking at viewer, standing, holding, weapon, sword, katana, holding weapon, holding sword, looking down, from below, blurry, motion blur, blurry foreground, depth of field, blurry background, sharp focus, light particles, Fancy Anime Illustration
@@ -282,3 +282,4 @@ sitting, legs_apart_accidental, upskirt, hands_on_knees, embarrassed_expression,
 
 
 
+crossed legs,throne,from below,on chair,feet,no shoes,soles
