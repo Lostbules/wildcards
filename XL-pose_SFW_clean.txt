@@ -7,7 +7,7 @@ cowboy shot,jungle,rainforest,ruins,night,full moon,outstretched arms,seductive 
 standing,v fingers,smile,(Selfie:1.2)
 standing,dynamic pose
 holding bubble tea,cafev
-solo,(Selfie:1.2),bent over,on all fours
+solo, full body, bent over, on all fours, from side, bedroom, looking at viewer, blush, half-closed eyes, soft lighting
 straight-on, full body,mountaintop city,light,Making a heart with fingers,:D
 <lora:unsheathing_pose_vertical_3_final:0.9>,arm up unsheathing sword
 crossed arms,standing
@@ -52,7 +52,7 @@ smile,top-down bottom-up,looking back,bent over,cameltoe,looking at viewer
 (no shoes:1.2),sitting,feet,toes,soles,chair,crossed legs,foot focus,front view,from_below
 (extremely intricate detail),extremely delicate and beautiful,(beautiful and aesthetic:1.2),(cute, pretty, pale skin),detailed face,glowing effect,ethereal glow,light particles floating,transcendent realms,abstract background,vibrant auras,euphoric harmonies,shiny skin,((full body shot,standing)),dynamic pose
 walking,looking away,full body,hair flowing over,wind,depth of field,outdoors,flowers,blue sky,cloud,lamppost
-grin,selfie,from above,peace sign over eye
+1girl, solo, grin, selfie, from above, peace sign over eye
 aurora,back,bare back,bare shoulders,constellation,from behind,light particles,off shoulder,fireworks,night
 cowboy shot,town, japanese architecture,night, full moon,heart eyes
 gamer chair,legs up,upskirt,dark cozy room,gamer-girl room,( beautiful face:1.1),shy,cute face,streamer,smartphone,night,long legs,panties raised higher
@@ -86,10 +86,8 @@ Emotionalization,smile,open mouth,golden hour,unconventional supreme masterpiece
 ass,sitting,panties,spread legs,thighs,couch
 <lora:PonyFantasyKnightsV4:0.6>,hkstyle,full body shot,sword focus,combat pose,((dynamic pose)),(wielding a giant crucifix sword),(the sword glowing with a fiery red mystical holy energy),hyper stylize,trending on art station,diagonal shot,a castle in the background,midnight,dynamic angle
 <lora:PonyFantasyKnightsV4:0.7>,holding an electric sword made out of light orange lightning with blue glowing runes,running through a dark forest,close-up shot,vibrant colors,detailed background,she is charging the sword towards the camera,camera focus on the giant sword,close up shot on the sword,hkstyle:1.2:1.2
-<lora:PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
 <lora:PonyFantasyKnightsV4:0.6>,Low angle view,darkness covering his face,holding a red glowing sword in each hand in an epic stance,church windows in background,hkstyle:1.2
 <lora:PonyFantasyKnightsV4:0.5>,upper body shot,giant sword focus,hyper stylize,trending on art station,goth cathedral background,impaling pose,hkstyle,fancy effect,diagonal,holding a giant sword,(wielding a giant sword),giant sword color same as hair color,particle effect around the giant sword,the giant sword emits mysterious dark energy,glowing sword
-<lora:PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
 <lora:ss_highangle_pony:0.7>,ss_highangle,living room,relaxing,look back,from behind,pov,from above,sitting on person,sitting on lap,smile
 <lora:1076 holding money_v1_pony:1>,ruanyi1076,pov hands,holding money,money,banknote
 <lora:1076 holding money_v1_pony:0.8>,ruanyi1076,pov hands,holding money,money,banknote,lift up the skirt,(panties:1.2),(lift the skirt:1.2),skirtlift
@@ -130,7 +128,7 @@ evil smile,standing,legs together,breasts,face,eyes,hanging breasts,downblouse,e
 (arching her back, camel toe),ass,feet,looking back,spread legs,window,cushions,frizzy
 sitting against tree,on floor,grass,tree,summer,head tilt,closed eyes,sleeping,book on floor
 (heart hands:1.1),rating safe,smile,wink,puffy shoulders,stage,idol
-[solo focus::1],serafuku,short sleeves,tie,pleated skirt,outdoors,[street, park, sakura, sakura petals, spring \(season\):1],pink theme,[schoolbag, shoulder bag:2],hands behind back,leaning forward,looking at viewer,smile,flirty,flirting,naughty face,half-closed eyes,[cowboy shot::1]
+solo focus, serafuku, short sleeves, tie, pleated skirt, outdoors, street, park, sakura, sakura petals, spring, pink theme, schoolbag, shoulder bag, hands behind back, leaning forward, looking at viewer, smile, flirty, flirting, naughty face, half-closed eyes, cowboy shot
 solo,flower (shop:0.5),indoors,(garden:1.1),flowers,florist,Lily \(flower\),roses,foliage,(sunflower:0.8),store clerk,vase,potted plant,looking down
 forest lake,wet hair,half submerged,from behind,raised arms,hair lift,looking at viewer,waterfall,rocks,flowers,parted lips,looking over shoulder
 modeling,fashion,hand on hip,leaning forward,hand on own calf,(serious:0.8),seductive,expressionless,half-closed eyes,(fashion magazine cover:1.2),black background,(english text:1.1)
@@ -218,7 +216,7 @@ smile,half-closed eyes,close-up,perspective,cowboy shot,dark theme,dim lighting,
 sitting,side view,desk,chair,book,bookshelf,head rest,holding,holding pen,lamp,night,open book,pen,plant,potted plant,sky,star (sky),starry sky,window,windowsill,writing
 dance,spread arms,plum blossom,surrounded by flowers,dynamic angle,cherry blossom petals flowing by wind,flowing hair,cherry blossom petals
 glowing red energy explosion in the background,colorful crystal shards,black and red abstract patterns,intense expression,detailed shading,vibrant colors,fast motion blur,energetic,chaotic composition,fantasy theme,energetic motion,detailed textures,dynamic lines,intense focus,emotional intensity,fantasy elements,vivid colors,action-packed scene,detailed background,dynamic energy,powerful pose,energetic explosion,fantasy art
-dynamic pose,side view,lying in grass,looking up,looking at the sky,holographic sky,holofoil glitter sky,glowing,ethereal,neon hair,glowing hair,on back,night sky,reaching for stars
+full body, dynamic pose, side view, lying in grass, looking up, looking at the sky, holographic sky, holofoil glitter sky, glowing, ethereal, neon hair, glowing hair, on back, night sky, reaching for stars
 solo,looking at viewer,ringed eyes,finger frame,one eye closed,hands up,arm up
 Portrait,bent over,rear view,low view,low pov,from below,Simple background,looking_back
 floating hair,looking at viewer,outstretched arm,reaching,reaching towards viewer,ballerina,ballet

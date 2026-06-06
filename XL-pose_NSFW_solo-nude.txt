@@ -91,17 +91,17 @@ solo,ass,anus,pussy,ass focus,from behind,looking back,looking at viewer,barefoo
 anus,feet,ass,toes,soles,legs up,lying,on back,spread legs,presenting,spread pussy,spread,(without shoes:1.2)
 selfie,curvy  body,no panties,shy,smartphone,night,perfect ass,sitting on floor,from below
 selfie,no panties,shy,smartphone,night,perfect ass,(sitting on floor:1.2),m_legs,from below,smug,cleft of venus
-selfie,no panties,(beautiful face:1.1),shy,cute face,smartphone,night,perfect ass,spread legs,pussy,ass focus,kneel on the ground,feet,cleft of venus,(from_back:1.2)
+1girl, solo, selfie, no panties, (beautiful face:1.1), shy, cute face, smartphone, night, perfect ass, spread legs, pussy, ass focus, kneel on the ground, feet, cleft of venus, (from_back:1.2)
 no panties,(beautiful face:1.1),shy,cute face,night,perfect ass,spread legs,pussy,ass focus,sitting on floor,laying face up,feet,cleft of venus
 solo,shower,soap foam,hands on hair,seductive smile,looking back,ass,sideboob,wet,wet hair,water,fog,standing,nude,fogged window
 shirt lift,breasts out,topless,flashing,faceless (crowd:1.1),outdoors,blue sky,looking at viewer,smile,grass,tents,posing,flirty,flirting,[solo focus:2],peace sign,public indecency,music festival,[bouncing breasts, dancing:1],hippie girl,rainbow gradient
 hypnosis,(spiral eyes:1.1),dazed,expressionless,(head tilt:1.1),masturbating,parted lips,gaming chair,pink lighting,fingering [clothed masturbation, panties aside:2],spread legs,wearing headphones,frontal light,dark room,(musical note:1.2),shock,nipple slip
-solo,standing,lifted skirt,from behind,[looking back::2][looking down:2],hand on own ass,spanked,indoors,[tears:2],full-face blush,parted lips,floating hearts,[pussy juice:5]
+solo, standing, lifted skirt, from behind, looking back, looking down, hand on own ass, spanked, indoors, (tears:1.2), full-face blush, parted lips, floating hearts, (pussy juice:1.3)
 waterfall,bathing,nude,wet hair,rating_explicit
-squatting[leaning on wall::2][on a park:2],[grass:3],naughty face,solo[ focus:1],shushing,(finger over nose, pointing up,:0.9),[silence gesture:2],lifted shirt,undressing,looking at viewer,wink[fingering::1],hiding,public indecency,blush,biting lip,looking at viewer
+squatting, leaning against wall, outdoors, park, (grass:1.2), naughty face, solo, shushing, finger over nose, pointing up, silence gesture, lifted shirt, undressing, looking at viewer, wink, fingering, hiding, public indecency, blush, biting lip
 outdoors,cobblestone,night,standing,faceless male,grope,woman in front,size difference,grabbing another's breast,muscular male,dark-skinned male,frown,disgust,tsundere,full face blush,avoiding gaze,pussy juice
 ripped clothes,standing,faceless male,grope,woman in front,size difference,grabbing another's breast,muscular male,dark-skinned male,grin,floating hearts,half-closed eyes,pussy juice
-[flower petals, shampoo bottle::2],nude,lying,looking at viewer,inviting smile,[full body, (upside-down:-1) from above::2],[bathroom, indoors, marble bathtub, submerged, window, rubber duck:1],wet
+nude, lying, on back, looking at viewer, inviting smile, flower petals, shampoo bottle, full body, from above, bathroom, indoors, marble bathtub, submerged, window, rubber duck, wet
 in an onsen,nude,kneeling,masturbating under clothes,biting lip,closed eyes,blush,heavy breathing,pussy juice
 solo,lying on bed,(masturbating:1.1),indoors,shirt pulled up,half-closed eyes,heavy breathing,holding cellphone,looking at cellphone,hand between legs
 looking at viewer,pussy,from below,seductive smile,standing over viewer,spreading pussy,pussy juice,legs apart,facing viewer,standing
@@ -147,7 +147,6 @@ bandaid, bandaids_on_nipples, bare_shoulders, blush, breasts, collarbone, lookin
 pulled by self, raised eyebrows, shy, 1girl, breasts, blush, simple background, white background, nipples, open clothes, looking to the side, breasts out, :o, parted lips, cropped legs
 :q, ass, barefoot, beach towel, blush, breasts, closed mouth, feet, folded, full body, looking at viewer, lying, navel, on back, outdoors, smile, soles, solo, nipples, stomach, thighs, hands on thighs, toes, tongue, tongue out, towel, one breast out, panties_around one leg, pussy
 1girl, solo, nipples, one breast out, pussy, looking at viewer, blush, smile, open mouth, sweat, tongue, tongue out, sitting, panty pull, from above, from side, bed
-feet, foot focus, holding, holding shoes, holding unworn clothes, looking at viewer, panties, panties visible through clothes, shoes, sitting, soles, solo, toes, train interior, unworn shoes, white panties, cum on feet, cum in shoes, closed mouth, (shaded_face:1.3), contempt, smell, front view, excessive_cum, knees apart feet together, feet together
 1girl, solo, looking at viewer, smile, closed mouth, ass, heart, nude, lying, pussy, shiny, on back, uncensored, anus, legs up, heart hands, presenting, cleft of venus, cross-shaped pupils
 1girl, solo, bent over, leaning forward, leaning on tennis net, one arm on tennis net, from behind, back view, looking back, looking at viewer, ass focus, ass, playful, teasing smile, outdoors, tennis court, sweat, sweatband, sweatdrop, no panties, pussy peek, naughty face, closed mouth, lifting own clothes, partially visible vulva, presenting
 1girl, blush, breasts, flashing, hands up, lifting own clothes, face, nose blush, open mouth, spikes, sweat, tube top, tube top lift, upper body, v-shaped lift, looking at viewer, smile, solo, spiked eyebrows, nipple
@@ -161,7 +160,7 @@ blush, standing, collarbone, sweat, parted lips, indoors, armpits, pillow, white
 1girl, lying on her back on a beige sofa, lookinf at the viewer, nipples
 1girl, size difference, age difference, height difference, fat man, nude, sweat, trembling, solo focus, loli, (v, standing, nervous smile, standing, grabbing from behind, grabbing another's breast)
 1girl, solo, nipples, blush, looking at viewer, white background, simple background, (breasts, underwear, panties, panty pull, open mouth, pulled by self, pussy juice, leaning forward)
-shiny skin, 1girl, seaside, male swimwear, long swim trunks, topless, nipples, public nudity, crowd, man, blush, bikini tanlines, model pose, looking at viewer
+1girl, seaside, beach, ocean, outdoor, male swimwear, topless, (nipples:1.2), public nudity, crowd, blush, smile, full body, standing, model pose, looking at viewer, sunlight, (shiny skin:1.2), depth of field
 <lora:panty-pull-pov-v2-illustriousxl-lora-nochekaiser:0.8>, panty pull pov, looking at viewer, blush, open mouth, underwear, panties, ass, pussy, solo focus, looking back, from behind, clothes lift, pov, anus, cameltoe, back, bent over, panty pull, dress lift, pov hands, partially visible vulva, pussy peek, assisted exposure
 1girl, solo, breasts, nipples, barefoot, feet, anus, pussy, toes, nude, lollipop, candy, food
 artistic_pose, side_lying, curled_up, back_view, elegant_curves, silk_sheets, morning_light, sheer_curtains, soft_glow, intimate_atmosphere, fine_art_nude, masterpiece, detailed_skin_texture, peaceful

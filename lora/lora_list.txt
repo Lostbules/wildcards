@@ -1,90 +1,183 @@
 # ============================================================
-# ComfyUI Impact Pack — LoRA 完整清单
-# 来源：wildcards/ 下所有 .txt 文件
-# 更新：2026-06-02
-# 总计：78 个
+# LoRA 速查表 — ComfyUI Impact Pack Wildcards
+# 物理路径: E:\ComfyUI-aki-v2\ComfyUI\models\loras\
+# 更新: 2026-06-06 | 总计: 74 个 safetensors
+# ============================================================
+#
+# 调用语法: <wlr:子目录\文件名:权重>
+#   例: <wlr:pose\mating-press-v4-illustriousxl-lora-nochekaiser:1:1>
+#
+# 底模缩写: IL=Illustrious, P=Pony, NAI=NoobAI, S1=SD1.5, SX=SDXL
+# 权重: R=推荐值（来自现有 wildcards 中的实际使用频率）
+# 标记: ★=wildcards 中已使用, ☆=未使用
+#
+# 提示: NTR 8个LoRA的详细触发词和变体见:
+#   ~/.claude/skills/tag-crafter/references/ntr-composition-recipes.md §0
 # ============================================================
 
-# ── 姿势 / Pose ────────────────────────────────────────────
-_sdxl-hipbom
-all-fours-from-below-ponyxl-lora-nochekaiser
-battoujutsu_sword_stance
-character_sheet
-concept_1fingerselfie_illustriousXL
-down_v2
-fanningcrotch_Pony_v1
-gatotsu-stance-ponyxl-lora-nochekaiser
-half-spread-pussy-from-below-ponyxl-lora-nochekaiser
-JackoAIO-XL-V1
-leg-up-panty-pull-ponyxl-lora-nochekaiser
-lyingsplitV5000013.tVQi
-mating-press-v4-illustriousxl-lora-nochekaiser
-missionary-on-side-ponyxl-lora-nochekaiser
-need_buzz_sign
-oppai-challenge-ponyxl-lora-nochekaiser
-peeking_out_ponyxl
-planted-sinner-ponyxl-lora-nochekaiser
-povstomped_il_v1
-random-nsfw-poses-v12-illustriousxl-lora-nochekaiser
-selfie-mirror-straddling-ponyxl-lora-nochekaiser
-skirt_hold_bowing_d16
-spread-ass-pov-illustriousxl-lora-nochekaiser
-squatting-cowgirl-position-v4-illustriousxl-lora-nochekaiser
-ss_highangle_pony
-standing-doggystyle-from-side-ponyxl-lora-nochekaiser
-standing-groping-sex-ponyxl-lora-nochekaiser
-standingDoggyV3.6spf
-swing_Pony_v1
-the-pose-ponyxl-lora-nochekaiser
-unsheathing_pose_vertical_3_final
-VRP
+# ============================================================
+# pose/ — 姿势 / 动作 / 性行为 (34个)
+# ============================================================
 
-# ── 动作 / Action ──────────────────────────────────────────
-1076 holding money_v1_pony
-concept_sideboobpeek_ponyXL
-feeding_Pony_v1
-free-oppai-illustriousxl-lora-nochekaiser
-grabbed-breast-over-shoulder-v6-illustriousxl-lora-nochekaiser
-groping-hand-under-clothes-v3-illustriousxl-lora-nochekaiser
-holding_teapot_pouring_3_final_d32
-Incoming_Hug_Pony
-PonyFantasyKnightsV4
-standing-breast-press-handjob-ponyxl-lora-nochekaiser
+## 性行为姿势
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+★ mating-press-v4-illustriousxl-lora-nochekaiser       | <wlr:pose\mating-press-v4-illustriousxl-lora-nochekaiser:1:1>       | 1.0 | IL
+★ missionary-on-side-ponyxl-lora-nochekaiser            | <wlr:pose\missionary-on-side-ponyxl-lora-nochekaiser:1:1>            | 1.0 | P
+★ standing-doggystyle-from-side-ponyxl-lora-nochekaiser | <wlr:pose\standing-doggystyle-from-side-ponyxl-lora-nochekaiser:0.7:1> | 0.7 | P
+★ standing-groping-sex-ponyxl-lora-nochekaiser          | <wlr:pose\standing-groping-sex-ponyxl-lora-nochekaiser:1:1>          | 1.0 | P
+★ all-fours-from-below-ponyxl-lora-nochekaiser          | <wlr:pose\all-fours-from-below-ponyxl-lora-nochekaiser:0.8:1>       | 0.8 | P
+★ planted-sinner-ponyxl-lora-nochekaiser                | <wlr:pose\planted-sinner-ponyxl-lora-nochekaiser:0.7:1>             | 0.7 | P
+★ selfie-mirror-straddling-ponyxl-lora-nochekaiser      | <wlr:pose\selfie-mirror-straddling-ponyxl-lora-nochekaiser:0.7:1>   | 0.7 | P
+★ squatting-cowgirl-position-v4-illustriousxl-lora-nochekaiser | <wlr:pose\squatting-cowgirl-position-v4-illustriousxl-lora-nochekaiser:1:1> | 1.0 | IL
+★ random-nsfw-poses-v12-illustriousxl-lora-nochekaiser  | <wlr:pose\random-nsfw-poses-v12-illustriousxl-lora-nochekaiser:0.8:1> | 0.8 | IL
+☆ lyingsplit_v5-000013                                  | <wlr:pose\lyingsplit_v5-000013:0.8:1>                               | 0.8 | IL
+☆ swing_Pony_v1                                         | <wlr:pose\swing_Pony_v1:0.8:1>                                      | 0.8 | P
 
-# ── POV / 视角 ─────────────────────────────────────────────
-LoRAPovOnCouchNoobAIXLvPred
-Selfie_Pov
+## 足交 / 手交
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+★ standing-breast-press-handjob-ponyxl-lora-nochekaiser | <wlr:pose\standing-breast-press-handjob-ponyxl-lora-nochekaiser:1:1> | 1.0 | P
+★ reverse_footjob_ilxl_v1                               | <wlr:pose\reverse_footjob_ilxl_v1:1:1>                              | 1.0 | IL
+★ under_table_footjob_ilxl_v1                            | <wlr:pose\under_table_footjob_ilxl_v1:1:1>                          | 1.0 | IL
+☆ porndream_blowjob_sd1.5-000003                         | <wlr:pose\porndream_blowjob_sd1.5-000003:0.8:1>                     | 0.8 | S1
 
-# ── 衣物 / Clothing ────────────────────────────────────────
-clothes pull_illustrious_V1.0
-panty aside_Pony_V1.0
-panty aside_pony_V2.0
-panty-pull-pov-v2-illustriousxl-lora-nochekaiser
-panty-pull-undressing-from-behind-illustriousxl-lora-nochekaiser
-Pantsing
-shirt-in-mouth-ponyxl-lora-nochekaiser
-shirtpull
-TearingClothesOff_Illustrious
-UnwornPantiesCensor_T0V0
-X-ray_Glasses
+## 口交 / 舔阴
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+★ cunnilingus_gesture_v0.1-pony                         | <wlr:pose\cunnilingus_gesture_v0.1-pony:0.8:1>                      | 0.8 | P
 
-# ── 性行为 / Sex Act ───────────────────────────────────────
-bentoverblowjob
-cunnilingus_gesture_v0.1-pony
-FingeringV1
-InniePussy1 Pony v2
-multitaskingProdigy_Illustrious
-penis_on_pussy_ilxl_v1
-restrained_missionary-05
-stable_legs_together_ilxl_v1
-trastey
+## 服装 / 裸露
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+★ free-oppai-illustriousxl-lora-nochekaiser              | <wlr:pose\free-oppai-illustriousxl-lora-nochekaiser:0.8:1>          | 0.8 | IL
+★ groping-hand-under-clothes-v3-illustriousxl-lora-nochekaiser | <wlr:pose\groping-hand-under-clothes-v3-illustriousxl-lora-nochekaiser:1:1> | 1.0 | IL
+★ grabbed-breast-over-shoulder-v6-illustriousxl-lora-nochekaiser | <wlr:pose\grabbed-breast-over-shoulder-v6-illustriousxl-lora-nochekaiser:0.7:1> | 0.7 | IL
+☆ fanningcrotch_Pony_v1                                 | <wlr:pose\fanningcrotch_Pony_v1:0.8:1>                              | 0.8 | P
+☆ skirt_hold_bowing_d16                                 | <wlr:pose\skirt_hold_bowing_d16:0.8:1>                              | 0.8 | P
 
-# ── 角色 / Character ───────────────────────────────────────
-c_azuma seren_nbe11_xl
-juese/CHiiragi_Utena
-juese/Cagliostro_illus
-juese/Eudie_v2
-juese/IsekaiOjisan_Sui_IlluXL
-juese/MajoNoTabiTabi_Elaina_IlluXL
-juese/shield-atla-s3-illustriousxl-lora-nochekaiser
-juese/yuni_default_princess connect_epoch-000075
+## 构图 / 视角 / 姿势
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+★ ss_highangle_pony                                     | <wlr:pose\ss_highangle_pony:0.7:1>                                  | 0.7 | P
+★ oppai-challenge-ponyxl-lora-nochekaiser                | <wlr:pose\oppai-challenge-ponyxl-lora-nochekaiser:1:1>              | 1.0 | P
+★ the-pose-ponyxl-lora-nochekaiser                       | <wlr:pose\the-pose-ponyxl-lora-nochekaiser:1:1>                     | 1.0 | P
+★ peeking_out_ponyxl                                    | <wlr:pose\peeking_out_ponyxl:0.8:1>                                 | 0.8 | P
+★ gatotsu-stance-ponyxl-lora-nochekaiser                 | <wlr:pose\gatotsu-stance-ponyxl-lora-nochekaiser:0.8:1>             | 0.8 | P
+★ leg-up-panty-pull-ponyxl-lora-nochekaiser              | <wlr:pose\leg-up-panty-pull-ponyxl-lora-nochekaiser:0.8:1>          | 0.8 | P
+★ spread-ass-pov-illustriousxl-lora-nochekaiser          | <wlr:pose\spread-ass-pov-illustriousxl-lora-nochekaiser:0.8:1>      | 0.8 | IL
+★ half-spread-pussy-from-below-ponyxl-lora-nochekaiser   | <wlr:pose\half-spread-pussy-from-below-ponyxl-lora-nochekaiser:0.8:1> | 0.8 | P
+★ concept_1fingerselfie_illustriousXL                    | <wlr:pose\concept_1fingerselfie_illustriousXL:0.8:1>                | 0.8 | IL
+★ 1076 holding money_v1_pony                             | <wlr:pose\1076 holding money_v1_pony:0.8:1>                         | 0.8 | P
+★ LoRAPovOnCouchNoobAIXLvPred                            | <wlr:pose\LoRAPovOnCouchNoobAIXLvPred:1:1>                          | 1.0 | NAI
+★ Incoming_Hug_Pony                                     | <wlr:pose\Incoming_Hug_Pony:0.8:1>                                  | 0.8 | P
+★ povstomped_il_v1                                      | <wlr:pose\povstomped_il_v1:1:1>                                     | 1.0 | SX
+
+# ============================================================
+# ntr/ — NTR 主题 (8个)
+# 详细触发词见 skill: references/ntr-composition-recipes.md §0
+# ============================================================
+
+| 文件名 | 调用语法 | R | 底模 | 核心触发词 |
+|--------|---------|----|------|-----------|
+☆ Silhouette sex NTR-IL_NAI_PY       | <wlr:ntr\Silhouette sex NTR-IL_NAI_PY.safetensors:1:1>       | 1.0 | IL | silhouette, voyeur pov, sliding doors, shouji, sleeping
+☆ Hidden sex NTR-IL_NAI_PY           | <wlr:ntr\Hidden sex NTR-IL_NAI_PY.safetensors:1:1>           | 1.0 | IL | stealth sex, clothed sex, standing sex, kitchen, apron
+☆ Fellatio_Under_Table               | <wlr:ntr\Fellatio_Under_Table.safetensors:1:1>               | 1.0 | IL | fellatio-under table, under table, stealth sex, table
+☆ Caught oral NTR-IL_NAI_PY          | <wlr:ntr\Caught oral NTR-IL_NAI_PY.safetensors:1:1>          | 1.0 | IL | open door, walk-in, caught, oral, fellatio, surprised
+☆ Caught NTR-Sex-IL_NAI_PY           | <wlr:ntr\Caught NTR-Sex-IL_NAI_PY.safetensors:1:1>           | 1.0 | IL | husband and wife, open door, caught, doggystyle, on bed
+☆ Stealth sex NTR-IL_NAI_PY          | <wlr:ntr\Stealth sex NTR-IL_NAI_PY.safetensors:1:1>          | 1.0 | IL | false smile, waving, stealth sex, sitting, dojo
+☆ NTRcheatingwaifu_Illustrious       | <wlr:ntr\NTRcheatingwaifu_Illustrious.safetensors:1:1>       | 1.0 | IL | prostitution, money, love hotel, humiliation, degradation
+☆ [IL]see ntr                        | <wlr:ntr\[IL]see ntr.safetensors:0.8:1>                      | 0.8 | IL | see ntr, voyeur, peeping
+
+# ============================================================
+# style/ — 风格 / 画质 / 光影 (14个)
+# ============================================================
+
+## 画质增强
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+☆ Hyperrealistic_illustrious           | <wlr:style\Hyperrealistic_illustrious:0.8:1>                    | 0.8 | IL
+☆ FLMFX                                | <wlr:style\FLMFX:0.8:1>                                         | 0.8 | IL
+☆ hsUltrahdCG_IllEpic                  | <wlr:style\hsUltrahdCG_IllEpic:0.8:1>                           | 0.8 | IL
+☆ add_detail                           | <wlr:style\add_detail:0.8:1>                                    | 0.8 | S1
+
+## 风格化
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+☆ Noname55_2.0                         | <wlr:style\Noname55_2.0:0.8:1>                                  | 0.8 | P
+☆ Madruga3D_ILv02                      | <wlr:style\Madruga3D_ILv02:0.8:1>                               | 0.8 | IL
+☆ anime_screencap-IL-NOOB_v3           | <wlr:style\anime_screencap-IL-NOOB_v3:0.8:1>                    | 0.8 | IL
+☆ animemix_v3_offset                   | <wlr:style\animemix_v3_offset:0.8:1>                            | 0.8 | S1
+☆ akiryomai-v2-realistic-final-6ep     | <wlr:style\akiryomai-v2-realistic-final-6ep:0.8:1>              | 0.8 | S1
+☆ lightcknoob.MIys                     | <wlr:style\lightcknoob.MIys:0.8:1>                              | 0.8 | NAI
+★ PonyFantasyKnightsV4                 | <wlr:style\PonyFantasyKnightsV4:0.6:1>                          | 0.6 | P
+
+## 光影
+| 文件名 | 调用语法 | R | 底模 |
+|--------|---------|----|------|
+☆ lighting_v2                          | <wlr:style\lighting_v2:0.8:1>                                   | 0.8 | IL
+☆ lightsourceCIVITAI                   | <wlr:style\lightsourceCIVITAI:0.8:1>                             | 0.8 | IL
+☆ nagoo.ponyv6                         | <wlr:style\nagoo.ponyv6:0.8:1>                                   | 0.8 | P
+
+# ============================================================
+# character/ — 角色 LoRA (14个)
+# ============================================================
+
+## 原神 / 崩铁
+| 文件名 | 调用语法 | R | 底模 | 角色 |
+|--------|---------|----|------|------|
+☆ Columbina_genshin_impact              | <wlr:character\Columbina_genshin_impact:1:1>                    | 1.0 | IL | 哥伦比娅（原神）
+☆ columbinaIngame.xsXF                  | <wlr:character\columbinaIngame.xsXF:1:1>                        | 1.0 | IL | 哥伦比娅·游戏内
+☆ GongsunLi1llust                       | <wlr:character\GongsunLi1llust:1:1>                             | 1.0 | IL | 公孙离（王者荣耀）
+
+## 鸣潮
+| 文件名 | 调用语法 | R | 底模 | 角色 |
+|--------|---------|----|------|------|
+☆ WuWa_cartethyia IL                    | <wlr:character\WuWa_cartethyia IL:1:1>                          | 1.0 | IL | 卡提希雅 v1
+☆ cartethyiaIL.rn8G                     | <wlr:character\cartethyiaIL.rn8G:1:1>                           | 1.0 | IL | 卡提希雅 v1 (alt)
+☆ cartethyiaILV30.CWkF                  | <wlr:character\cartethyiaILV30.CWkF:1:1>                        | 1.0 | IL | 卡提希雅 v3
+☆ xl-ill-【鸣潮丨卡提希雅】_v1-13       | <wlr:character\xl-ill-【鸣潮丨卡提希雅】_v1-13:1:1>               | 1.0 | IL | 卡提希雅 v1-13
+☆ Yunying2llust                         | <wlr:character\Yunying2llust:1:1>                               | 1.0 | IL | 云缨（王者荣耀）
+☆ QingYi1llust                          | <wlr:character\QingYi1llust:1:1>                                | 1.0 | IL | 青衣（绝区零）
+
+## 鬼灭之刃
+| 文件名 | 调用语法 | R | 底模 | 角色 |
+|--------|---------|----|------|------|
+☆ MitsuriKanroji-IL-v1-07               | <wlr:character\MitsuriKanroji-IL-v1-07:1:1>                     | 1.0 | IL | 甘露寺蜜璃
+☆ Shinobu_Kochou_Demon_Slayer_Kimetsu_no_Yaiba_-_Illustrious_V2 | <wlr:character\Shinobu_Kochou_Demon_Slayer_Kimetsu_no_Yaiba_-_Illustrious_V2:1:1> | 1.0 | IL | 胡蝶忍
+
+## DOA / 其他
+| 文件名 | 调用语法 | R | 底模 | 角色 |
+|--------|---------|----|------|------|
+☆ ALLmai shiranui                       | <wlr:character\ALLmai shiranui:1:1>                             | 1.0 | S1 | 不知火舞
+☆ doa_shiranui_mai-v2                   | <wlr:character\doa_shiranui_mai-v2:1:1>                         | 1.0 | S1 | 不知火舞 v2
+☆ 舞の輪舞曲_wai_IL                     | <wlr:character\舞の輪舞曲_wai_IL:1:1>                             | 1.0 | IL | 舞の輪舞曲
+
+# ============================================================
+# xl/ — XL 风格变体 (4个)
+# ============================================================
+
+| 文件名 | 调用语法 | R | 底模 | 说明 |
+|--------|---------|----|------|------|
+☆ RealisticSkin_PornMaster-Pro_v1-000020 | <wlr:xl\RealisticSkin_PornMaster-Pro_v1-000020:0.8:1>          | 0.8 | IL | 真实皮肤质感
+☆ add_contrast_XL                        | <wlr:xl\add_contrast_XL:0.8:1>                                 | 0.8 | P  | 对比度增强
+☆ asian cosplay photo-noob-V1-lora       | <wlr:xl\asian cosplay photo-noob-V1-lora:0.8:1>                | 0.8 | IL | 亚洲 cosplay 照片风
+☆ lowres_concept_Illustrious_v1          | <wlr:xl\lowres_concept_Illustrious_v1:0.8:1>                   | 0.8 | IL | 低分辨率概念风
+
+# ============================================================
+# 路径映射速查
+# ============================================================
+#
+# 物理文件: models\loras\<子目录>\<文件名>.safetensors
+# 调用语法: <wlr:<子目录>/<文件名>:<权重>>
+#
+# 当前子目录:
+#   pose/     → <wlr:pose\xxx:W>
+#   ntr/      → <wlr:ntr\xxx.safetensors:W>  (注意: ntr 需 .safetensors 后缀)
+#   style/    → <wlr:style\xxx:W>
+#   character/→ <wlr:character\xxx:W>
+#   xl/       → <wlr:xl\xxx:W>
+#   recipes/  → ComfyUI 配方管理器，勿动
+#
+# 注意: ntr 子目录的 LoRA 调用时文件名需带 .safetensors 后缀!
+# ============================================================

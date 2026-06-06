@@ -114,7 +114,6 @@ fie_claussell, eiyuu densetsu, white_hair, short_hair, green_eyes, bob_cut, bare
 fie_claussell, eiyuu densetsu, white_hair, short_hair, green_eyes, bob_cut, small_breasts, bare_shoulders
 fie_claussell, eiyuu densetsu, white_hair, short_hair, green_eyes, tank_top, black_shorts, sneakers, bare_shoulders, navel, small_breasts
 filo \(tate no yuusha no nariagari\), tate no yuusha no nariagari, blue eyes, blonde hair, very long hair, long hair, parted bangs, ahoge, barefoot, collarbone, white dress, long sleeves, blue bow, feathered wings, white wings, bird wings
-firefly \(ar-26710\) \(honkai: star rail\), honkai: star rail, purple eyes, hair between eyes, two-tone eyes, grey hair, long hair, very long hair, white hair, black hairband, medium breasts, pilot suit, white bodysuit
 firefly \(honkai: star rail\), honkai \(series\), hair between eyes, purple eyes, grey hair, long hair, black hairband, hair intakes, white shirt, black jacket, long sleeves
 fischl \(ein immernachtstraum\) \(genshin impact\), genshin impact, red eyes, hair over one eye, blonde hair, long hair, hair ribbon, purple dress, white thighhighs, bare shoulders, detached sleeves, long sleeves, tiara
 fischl \(genshin impact\), genshin impact, green eyes, hair over one eye, eyepatch, blonde hair, long hair, two side up, hair ribbon, medium breasts, small breasts, bare shoulders
@@ -134,7 +133,6 @@ fujiwara chika, kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~, blu
 fujiwara no mokou, touhou, red eyes, white hair, very long hair, long hair, grey hair, hair bow, suspenders
 furina \(genshin impact\), genshin impact, heterochromia, blue eyes, hair between eyes, drop-shaped pupils, white hair, streaked hair, light blue hair, long hair, blue hair, ahoge, top hat, blue jacket, blue headwear, white gloves, long sleeves
 furukawa nagisa, clannad, brown eyes, antenna hair, brown hair, short hair, hikarizaka private high school uniform
-futaba hotaru, fatal fury, blue eyes, blue hair, long hair, low twintails, ahoge, hair ribbon, chinese clothes, ferret, wristband
 futaki kanata, little busters!, yellow eyes, hair between eyes, brown eyes, purple hair, long hair, very long hair, ahoge, side ponytail, hair bobbles, school uniform, little busters! school uniform, pink bow, half updo
 gabriel tenma white, gabriel dropout, blue eyes, blonde hair, very long hair, long hair, messy hair, ahoge, track jacket
 ganyu \(genshin impact\), genshin impact, goat horns, horns, purple eyes, hair between eyes, blue hair, long hair, ahoge, sidelocks, medium breasts, large breasts, thighs, black gloves, bare shoulders, detached sleeves, neck bell, bodystocking
@@ -225,7 +223,6 @@ keqing \(genshin impact\), genshin impact, purple eyes, purple hair, cone hair b
 keqing \(lantern rite\) \(genshin impact\), genshin impact, purple eyes, hair between eyes, purple hair, cone hair bun, long hair, twintails, double bun, braid, hair bow, hair flower, purple sweater, white skirt, plaid scarf, long sleeves, bare shoulders
 keqing \(opulent splendor\) \(genshin impact\), genshin impact, purple eyes, purple hair, cone hair bun, long hair, twintails, double bun, hair ornament, hair ribbon, medium breasts, large breasts, cleavage, black dress, strapless dress, black pantyhose, bare shoulders
 kirara \(genshin impact\), genshin impact, cat girl, cat ears, cat tail, two tails, green eyes, long hair, blonde hair, light brown hair, brown hair, ahoge, hairclip, thighs, detached sleeves, bare shoulders, nekomata, crop top
-kiriko \(overwatch\), overwatch, brown eyes, hair between eyes, green eyes, green hair, short hair, hair bow, medium breasts, white kimono, fox mask, fingerless gloves, half mask, red gloves, facial mark, topknot, ninja
 kirisame marisa, touhou, yellow eyes, blonde hair, long hair, single braid, witch hat
 kishin sagume, touhou, red eyes, hair between eyes, short hair, grey hair, white hair, french braid, purple dress, long sleeves, single wing, feathered wings, white wings
 kita ikuyo, bocchi the rock!, green eyes, hair between eyes, red hair, long hair, shuka high school uniform, one side up
@@ -292,7 +289,6 @@ nami \(one piece\), one piece, brown eyes, orange eyes, orange hair, long hair, 
 nana asta deviluke, to love-ru, demon tail, fang, tail, pink eyes, purple eyes, pink hair, long hair, twintails, flat chest, navel, school uniform, serafuku, ribbon, demon tail
 narmaya \(granblue fantasy\), granblue fantasy, pointy ears, horns, blue eyes, hair over one eye, long hair, very long hair, purple hair, light purple hair, pink hair, single braid, braid, hair ornament, large breasts, cleavage, black gloves, bare shoulders, draph
 narmaya \(summer\) \(granblue fantasy\), granblue fantasy, pointy ears, horns, blue eyes, hair over one eye, long hair, light purple hair, very long hair, purple hair, pink hair, double bun, braid, hair ornament, large breasts, cleavage, navel, thigh strap, collarbone, white bikini, draph
-natsume rin, little busters!, red eyes, brown hair, long hair, ponytail, ahoge, school uniform, little busters! school uniform, plaid skirt, pink bow
 navia \(genshin impact\), genshin impact, blue eyes, blonde hair, very long hair, long hair, large breasts, cleavage, thighs, black headwear, black gloves, hat flower, bare shoulders, detached sleeves, drill sidelocks
 nazrin, touhou, mouse ears, mouse tail, red eyes, grey hair, short hair, mouse \(animal\), pendant, brown dress, mouse ears, mouse tail, pendant
 nekomiya mana, zenless zone zero, cat girl, dark-skinned female, cat ears, animal ear fluff, cat tail, two tails, red eyes, black hair, long hair, red hairband, ponytail, small breasts, black thighhighs, detached sleeves, bare shoulders, neck bell

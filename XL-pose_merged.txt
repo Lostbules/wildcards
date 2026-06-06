@@ -7,7 +7,7 @@ cowboy shot,jungle,rainforest,ruins,night,full moon,outstretched arms,seductive 
 standing,v fingers,smile,(Selfie:1.2)
 standing,dynamic pose
 holding bubble tea,cafev
-solo,(Selfie:1.2),bent over,on all fours
+solo, full body, bent over, on all fours, from side, bedroom, looking at viewer, blush, half-closed eyes, soft lighting
 straight-on, full body,mountaintop city,light,Making a heart with fingers,:D
 <lora:unsheathing_pose_vertical_3_final:0.9>,arm up unsheathing sword
 crossed arms,standing
@@ -52,7 +52,7 @@ smile,top-down bottom-up,looking back,bent over,cameltoe,looking at viewer
 (no shoes:1.2),sitting,feet,toes,soles,chair,crossed legs,foot focus,front view,from_below
 (extremely intricate detail),extremely delicate and beautiful,(beautiful and aesthetic:1.2),(cute, pretty, pale skin),detailed face,glowing effect,ethereal glow,light particles floating,transcendent realms,abstract background,vibrant auras,euphoric harmonies,shiny skin,((full body shot,standing)),dynamic pose
 walking,looking away,full body,hair flowing over,wind,depth of field,outdoors,flowers,blue sky,cloud,lamppost
-grin,selfie,from above,peace sign over eye
+1girl, solo, grin, selfie, from above, peace sign over eye
 aurora,back,bare back,bare shoulders,constellation,from behind,light particles,off shoulder,fireworks,night
 cowboy shot,town, japanese architecture,night, full moon,heart eyes
 gamer chair,legs up,upskirt,dark cozy room,gamer-girl room,( beautiful face:1.1),shy,cute face,streamer,smartphone,night,long legs,panties raised higher
@@ -86,10 +86,8 @@ Emotionalization,smile,open mouth,golden hour,unconventional supreme masterpiece
 ass,sitting,panties,spread legs,thighs,couch
 <lora:PonyFantasyKnightsV4:0.6>,hkstyle,full body shot,sword focus,combat pose,((dynamic pose)),(wielding a giant crucifix sword),(the sword glowing with a fiery red mystical holy energy),hyper stylize,trending on art station,diagonal shot,a castle in the background,midnight,dynamic angle
 <lora:PonyFantasyKnightsV4:0.7>,holding an electric sword made out of light orange lightning with blue glowing runes,running through a dark forest,close-up shot,vibrant colors,detailed background,she is charging the sword towards the camera,camera focus on the giant sword,close up shot on the sword,hkstyle:1.2:1.2
-<lora:PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
 <lora:PonyFantasyKnightsV4:0.6>,Low angle view,darkness covering his face,holding a red glowing sword in each hand in an epic stance,church windows in background,hkstyle:1.2
 <lora:PonyFantasyKnightsV4:0.5>,upper body shot,giant sword focus,hyper stylize,trending on art station,goth cathedral background,impaling pose,hkstyle,fancy effect,diagonal,holding a giant sword,(wielding a giant sword),giant sword color same as hair color,particle effect around the giant sword,the giant sword emits mysterious dark energy,glowing sword
-<lora:PonyFantasyKnightsV4:0.6>,running through a dark forest,vibrant colors,detailed background,hkstyle:1.2:1.2,floating hair,fighting stance,close shot,particle effects,holding a giant blue glowing sword infront of her,chargin the sword towards the camera,handheld hilt sword up,night
 <lora:ss_highangle_pony:0.7>,ss_highangle,living room,relaxing,look back,from behind,pov,from above,sitting on person,sitting on lap,smile
 <lora:1076 holding money_v1_pony:1>,ruanyi1076,pov hands,holding money,money,banknote
 <lora:1076 holding money_v1_pony:0.8>,ruanyi1076,pov hands,holding money,money,banknote,lift up the skirt,(panties:1.2),(lift the skirt:1.2),skirtlift
@@ -130,7 +128,7 @@ evil smile,standing,legs together,breasts,face,eyes,hanging breasts,downblouse,e
 (arching her back, camel toe),ass,feet,looking back,spread legs,window,cushions,frizzy
 sitting against tree,on floor,grass,tree,summer,head tilt,closed eyes,sleeping,book on floor
 (heart hands:1.1),rating safe,smile,wink,puffy shoulders,stage,idol
-[solo focus::1],serafuku,short sleeves,tie,pleated skirt,outdoors,[street, park, sakura, sakura petals, spring \(season\):1],pink theme,[schoolbag, shoulder bag:2],hands behind back,leaning forward,looking at viewer,smile,flirty,flirting,naughty face,half-closed eyes,[cowboy shot::1]
+solo focus, serafuku, short sleeves, tie, pleated skirt, outdoors, street, park, sakura, sakura petals, spring, pink theme, schoolbag, shoulder bag, hands behind back, leaning forward, looking at viewer, smile, flirty, flirting, naughty face, half-closed eyes, cowboy shot
 solo,flower (shop:0.5),indoors,(garden:1.1),flowers,florist,Lily \(flower\),roses,foliage,(sunflower:0.8),store clerk,vase,potted plant,looking down
 forest lake,wet hair,half submerged,from behind,raised arms,hair lift,looking at viewer,waterfall,rocks,flowers,parted lips,looking over shoulder
 modeling,fashion,hand on hip,leaning forward,hand on own calf,(serious:0.8),seductive,expressionless,half-closed eyes,(fashion magazine cover:1.2),black background,(english text:1.1)
@@ -218,7 +216,7 @@ smile,half-closed eyes,close-up,perspective,cowboy shot,dark theme,dim lighting,
 sitting,side view,desk,chair,book,bookshelf,head rest,holding,holding pen,lamp,night,open book,pen,plant,potted plant,sky,star (sky),starry sky,window,windowsill,writing
 dance,spread arms,plum blossom,surrounded by flowers,dynamic angle,cherry blossom petals flowing by wind,flowing hair,cherry blossom petals
 glowing red energy explosion in the background,colorful crystal shards,black and red abstract patterns,intense expression,detailed shading,vibrant colors,fast motion blur,energetic,chaotic composition,fantasy theme,energetic motion,detailed textures,dynamic lines,intense focus,emotional intensity,fantasy elements,vivid colors,action-packed scene,detailed background,dynamic energy,powerful pose,energetic explosion,fantasy art
-dynamic pose,side view,lying in grass,looking up,looking at the sky,holographic sky,holofoil glitter sky,glowing,ethereal,neon hair,glowing hair,on back,night sky,reaching for stars
+full body, dynamic pose, side view, lying in grass, looking up, looking at the sky, holographic sky, holofoil glitter sky, glowing, ethereal, neon hair, glowing hair, on back, night sky, reaching for stars
 solo,looking at viewer,ringed eyes,finger frame,one eye closed,hands up,arm up
 Portrait,bent over,rear view,low view,low pov,from below,Simple background,looking_back
 floating hair,looking at viewer,outstretched arm,reaching,reaching towards viewer,ballerina,ballet
@@ -366,17 +364,17 @@ solo,ass,anus,pussy,ass focus,from behind,looking back,looking at viewer,barefoo
 anus,feet,ass,toes,soles,legs up,lying,on back,spread legs,presenting,spread pussy,spread,(without shoes:1.2)
 selfie,curvy  body,no panties,shy,smartphone,night,perfect ass,sitting on floor,from below
 selfie,no panties,shy,smartphone,night,perfect ass,(sitting on floor:1.2),m_legs,from below,smug,cleft of venus
-selfie,no panties,(beautiful face:1.1),shy,cute face,smartphone,night,perfect ass,spread legs,pussy,ass focus,kneel on the ground,feet,cleft of venus,(from_back:1.2)
+1girl, solo, selfie, no panties, (beautiful face:1.1), shy, cute face, smartphone, night, perfect ass, spread legs, pussy, ass focus, kneel on the ground, feet, cleft of venus, (from_back:1.2)
 no panties,(beautiful face:1.1),shy,cute face,night,perfect ass,spread legs,pussy,ass focus,sitting on floor,laying face up,feet,cleft of venus
 solo,shower,soap foam,hands on hair,seductive smile,looking back,ass,sideboob,wet,wet hair,water,fog,standing,nude,fogged window
 shirt lift,breasts out,topless,flashing,faceless (crowd:1.1),outdoors,blue sky,looking at viewer,smile,grass,tents,posing,flirty,flirting,[solo focus:2],peace sign,public indecency,music festival,[bouncing breasts, dancing:1],hippie girl,rainbow gradient
 hypnosis,(spiral eyes:1.1),dazed,expressionless,(head tilt:1.1),masturbating,parted lips,gaming chair,pink lighting,fingering [clothed masturbation, panties aside:2],spread legs,wearing headphones,frontal light,dark room,(musical note:1.2),shock,nipple slip
-solo,standing,lifted skirt,from behind,[looking back::2][looking down:2],hand on own ass,spanked,indoors,[tears:2],full-face blush,parted lips,floating hearts,[pussy juice:5]
+solo, standing, lifted skirt, from behind, looking back, looking down, hand on own ass, spanked, indoors, (tears:1.2), full-face blush, parted lips, floating hearts, (pussy juice:1.3)
 waterfall,bathing,nude,wet hair,rating_explicit
-squatting[leaning on wall::2][on a park:2],[grass:3],naughty face,solo[ focus:1],shushing,(finger over nose, pointing up,:0.9),[silence gesture:2],lifted shirt,undressing,looking at viewer,wink[fingering::1],hiding,public indecency,blush,biting lip,looking at viewer
+squatting, leaning against wall, outdoors, park, (grass:1.2), naughty face, solo, shushing, finger over nose, pointing up, silence gesture, lifted shirt, undressing, looking at viewer, wink, fingering, hiding, public indecency, blush, biting lip
 outdoors,cobblestone,night,standing,faceless male,grope,woman in front,size difference,grabbing another's breast,muscular male,dark-skinned male,frown,disgust,tsundere,full face blush,avoiding gaze,pussy juice
 ripped clothes,standing,faceless male,grope,woman in front,size difference,grabbing another's breast,muscular male,dark-skinned male,grin,floating hearts,half-closed eyes,pussy juice
-[flower petals, shampoo bottle::2],nude,lying,looking at viewer,inviting smile,[full body, (upside-down:-1) from above::2],[bathroom, indoors, marble bathtub, submerged, window, rubber duck:1],wet
+nude, lying, on back, looking at viewer, inviting smile, flower petals, shampoo bottle, full body, from above, bathroom, indoors, marble bathtub, submerged, window, rubber duck, wet
 in an onsen,nude,kneeling,masturbating under clothes,biting lip,closed eyes,blush,heavy breathing,pussy juice
 solo,lying on bed,(masturbating:1.1),indoors,shirt pulled up,half-closed eyes,heavy breathing,holding cellphone,looking at cellphone,hand between legs
 looking at viewer,pussy,from below,seductive smile,standing over viewer,spreading pussy,pussy juice,legs apart,facing viewer,standing
@@ -422,7 +420,6 @@ bandaid, bandaids_on_nipples, bare_shoulders, blush, breasts, collarbone, lookin
 pulled by self, raised eyebrows, shy, 1girl, breasts, blush, simple background, white background, nipples, open clothes, looking to the side, breasts out, :o, parted lips, cropped legs
 :q, ass, barefoot, beach towel, blush, breasts, closed mouth, feet, folded, full body, looking at viewer, lying, navel, on back, outdoors, smile, soles, solo, nipples, stomach, thighs, hands on thighs, toes, tongue, tongue out, towel, one breast out, panties_around one leg, pussy
 1girl, solo, nipples, one breast out, pussy, looking at viewer, blush, smile, open mouth, sweat, tongue, tongue out, sitting, panty pull, from above, from side, bed
-feet, foot focus, holding, holding shoes, holding unworn clothes, looking at viewer, panties, panties visible through clothes, shoes, sitting, soles, solo, toes, train interior, unworn shoes, white panties, cum on feet, cum in shoes, closed mouth, (shaded_face:1.3), contempt, smell, front view, excessive_cum, knees apart feet together, feet together
 1girl, solo, looking at viewer, smile, closed mouth, ass, heart, nude, lying, pussy, shiny, on back, uncensored, anus, legs up, heart hands, presenting, cleft of venus, cross-shaped pupils
 1girl, solo, bent over, leaning forward, leaning on tennis net, one arm on tennis net, from behind, back view, looking back, looking at viewer, ass focus, ass, playful, teasing smile, outdoors, tennis court, sweat, sweatband, sweatdrop, no panties, pussy peek, naughty face, closed mouth, lifting own clothes, partially visible vulva, presenting
 1girl, blush, breasts, flashing, hands up, lifting own clothes, face, nose blush, open mouth, spikes, sweat, tube top, tube top lift, upper body, v-shaped lift, looking at viewer, smile, solo, spiked eyebrows, nipple
@@ -436,7 +433,7 @@ blush, standing, collarbone, sweat, parted lips, indoors, armpits, pillow, white
 1girl, lying on her back on a beige sofa, lookinf at the viewer, nipples
 1girl, size difference, age difference, height difference, fat man, nude, sweat, trembling, solo focus, loli, (v, standing, nervous smile, standing, grabbing from behind, grabbing another's breast)
 1girl, solo, nipples, blush, looking at viewer, white background, simple background, (breasts, underwear, panties, panty pull, open mouth, pulled by self, pussy juice, leaning forward)
-shiny skin, 1girl, seaside, male swimwear, long swim trunks, topless, nipples, public nudity, crowd, man, blush, bikini tanlines, model pose, looking at viewer
+1girl, seaside, beach, ocean, outdoor, male swimwear, topless, (nipples:1.2), public nudity, crowd, blush, smile, full body, standing, model pose, looking at viewer, sunlight, (shiny skin:1.2), depth of field
 <lora:panty-pull-pov-v2-illustriousxl-lora-nochekaiser:0.8>, panty pull pov, looking at viewer, blush, open mouth, underwear, panties, ass, pussy, solo focus, looking back, from behind, clothes lift, pov, anus, cameltoe, back, bent over, panty pull, dress lift, pov hands, partially visible vulva, pussy peek, assisted exposure
 1girl, solo, breasts, nipples, barefoot, feet, anus, pussy, toes, nude, lollipop, candy, food
 artistic_pose, side_lying, curled_up, back_view, elegant_curves, silk_sheets, morning_light, sheer_curtains, soft_glow, intimate_atmosphere, fine_art_nude, masterpiece, detailed_skin_texture, peaceful
@@ -497,7 +494,6 @@ from below, from behind, spreading own ass, thong, cameltoe, kitchen, indoors, i
 (nude:1.2),small breasts,nipples,spread legs,(ass up, lying on her side),(rear view:1.2),pussy,anus,large penis,(after sex:1.2),cum on ass,cum on pussy
 (orgasm face, closed eyes, sweat, drooling, pussy juice, lean back:1.3, trembling:1.8, place both hands on the desk:1.5, panties pull down),blush,thrust out one's hips,(1 man, sex from front, standing missionary position:1.4, ),face to face
 (orgasm face, sweat, drooling, pussy juice, (semen:1.5), put hands on the wall and bowed head, black panties pull down),exposed ass,blush,thrust out one's hips,(1 man, sex from behind, grab the chest from behind.)
-1 boy, 1 girl, anger vein, bald, breasts, closed eyes, clothed female nude male, clothes lift, cum, cum overflow, dark-skinned male, dark skin, fat, fat man, heart, height difference, hetero, interracial, no eyes, nude, sex, sex from behind, size difference, standing, standing sex, very dark skin
 1 girl,nude woman,(masturbating pussy:1.4),(squirt:1.4),cum,penis,cum,cum in panties,projectile cum,panty pull,cumdrip,ejaculation,clothes lift,looking at penis,pussy,handjob,1boy,holding_penis,erection,panties,against wall,arched_back,open mouth,sweat
 1boy, (uncensored:1.5), 1girl, ass, sweat, lying, solo focus, indoors, from behind, pillow, no panties, pov, no shoes, cellphone, on stomach, out of frame, partially visible vulva, facing away, controller, pov hands, handheld game console, playing games, nintendo switch, upshorts, bed, bed sheet, blurry, blurry foreground, depth of field, holding handheld game console, joy-con, on bed, spread legs
 1boy, 1girl, :q, breasts, closed mouth, cum, ejaculation, feet, (footjob), heart, hetero, panties, penis, pov, pov crotch, spoken heart, standing, standing on one leg, tongue, tongue out, trample
@@ -559,6 +555,7 @@ from below, from behind, spreading own ass, thong, cameltoe, kitchen, indoors, i
 1girl, 1boy, footjob, soles, stairwell, school, echoing footsteps, hidden under stairs, from below, (foot focus:1.0), (nipples:1.2), risk, quiet, after school
 1girl, 1boy, footjob, striped soles, couch, from below, pov, (foot focus:1.0), (nipples:1.2), living room, movie watching, relaxed, soles together
 1girl, 1boy, from below, {{{{grinding, legs together}}}}, {{{grabbing from behind, penis between thighs, male on behind}}}, {{thigh grab}}, standing, looking down, cleft of venus, penis, pussy, solo focus
+1girl, 1boy, hetero, clothed female nude male, clothes lift, shirt lift, breasts out, (nipples:1.2), panties aside, pussy, penis, testicles, pussy juice, stomach bulge, standing sex, sex from behind, bent over, dark-skinned male, very dark skin, bald, fat man, anger vein, height difference, size difference, interracial, cum, cum overflow, heart, sweat
 1girl, 1boy, hetero, paizuri, breast sex, assisted paizuri, mirror, reflection, from_behind, grabbing breasts from behind, squeezing breasts together, penis between breasts, looking_at_reflection, blush, embarrassed, erection, standing, indoors, bedroom, full-length_mirror, (nipples:1.2)
 1girl, 1boy, hidden sex, backlighting, night, bedroom, window, missionary, on bed, curtains, from outside, streetlamp, arched back, nipples, tearing up, faceless male, male head out of frame, grabbing sheets
 1girl, 1boy, hidden sex, bedroom, bunk bed, missionary, lying, sweat, tearing up, biting, arched back, grabbing sheets, faceless male, male head out of frame, motion lines
@@ -577,7 +574,8 @@ from below, from behind, spreading own ass, thong, cameltoe, kitchen, indoors, i
 1girl, 1boy, on bed, {{{spooning}}}, sex, {{lying, on side}}, {leg lift, grabbing from behind, leg up, grabbing another's leg}, penis, pussy, solo focus
 1girl, 1boy, pov, (standing sex:1.2), sex from behind, bent over, against door, fitting room, mirror, curtains, steam, fog, (arched back:1.2), faceless male, male head out of frame, height difference, size difference, grabbing from behind, grabbing breast, penis, pussy, testicles, pussy juice, erect nipples, stomach bulge, vaginal, motion lines, tearing up, blush, heavy breathing, sweat, sweaty skin, steaming body, looking back, uncensored
 1girl, 1boy, pov, doorway, open door, bedroom, on bed, doggystyle, from side, dim lighting, one breast out, biting own lip, heavy breathing, sweat, (netorare:1.1)
-1girl, 1boy, pov, {{{{{penis on face, one cheek press, licking penis}}}}}, {{{{{{penis pressed tightly against the face, penis rubbing against girl cheek, female face rubbing against penis}}}}}}, {{flaccid, large penis}}, tongue out, penis grab, [puffy cheek], solo focus
+1girl, 1boy, pov, from above, upper body, fellatio, licking penis, penis on tongue, tongue out, (large penis:1.2), penis grab, solo focus, looking up, blush, open mouth, saliva
+1girl, 1boy, pov, from above, upper body, penis on face, one cheek press, puffy cheek, penis rubbing against cheek, (large penis:1.2), tongue out, saliva, solo focus, blush, half-closed eyes
 1girl, 1boy, risky, NTR, doorway, open door, hallway, dark room, sex from behind, bent over, against wall, chiaroscuro, looking back, sweat, messy hair, nipples, tearing up, blush, arched back, faceless male, male head out of frame
 1girl, 1boy, risky, office, bent over desk, standing sex from behind, business suit, skirt lift, one breast out, breast grab, looking back, sunlight, window, tearing up, half-closed eyes, arched back, faceless male, male head out of frame, testicles, sweaty skin
 1girl, 1boy, risky, public indecency, movie theater, cowgirl position, girl on lap, skirt lift, no panties, one breast out, penis, pussy, vaginal, pussy juice, backlighting, crowd, dark room, from side, blush, arched back, tearing up, holding breath, faceless male, male head out of frame, sweaty skin, motion lines, (depth of field:1.2)
@@ -625,7 +623,7 @@ from below, from behind, spreading own ass, thong, cameltoe, kitchen, indoors, i
 1girl,1boy,irrumatio,deepthroat,head hanging off bed,upside down,throat bulge,penis,erection,saliva,tears,blush,lying,on back,head off edge of bed,male standing,POV from above,domination,rough,solo focus
 1girl,1boy,paizuri,breast sex,assisted paizuri,bathtub,water,wet skin,breasts squeezed together,penis between breasts,bathing together,shared bath,erection,blush,looking up,sweat,from above,bathroom,tiles,solo focus,(nipples:1.2)
 1girl,1boy,paizuri,breast sex,assisted paizuri,from below angle,large breasts hanging,penis between breasts,looking down at viewer,blush,smug,femdom,erection,precum,on bed,sitting on top,POV from below,breasts covering view,solo focus,(nipples:1.2)
-1girl,1boy,paizuri,breast sex,assisted paizuri,from side view,lying,on side,large breasts,penis between breasts,erection,precum,blush,closed eyes,parted lips,on bed,side view,full body,intimate,morning,solo focus,(nipples:1.2)
+1girl,1boy,paizuri,breast sex,assisted paizuri,from side view,lying,on side,large breasts,penis between breasts,erection,precum,blush,closed eyes,parted lips,on bed,side view,full body,intimate,morning light,sunbeam,solo focus,(nipples:1.2)
 1girl,1boy,paizuri,breast sex,assisted paizuri,handjob combination,hands on breasts,breasts squeezed together,penis between breasts,hands massaging tip,two-handed,erection,precum,blush,looking up,seductive smile,POV from above,on couch,living room,night,solo focus,(nipples:1.2)
 1girl,1boy,paizuri,breast sex,assisted paizuri,kneeling,looking up,large breasts,penis between breasts,breast squeeze,licking tip,fellatio combination,precum,saliva,blush,heart-shaped pupils,POV from above,indoors,living room,couch,warm lighting,solo focus,(nipples:1.2)
 1girl,1boy,paizuri,breast sex,assisted paizuri,lying,on back,large breasts,breasts squeezed together,penis between breasts,erection,precum,POV from above,looking up,eye contact,blush,open mouth,tongue out,saliva,on bed,bedroom,intimate,dim lighting,solo focus,(nipples:1.2)
