@@ -43,9 +43,9 @@ scherazard_harvey, eiyuu densetsu, silver_hair, long_hair, long_wavy_hair, brown
 shirley_orlando, eiyuu densetsu, red_hair, short_hair, green_eyes, midriff
 tio_plato, eiyuu densetsu, blue_hair, long_hair, twintails, yellow_eyes, cat_ear_hairband, x_hair_ornament
 tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_ear_hairband
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, ribbon
-towa_herschel, eiyuu densetsu, brown_hair, ponytail, blue_eyes
-towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, flower_wreath, head_wreath
-towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, pantyhose
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli, ribbon
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, ponytail, blue_eyes
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, short_hair, blue_eyes, flower_wreath, head_wreath
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, short_hair, blue_eyes, pantyhose

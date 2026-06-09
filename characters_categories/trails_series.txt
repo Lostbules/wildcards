@@ -97,14 +97,14 @@ tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_e
 tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_ear_hairband, lab_coat, blue_necktie
 tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_ear_hairband, white_jacket, orange_skirt, blue_boots, brown_gloves, fingerless_gloves, staff
 tio_plato, eiyuu densetsu, blue_hair, long_hair, two_side_up, yellow_eyes, cat_ear_hairband, white_jacket, orange_skirt, brown_gloves, fingerless_gloves, staff, white_thighhighs, zettai_ryouiki
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, overalls, red_overalls, black_pantyhose
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, overalls, red_overalls, fingerless_gloves, ascot, red_ascot, shorts
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, ribbon
-tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, waitress, white_apron, apron, blue_dress, dress, red_bow, red_bowtie, bowtie, ribbon
-towa_herschel, eiyuu densetsu, brown_hair, ponytail, blue_eyes
-towa_herschel, eiyuu densetsu, brown_hair, ponytail, blue_eyes, jacket, green_jacket, white_shirt
-towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, dress, green_dress, flower_wreath, head_wreath
-towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, flower_wreath, head_wreath
-towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, pantyhose
-towa_herschel, eiyuu densetsu, brown_hair, short_hair, blue_eyes, school_uniform, ascot, pantyhose, garrison_cap
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli, overalls, red_overalls, black_pantyhose
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli, overalls, red_overalls, fingerless_gloves, ascot, red_ascot, shorts
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli, ribbon
+tita_russell, eiyuu densetsu, blonde_hair, long_hair, blue_eyes, loli, waitress, white_apron, apron, blue_dress, dress, red_bow, red_bowtie, bowtie, ribbon
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, ponytail, blue_eyes
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, ponytail, blue_eyes, jacket, green_jacket, white_shirt
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, short_hair, blue_eyes, dress, green_dress, flower_wreath, head_wreath
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, short_hair, blue_eyes, flower_wreath, head_wreath
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, short_hair, blue_eyes, pantyhose
+towa_herschel, eiyuu densetsu, loli, petite, brown_hair, short_hair, blue_eyes, school_uniform, ascot, pantyhose, garrison_cap

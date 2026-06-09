@@ -25,7 +25,7 @@ CAT_DIR = os.path.join(BASE, 'characters_categories')
 CLOTHED_DIR = os.path.join(CAT_DIR, 'clothed')
 BARE_DIR = os.path.join(CAT_DIR, 'bare')
 
-SERIES = ['demon_slayer', 'honkai_verse', 'remaining_characters', 'trails_series']
+SERIES = ['bocchi_the_rock', 'clannad', 'danmachi', 'dead_or_alive', 'demon_slayer', 'douluo_dalu', 'final_fantasy', 'genshin_impact', 'goblin_slayer', 'honkai_verse', 'kabaneri', 'kaguya_sama', 'konosuba', 'mushoku_tensei', 'naruto', 'oregairu', 'oreimo_eromanga', 're_zero', 'remaining_characters', 'rozen_maiden', 'seishun_buta', 'sono_bisque_doll', 'to_love_ru', 'toaru', 'touhou', 'trails_series', 'zero_no_tsukaima']
 
 
 def load_lines(path):
