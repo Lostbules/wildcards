@@ -69,6 +69,7 @@ wildcards/
   git commit -m "改动说明"
   git push
   ```
+- **`civitai/` 目录禁止上传**：已在 `.gitignore` 中排除，含抓取的图片和 prompt 数据
 
 ### 日常速查
 
