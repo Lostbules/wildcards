@@ -17,7 +17,7 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CAT_DIR = os.path.join(BASE, 'characters_categories')
 INDEX_FILE = os.path.join(BASE, 'series_index.txt')
 
-SERIES_FILES = ['bocchi_the_rock.txt', 'clannad.txt', 'danmachi.txt', 'dead_or_alive.txt', 'demon_slayer.txt', 'douluo_dalu.txt', 'final_fantasy.txt', 'genshin_impact.txt', 'goblin_slayer.txt', 'honkai_verse.txt', 'kabaneri.txt', 'kaguya_sama.txt', 'konosuba.txt', 'mushoku_tensei.txt', 'naruto.txt', 'oregairu.txt', 'oreimo_eromanga.txt', 're_zero.txt', 'remaining_characters.txt', 'rozen_maiden.txt', 'seishun_buta.txt', 'sono_bisque_doll.txt', 'to_love_ru.txt', 'toaru.txt', 'touhou.txt', 'trails_series.txt', 'zero_no_tsukaima.txt']
+SERIES_FILES = ['bishoujo_mangekyou.txt', 'bocchi_the_rock.txt', 'clannad.txt', 'danmachi.txt', 'dead_or_alive.txt', 'demon_slayer.txt', 'douluo_dalu.txt', 'final_fantasy.txt', 'genshin_impact.txt', 'goblin_slayer.txt', 'honkai_verse.txt', 'kabaneri.txt', 'kaguya_sama.txt', 'konosuba.txt', 'mushoku_tensei.txt', 'naruto.txt', 'oregairu.txt', 'oreimo_eromanga.txt', 're_zero.txt', 'remaining_characters.txt', 'rozen_maiden.txt', 'seishun_buta.txt', 'sono_bisque_doll.txt', 'to_love_ru.txt', 'toaru.txt', 'touhou.txt', 'trails_series.txt', 'zero_no_tsukaima.txt']
 
 
 def load_entries():

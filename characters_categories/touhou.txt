@@ -10,8 +10,6 @@ hakurei reimu, touhou, hair tubes, brown eyes
 hakurei reimu, touhou, hair tubes, frilled bow, ribbon-trimmed sleeves, ascot, brown eyes
 hata no kokoro, touhou, pink eyes, pink hair, very long hair, long hair, fox mask
 hata no kokoro, touhou, pink eyes, pink hair, very long hair, long hair, plaid shirt, fox mask, bubble skirt, long sleeves
-hieda no akyuu, touhou, purple eyes, purple hair, short hair, hair flower
-hieda no akyuu, touhou, purple eyes, purple hair, short hair, hair flower, kimono
 hinanawi tenshi, touhou, red eyes, blue hair, long hair, very long hair
 hinanawi tenshi, touhou, red eyes, blue hair, long hair, very long hair, hat
 houraisan kaguya, touhou, red eyes, black hair, long hair, very long hair, hime cut
@@ -37,8 +35,6 @@ komeiji satori, touhou, pink eyes, purple eyes, third eye, short hair, pink hair
 komeiji satori, touhou, third eye, eyeball, heart hair ornament, heart button, heart of string, pink eyes
 konpaku youmu, touhou, blue eyes, short hair, white hair, grey hair, black hairband, hair ribbon
 konpaku youmu, touhou, blue eyes, short hair, white hair, grey hair, black hairband, hair ribbon, green dress, hakama, white shirt, ribbon
-kudamaki tsukasa, touhou, fox girl, fox ears, fox tail, animal ear fluff, hair between eyes, yellow eyes, brown eyes, short hair, blonde hair, small breasts
-kudamaki tsukasa, touhou, fox girl, fox ears, fox tail, animal ear fluff, hair between eyes, yellow eyes, brown eyes, short hair, blonde hair, small breasts, green ribbon, short sleeves, white romper
 lily black, touhou, red eyes, blonde hair, long hair, fairy wings, wings
 lily black, touhou, red eyes, blonde hair, long hair, hat, black dress, long sleeves, fairy wings, wings
 luna child, touhou, red eyes, blonde hair, drill hair, short hair, fairy wings
@@ -49,10 +45,6 @@ medicine melancholy, touhou, blue eyes, blonde hair, short hair, hair ribbon
 medicine melancholy, touhou, blue eyes, blonde hair, short hair, hair ribbon, gothic dress, black dress, red ribbon
 mononobe no futo, touhou, blue eyes, grey eyes, grey hair, long hair, ponytail, kariginu, tate eboshi
 mononobe no futo, touhou, blue eyes, grey eyes, grey hair, long hair, ponytail, wide sleeves, long sleeves, kariginu, tate eboshi
-nazrin, touhou, mouse ears, mouse tail, red eyes, grey hair, short hair, mouse \(animal\), pendant
-nazrin, touhou, mouse ears, mouse tail, red eyes, grey hair, short hair, mouse \(animal\), pendant, brown dress, mouse ears, mouse tail, pendant
-niwatari kutaka, touhou, bird tail, red eyes, blonde hair, red hair, two-tone hair, short hair, bird wings, feathered wings, yellow wings, chick, bird on head, animal
-niwatari kutaka, touhou, bird tail, red eyes, blonde hair, red hair, two-tone hair, short hair, white shirt, orange dress, puffy short sleeves, bird wings, feathered wings, yellow wings, chick, bird on head, animal
 reisen udongein inaba, touhou, rabbit ears, rabbit girl, rabbit tail, red eyes, purple hair
 reisen udongein inaba, touhou, rabbit ears, rabbit girl, red necktie, blazer, rabbit tail, red eyes, purple hair
 reisen udongein inaba, touhou, rabbit ears, red eyes, purple hair, long hair, skirt
