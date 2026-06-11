@@ -15,6 +15,8 @@ argo the rat, sword art online, cat girl, cat tail, cat ears, yellow eyes, green
 argo the rat, sword art online, cat girl, cat tail, cat ears, yellow eyes, green eyes, brown eyes, blonde hair, short hair, whisker markings, fairy \(sao\), cloak, hooded cloak, light armor, shorts
 artoria caster \(second ascension\) \(fate\), fate/grand order, green eyes, hair between eyes, blonde hair, long hair, twintails, black gloves, blue headwear, blue cape, white dress, black pantyhose, long sleeves, beret, blue hat
 artoria caster \(second ascension\) \(fate\), fate/grand order, green eyes, hair between eyes, blonde hair, long hair, twintails, black pantyhose
+artoria pendragon, fate/stay night, green eyes, blonde hair, hair bun, ahoge, medium breasts
+artoria pendragon, fate/stay night, green eyes, blonde hair, hair bun, ahoge, medium breasts, armor, gauntlets, breastplate, blue dress, white dress, long sleeves, sword
 asuna \(sao-alo\), sword art online, floating hair, blue eyes, blue hair, very long hair, medium breasts, detached sleeves, fairy \(sao\), elf
 asuna \(sao\), sword art online, brown eyes, brown hair, long hair, very long hair, braid, medium breasts, large breasts
 asuna \(stacia\), sword art online
@@ -32,8 +34,6 @@ black heart \(neptunia\), neptune \(series\), blue eyes, hair between eyes, aqua
 black heart \(neptunia\), neptune \(series\), blue eyes, hair between eyes, aqua eyes, symbol-shaped pupils, white hair, very long hair, long hair, medium breasts, large breasts, cleavage, power symbol
 black sister, neptune \(series\), green eyes, symbol-shaped pupils, white hair, long hair, small breasts, flat chest, navel, black thighhighs, twin drills
 black sister, neptune \(series\), green eyes, symbol-shaped pupils, white hair, long hair, small breasts, flat chest, navel, elbow gloves, black thighhighs, black gloves, bare shoulders, twin drills
-blanc \(neptunia\), neptune \(series\), blue eyes, hair between eyes, brown hair, short hair, small breasts
-blanc \(neptunia\), neptune \(series\), blue eyes, hair between eyes, brown hair, short hair, small breasts, hat, bare shoulders
 cai lin \(doupo cangqiong\), doupo cangqiong, pointy ears, red eyes, long hair, black hair, brown hair, hair ornament, earrings
 cai lin \(doupo cangqiong\), doupo cangqiong, pointy ears, red eyes, long hair, black hair, brown hair, hair ornament, red dress, earrings
 carol malus dienheim, senki zesshou symphogear, shiny skin, blue eyes, mole under eye, blonde hair, long hair, braided ponytail, large breasts
@@ -81,6 +81,8 @@ futaki kanata, little busters!, yellow eyes, hair between eyes, brown eyes, purp
 futaki kanata, little busters!, yellow eyes, hair between eyes, brown eyes, purple hair, long hair, very long hair, ahoge, side ponytail, hair bobbles, school uniform, little busters! school uniform, pink bow, half updo
 gabriel tenma white, gabriel dropout, blue eyes, blonde hair, very long hair, long hair, messy hair, ahoge
 gabriel tenma white, gabriel dropout, blue eyes, blonde hair, very long hair, long hair, messy hair, ahoge, track jacket
+hatsune miku, vocaloid, aqua eyes, aqua hair, long hair, twintails, very long hair, medium breasts, slender
+hatsune miku, vocaloid, aqua eyes, aqua hair, long hair, twintails, very long hair, medium breasts, slender, sleeveless shirt, necktie, skirt, thighhighs, detached sleeves, black hair ribbon
 hiiragi shinoa, owari no seraph, brown eyes, purple hair, long hair, hair bow, black thighhighs
 hiiragi shinoa, owari no seraph, brown eyes, purple hair, long hair, hair bow, military uniform, black thighhighs, scythe
 hikami sumire, aikatsu! \(series\), purple eyes, purple hair, long hair, blunt bangs, hair ribbon
@@ -133,6 +135,7 @@ krista lenz, shingeki no kyojin, blue eyes, hair between eyes, blonde hair, shor
 krista lenz, shingeki no kyojin, blue eyes, hair between eyes, blonde hair, short hair, long hair, paradis military uniform
 krul tepes, owari no seraph, pointy ears, red eyes, hair between eyes, pink hair, very long hair, long hair, two side up, thigh boots, black dress, detached sleeves, bare shoulders, vampire
 krul tepes, owari no seraph, pointy ears, red eyes, hair between eyes, pink hair, very long hair, long hair, two side up, vampire
+krul tepes, owari no seraph, pointy ears, red eyes, hair between eyes, pink hair, very long hair, long hair, two side up, vampire, black dress, detached sleeves, bare shoulders, black pantyhose, thigh boots
 kurugaya yuiko, little busters!, purple eyes, black hair, long hair, very long hair, hair ribbon, large breasts, cleavage
 kurugaya yuiko, little busters!, purple eyes, black hair, long hair, very long hair, hair ribbon, large breasts, cleavage, school uniform, little busters! school uniform
 latifa fleuranza, amagi brilliant park, blue eyes, blonde hair, long hair, very long hair, drill hair, flat chest
@@ -147,8 +150,6 @@ melty q melromarc, tate no yuusha no nariagari, purple eyes, blue eyes, long hai
 melty q melromarc, tate no yuusha no nariagari, purple eyes, blue eyes, long hair, blue hair, purple hair, twintails, hair intakes, sidelocks, small breasts, thighs, princess dress, blue dress, royal attire, tiara
 mikasa ackerman, shingeki no kyojin, black eyes, hair between eyes, black hair, short hair, paradis military uniform, scarf, jacket
 mikasa ackerman, shingeki no kyojin, black eyes, hair between eyes, black hair, short hair, scarf
-misty \(pokemon\), pokemon, green eyes, blue eyes, orange hair, short hair, side ponytail, navel
-misty \(pokemon\), pokemon, green eyes, blue eyes, orange hair, short hair, side ponytail, navel, crop top, short shorts, suspenders
 mythra \(massive melee\) \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, blonde hair, very long hair, long hair, swept bangs, large breasts, chest jewel, black pantyhose, earrings, gem
 mythra \(massive melee\) \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, blonde hair, very long hair, long hair, swept bangs, large breasts, chest jewel, thigh strap, black pantyhose, elbow gloves, white dress, white gloves, short dress, sleeveless dress, bare shoulders, earrings, tiara, microdress, headpiece, gem
 nami \(one piece\), one piece, brown eyes, orange eyes, orange hair, long hair, large breasts, cleavage, navel, shoulder tattoo
@@ -262,6 +263,8 @@ tobiichi origami, date a live, blue eyes, hair between eyes, white hair, short h
 tobiichi origami, date a live, blue eyes, hair between eyes, white hair, short hair, hairclip, medium breasts, school uniform, serafuku, hairclip
 tohru \(maidragon\), kobayashi-san chi no maidragon, dragon horns, dragon tail, large tail, fang, orange eyes, hair between eyes, red eyes, slit pupils, blonde hair, long hair, orange hair, gradient hair, very long hair, twintails, large breasts, dragon girl, scales
 tohru \(maidragon\), kobayashi-san chi no maidragon, maid, maid headdress, dragon horns, dragon tail, large tail, fang, orange eyes, hair between eyes, red eyes, slit pupils, blonde hair, long hair, orange hair, gradient hair, very long hair, twintails, large breasts, white gloves, elbow gloves, puffy short sleeves, dragon girl, scales
+tohsaka rin, fate/stay night, aqua eyes, black hair, long hair, twintails, medium breasts, slender
+tohsaka rin, fate/stay night, aqua eyes, black hair, long hair, twintails, medium breasts, slender, red coat, black skirt, thighhighs, zettai ryouiki, cross necklace
 tokido saya, little busters!, blue eyes, hair between eyes, blonde hair, long hair, very long hair, twintails, two side up, hair ribbon
 tokido saya, little busters!, blue eyes, hair between eyes, blonde hair, long hair, very long hair, twintails, two side up, hair ribbon, school uniform, little busters! school uniform, pink bow
 tokisaki kurumi, date a live, lolita hairband, heterochromia, red eyes, yellow eyes, clock eyes, black hair, long hair, twintails, medium breasts, large breasts, cleavage

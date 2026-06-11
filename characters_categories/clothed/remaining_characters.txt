@@ -16,7 +16,6 @@ belle \(zenless zone zero\), zenless zone zero, green eyes, hair between eyes, s
 black cat d.va, overwatch, lolita fashion, cat ears, pink lips, fake animal ears, brown eyes, blonde hair, long hair, twintails, hair bow, medium breasts, cleavage, black gloves, black dress, argyle clothes, puffy short sleeves, pink bow, heart earrings, whisker markings, facepaint, corset
 black heart \(neptunia\), neptune \(series\), blue eyes, hair between eyes, aqua eyes, symbol-shaped pupils, white hair, very long hair, long hair, medium breasts, large breasts, cleavage, elbow gloves, bare shoulders, power symbol
 black sister, neptune \(series\), green eyes, symbol-shaped pupils, white hair, long hair, small breasts, flat chest, navel, elbow gloves, black thighhighs, black gloves, bare shoulders, twin drills
-blanc \(neptunia\), neptune \(series\), blue eyes, hair between eyes, brown hair, short hair, small breasts, hat, bare shoulders
 cai lin \(doupo cangqiong\), doupo cangqiong, pointy ears, red eyes, long hair, black hair, brown hair, hair ornament, red dress, earrings
 carol malus dienheim, senki zesshou symphogear, shiny skin, blue eyes, mole under eye, blonde hair, long hair, braided ponytail, large breasts, elbow gloves
 carol malus dienheim, senki zesshou symphogear, sideless outfit, side cutout, braided ponytail, aged up, mole under eye, blue eyes, drill hair
@@ -78,7 +77,6 @@ lisbeth \(sao-alo\), sword art online, pointy ears, red eyes, pink eyes, pink ha
 makise kurisu, steins;gate, blue eyes, hair between eyes, purple eyes, long hair, brown hair, red hair, pantyhose under shorts, black shorts, white shirt, black pantyhose, red necktie
 melty q melromarc, tate no yuusha no nariagari, purple eyes, blue eyes, long hair, blue hair, purple hair, twintails, hair intakes, sidelocks, small breasts, thighs, princess dress, blue dress, royal attire, tiara
 mikasa ackerman, shingeki no kyojin, black eyes, hair between eyes, black hair, short hair, paradis military uniform, scarf, jacket
-misty \(pokemon\), pokemon, green eyes, blue eyes, orange hair, short hair, side ponytail, navel, crop top, short shorts, suspenders
 mythra \(massive melee\) \(xenoblade\), xenoblade chronicles \(series\), yellow eyes, blonde hair, very long hair, long hair, swept bangs, large breasts, chest jewel, thigh strap, black pantyhose, elbow gloves, white dress, white gloves, short dress, sleeveless dress, bare shoulders, earrings, tiara, microdress, headpiece, gem
 nami \(one piece\), one piece, brown eyes, orange eyes, orange hair, long hair, large breasts, cleavage, navel, shoulder tattoo, bikini top, jeans, log pose, bracelet
 narmaya \(granblue fantasy\), granblue fantasy, pointy ears, horns, blue eyes, hair over one eye, long hair, very long hair, purple hair, light purple hair, pink hair, single braid, braid, hair ornament, large breasts, cleavage, black gloves, bare shoulders, draph
@@ -162,4 +160,8 @@ yukine chris, senki zesshou symphogear, purple eyes, hair between eyes, long hai
 yun yun \(doupo cangqiong\), doupo cangqiong, blue eyes, long hair, black hair, single hair bun, brown hair, hair ornament, green dress, long sleeves, necklace
 yuna \(sao\), sword art online, floating hair, red eyes, very long hair, white hair, silver hair, braided bangs, double bun, parted bangs, hair ribbon, black thighhighs, red ribbon, nail polish
 yuudachi kai ni \(kancolle\), kantai collection, red eyes, long hair, blonde hair, hair flaps, hair ribbon, hairclip, white scarf, black ribbon
+krul tepes, owari no seraph, pointy ears, red eyes, hair between eyes, pink hair, very long hair, long hair, two side up, vampire, black dress, detached sleeves, bare shoulders, black pantyhose, thigh boots
 yuuki \(sao\), sword art online, floating hair, pointy ears, red eyes, purple hair, very long hair, long hair, red hairband, ahoge, hair intakes, fingerless gloves, detached sleeves, bare shoulders, fairy \(sao\), breastplate
+artoria pendragon, fate/stay night, green eyes, blonde hair, hair bun, ahoge, medium breasts, armor, gauntlets, breastplate, blue dress, white dress, long sleeves, sword
+tohsaka rin, fate/stay night, aqua eyes, black hair, long hair, twintails, medium breasts, slender, red coat, black skirt, thighhighs, zettai ryouiki, cross necklace
+hatsune miku, vocaloid, aqua eyes, aqua hair, long hair, twintails, very long hair, medium breasts, slender, sleeveless shirt, necktie, skirt, thighhighs, detached sleeves, black hair ribbon

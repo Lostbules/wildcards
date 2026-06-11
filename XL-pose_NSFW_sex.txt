@@ -49,8 +49,6 @@
 1girl, 1boy, hidden sex, silhouette, backlighting, doorway, open door, bedroom, missionary, on bed, dark room, depth of field, arched back, grabbing sheets, faceless male, male head out of frame
 1girl, 1boy, hidden sex, silhouette, backlighting, missionary, lying, futon, tatami, sliding doors, from outside, moonlight, arched back, tearing up, faceless male, male head out of frame, sweaty skin
 1girl, 1boy, hidden sex, tent, night, doggystyle, penis, pussy, vaginal, from_side, sleeping bag, moonlight, outdoors, tearing up, holding breath, blush, arched back, faceless male, male head out of frame, sweat
-1girl, 1boy, mating press, full body, from side, hetero, heart, sweat, lying, cum, on back, dark-skinned male, trembling, interracial, boy on top, netorare, deep penetration, large testicles, veiny ugly man, large penis, dark skin, simple background, black background, looking at viewer, testicles, speed lines, sweat, from_side
-1girl, 1boy, netorare, office, bent over desk, sex from behind, standing, business suit, skirt lift, looking back, (depth of field:1.2), sunlight, window
 1girl, 1boy, netorare, webcam, computer, cowgirl position, sitting, breast grab, desk, dim lighting
 1girl, 1boy, on bed, {{{spooning}}}, sex, {{lying, on side}}, {leg lift, grabbing from behind, leg up, grabbing another's leg}, penis, pussy, solo focus
 1girl, 1boy, pov, (standing sex:1.2), sex from behind, bent over, against door, fitting room, mirror, curtains, steam, fog, (arched back:1.2), faceless male, male head out of frame, height difference, size difference, grabbing from behind, grabbing breast, penis, pussy, testicles, pussy juice, erect nipples, stomach bulge, vaginal, motion lines, tearing up, blush, heavy breathing, sweat, sweaty skin, steaming body, looking back, uncensored
@@ -127,7 +125,6 @@
 <lora:trastey:0.6>,defeatedwaifu,humiliation,slave,imminent penetration,defeat,sword,lying,solo focus,spread legs,on back,arms up,bdsm,restrained,bound wrists,legs up,against wall,1boy,penis,station
 <lora:trastey:0.8>,defeatedwaifu,humiliation,slave,imminent penetration,defeat,sword,ass,1boy,hetero,lying,penis,pussy,solo focus,spread legs,on back,armpits,arms up,uncensored,anus,colored skin,chain,bound,erection,testicles,bdsm,bondage,restrained,male pubic hair,cuffs,veins,bound wrists,<lora:InniePussy1 Pony v2:0.6>,inniepussy1,glans insertion
 <wlr:pose\LoRAPovOnCouchNoobAIXLvPred:1:1>,pov,on couch,(((completely nude))),naked,wet,sweat,1boy,penis,bathing together,sitting on lap,bathtub,looking back,blush,smile,bathroom,nipples
-<wlr:pose\all-fours-from-below-ponyxl-lora-nochekaiser:0.8:1>,1boy,all fours from below,all fours,(from below:1.2),nude,navel,nipples,bouncing breasts,doggystyle,hetero,motion blur,blush,open mouth,pussy,penis,testicles,sex,sex from behind,stomach,torso grab,sweat,cowboy shot
 <wlr:pose\free-oppai-illustriousxl-lora-nochekaiser:0.8:1>, free oppai, free boobs, looking at viewer, blush, holding, closed mouth, standing, hetero, cowboy shot, multiple boys, solo focus, outdoors, english text, arms up, covered nipples, phone, grabbing, cellphone, grabbing another's breast, smartphone, holding phone, 6+boys, sign, grabbing from behind, 5boys, holding sign
 <wlr:pose\grabbed-breast-over-shoulder-v6-illustriousxl-lora-nochekaiser:0.7:1>,GBOSER,1girl,((One Breast Out)),(1boy:1.2),breast grab,(grabbing from behind:1.2),(male face out of frame:1.2),(on the rear side:1.2),((naked male))
 <wlr:pose\grabbed-breast-over-shoulder-v6-illustriousxl-lora-nochekaiser:0.7:1>,GBOSER,1girl,(1boy:1.2),breast grab,(grabbing from behind:1.2),(male face out of frame:1.2),(on the rear side:1.2),((naked male))
@@ -161,7 +158,6 @@ from below,looking down,topless,large penis,stone walls,sex dungeon,indoors,frow
 height_difference, tall_male, short_female, size_difference, clothed_female_nude_male, clothed_sex, spooning, sex_from_behind, vaginal_penetration, on_bed, bedroom, morning_light, skirt_lift, panties_aside, uncensored, explicit, intimate, pussy_juice, petite_girl
 height_difference, tall_male, short_female, size_difference, petite, balcony, night, cityscape, clothed_female_nude_male, clothed_sex, skirt_lift, panties_aside, bent_over, standing_sex, sex_from_behind, vaginal_penetration, deep_penetration, stomach_bulge, pussy_juice, (pussy:1.2), looking_back, blush, sweat, uncensored
 hetero,sex,1girl,2boys,multiple boys,penis,multiple penis
-in a mansion,red carpet,maid headdress,maid,microskirt,choker,covered nipples,squatting,hands on thighs,spread legs,disgusted,frown,from below,(pov:0.8),straddling,penis,1boy,1girl,disembodied penis,throbbing cock,hairy balls,(foreskin:1.3)
 kneeling,blowjob,(deepthroat:1.2),cock in mouth,from_side,from_above,(nipples:1.2)
 kneeling,wet skin,shy,sexy and cute,((lewd eye contact))cute girl,naked,imminent blowjob,(head grab),penis on face,thick thighs,ass up,loose hair strands,shy look,cute face,negative_hand,view from above,shower,raining,bathroom interior
 looking at viewer,pigeon toed,open mouth,embarrassed,looking down,pussy,pussy juice,<lora:Pantsing:0.6>,pulling_downV1,1boy,1girl,lying on back,held down,skirt pull,pulling down,panties pull,on bed,from_below,without shoes
@@ -178,7 +174,6 @@ nursing handjob,handjob,1boy,hetero,penis,breastfeeding,nipples,breast sucking,f
 panty pull,1boy,from the back,chikan,ass grab,grabbing,caress,nsfw,sexual harassment,fingering,1girl,panties,ass,skirt,train interior,blush,looking away,train,secret photography,panties shot,from below,pigeon toed,open mouth
 penis,open mouth,cum in mouth,pov,from above
 penis,penis on face,1boy,hetero,veins,heart-shaped pupils,blush,licking,solo focus,uncensored,erection,hand on another's head,pov,oral,open mouth,fellatio,tongue,trembling,licking penis,large penis,indoors,looking at penis,saliva,testicles,tongue out,lying,on stomach,head grab,sweat,coif
-pov from above, cowboy shot, depth of field, bokeh, blurry background, 1girl, 1boy, hetero, clothed female nude male, fellatio, oral, licking penis, handjob, two-handed handjob, penis grab, blush, tongue, tongue out, open mouth, erection, sweat, penis, cum, foreskin
 pov,Expressiveh,1girl,solo,blush,expressionless,closed mouth,cowgirl position,(breasts grab:1.1),large penis in pussy,cum in pussy,on bed,window,arm support,nipples
 pov,reverse cowgirl position,ass,looking back,straddling,frown,disgust,heavy breathing,tsundere,full face blush,fat man,prison bars,cement ceiling,vaginal
 pov_doorway, open_door, hallway, dark_room, sex_from_behind, bent_over, against_wall, chiaroscuro, looking_back, sweat, messy_hair, (netorare:1.1)
@@ -207,7 +202,6 @@ vagina,sweating,ride on penis,spread legs,(nipples:1.2),pussy juice,(faceless ma
 <wlr:ntr\Hidden sex NTR-IL_NAI_PY.safetensors:1:1>, netorare, stealth sex, hidden sex, cheating (relationship), 1girl, 2boys, clothed sex, standing sex, sex from behind, bent over, clothes lift, skirt lift, skirt, no panties, apron, kitchen, table, chair, lamp, curtains, looking back, grin, sweat, large breasts, pussy, pussy juice, anus, penis, vaginal, motion lines, faceless male, black pants, brown pants, solo focus
 <wlr:ntr\Caught oral NTR-IL_NAI_PY.safetensors:1:1>, netorare, cheating (relationship), 1girl, 2boys, oral, fellatio, clothed female nude male, door, open door, walk-in, caught, surprised, disgust, looking up, looking at another, lips, blush, hand on another's head, large penis, testicles, male pubic hair, large breasts, white shirt, red skirt, cum in mouth, blurry background, rug, solo focus
 <wlr:ntr\Caught NTR-Sex-IL_NAI_PY.safetensors:1:1>, netorare, husband and wife, open door, walk-in, caught, 1girl, 2boys, clothed male nude female, sex from behind, doggystyle, on bed, bed sheet, pillow, pillow grab, sheet grab, top-down bottom-up, ass grab, breast press, torso grab, ahegao, rolling eyes, tongue out, open mouth, blush, sweat, ugly man, fat man, faceless male, male pubic hair, large breasts, ass, nature exterior, indoors, solo focus
-1boy, 1girl, sitting, bored, looking down, footjob, classroom, from below, foot focus
 1girl, 1boy, footjob, barefoot, oiled soles, massage room, massage table,  shiny skin, from below, foot focus, (nipples:1.2), glossy, slippery, dim lighting
 1girl, 1boy, footjob, barefoot, presenting foot, classroom, sitting, desk, from below, foot focus, (nipples:1.2), school uniform, after school, soles to viewer
 1girl, 1boy, footjob, barefoot, soles together, bed, feet pressing, from below, pov, foot focus, (nipples:1.2), sole to sole, large penis between soles, bedroom
@@ -224,10 +218,8 @@ vagina,sweating,ride on penis,spread legs,(nipples:1.2),pussy juice,(faceless ma
 1girl, 1boy, footjob, soles, gym, legs together, feet together, from below, foot focus, (nipples:1.2), exercise mat, stretching, indoor
 1girl, 1boy, footjob, soles, infirmary, school, lying on sick bed, curtain drawn, nurse outside, quiet, foot focus, (nipples:1.2), stealth, from below
 1girl, 1boy, footjob, soles, laundromat, sitting on washing machine, mundane, humming, night, empty, from below, foot focus, (nipples:1.2), public, quiet
-1girl, 1boy, footjob, soles, living room, couch, TV glow, night, casual, from below, pov, foot focus, (nipples:1.2), relaxed, half-closed eyes
 1girl, 1boy, footjob, soles, school rooftop, sunset sky, after school, wind, hair flowing, from below, pov, foot focus, (nipples:1.2), romantic sky
 1girl, 1boy, footjob, soles, spread toes, window, daylight, from below, foot focus, (nipples:1.2), indoor, curtain backlighting, toe spread, femdom
-1girl, 1boy, footjob, soles, stairwell, school, echoing footsteps, hidden under stairs, from below, foot focus, (nipples:1.2), risk, quiet, after school
 1girl, 1boy, footjob, striped soles, couch, from below, pov, foot focus, (nipples:1.2), living room, movie watching, relaxed, soles together
 bathroom, bathtub, wet, barefoot, two-footed footjob, soles, foot focus, 1boy, large penis, from below, pov, (nipples:1.2)
 outdoors, park bench, barefoot, soles, sunlight, sitting, footjob, foot focus, smirk, 1boy, penis, pov, shoes removed, (nipples:1.2)
@@ -241,7 +233,6 @@ outdoors, park bench, soles, sitting, footjob, sunlight, smirk, 1boy, penis, pov
 1girl, mature female, curvy, wide hips, large breasts, wedding ring, submissive female, clothes lift, shirt lift, breasts out, (nipples:1.2), blush, sweat, steamed, parted lips, looking back at viewer, many males, gangbang, faceless male, hairy ugly male, large penis, large testicles, pre cum, grabbing butt, spread ass, dynamic poses, indoor, gym
 1boy, 1girl, :q, breasts, closed mouth, cum, ejaculation, feet, (footjob), heart, hetero, panties, penis, pov, pov crotch, spoken heart, standing, standing on one leg, tongue, trample
 1girl, solo, blush, open mouth, standing, breasts, no panties, pelvic curtain, clothes lift, pussy, sex, standing sex, speed lines, deep penetration, large penis, 1boy, hetero, penis, erection, nude male, age difference, hand difference, precum, fat man, ugly man, split, leg-stretch, hugging own legs, ass, long legs
-1girl, 1other, full body, from_front, pussy, pussy_juice, spread_legs, spread_pussy, spreading_another's_pussy, solo focus
 1girl, 1boy, footjob, barefoot, soles, beach, sand, ocean, summer, sitting on towel, sunglasses, sunny day, outdoor, from below, foot focus, (nipples:1.2), toes spreading
 1girl, smile, blush, half-closed eyes, open mouth, bottomless, pussy, feet, soles, sitting, under table footjob, footjob, looking at viewer, dutch angle, 1boy, penis, indoors, room, wooden table, book stack, food, juice, wooden chair, brick wall, crowd, blurry background, pov across table, uncensored, precum
 1girl, mature woman, milf, curvy, wedding ring, nude:1.2, dark nipples, erect nipples:1.2, ecstasy:1.3, fucked silly:1.1, steam:1.1, wet:0.8, trembling:0.8, tears:0.7, drooling:0.6, sweat:0.8, open mouth, cowboy shot, BREAK, 1boy, ugly man, faceless:1.2, face out of frame, after sex, cum, forced fellatio
@@ -252,6 +243,14 @@ height_difference, tall_male, short_female, size_difference, clothed_female_nude
 1girl,1boy,handjob,oil,lotion,shiny skin,two-handed handjob,cowboy shot,from side,eye contact,seductive smile,blush,indoors,bedroom,dim lighting,femdom,edging,solo focus,(nipples:1.2)
 1boy, 1girl, sitting, expressionless, bored, looking down, footjob, feet, soles, penis, gym storeroom, from below, foot focus, (nipples:1.2)
 1girl,1boy,hetero,shorts pull,pulling another's clothes,clothes pull,pussy,pussy peek,no panties,stomach,thighs,bow,sweat,pulled by self,cowboy shot,indoors,bedroom
-1girl, 1boy, footjob, feet, soles, penis, hotel room, bed, luxury, chandelier, night, from below, pov, foot focus, (nipples:1.2), intimate, dim lighting
 1boy, 1girl, from side, sex from behind, looking back at viewer, tiptoes, toes, standing, clothed female nude male, height difference, penis, pussy, full body, ass ripple, no panties, motion line
 1girl, 1boy, cheating (relationship), reflection, window, night, living room, couch, cowgirl position, clothes lift, clothing aside, penis, pussy, vaginal, pussy juice, city lights, warm light, (depth of field:1.2), one breast out, biting lip, heavy breathing, tearing up, blush, arched back, faceless male, sweaty skin, wedding ring, motion lines
+pov from above, cowboy shot, depth of field, bokeh, blurry background, 1girl, 1boy, hetero, clothed female nude male, fellatio, oral, licking penis, handjob, two-handed handjob, penis grab, blush, tongue, tongue out, open mouth, erection, sweat, penis, cum
+in a mansion,red carpet,maid headdress,maid,microskirt,choker,covered nipples,squatting,hands on thighs,spread legs,disgusted,frown,from below,(pov:0.8),straddling,penis,1boy,1girl,disembodied penis,throbbing cock,hairy balls
+1girl, 1boy, footjob, soles, penis, living room, couch, TV glow, night, casual, from below, pov, foot focus, (nipples:1.2), relaxed, half-closed eyes
+1girl, 1boy, footjob, between soles, feet, soles, penis, hotel room, bed, luxury, chandelier, night, from side, foot focus, (nipples:1.2), intimate, dim lighting
+1girl, 1boy, footjob, between soles, feet, soles, penis, stairwell, school, echoing footsteps, hidden under stairs, from side, foot focus, (nipples:1.2), risk, quiet, after school
+nsfw, 1girl, 1boy, fellatio, looking at viewer, selfie, look at side, grabbing penis, standing, clothed female nude male, cowboy shot, upper body, penis, testicles, cheek bulge, open mouth, tongue, licking penis, drooling
+1boy, 1girl, sitting, bored, looking down, footjob, classroom, from below
+1girl, 1boy, mating press, full body, from above, top-down bottom-up, hetero, sweat, lying, cum, on back, dark-skinned male, trembling, interracial, boy on top, netorare, deep penetration, large testicles, veiny ugly man, large penis, dark skin, simple background, black background, looking at viewer, testicles, speed lines, sweat
+1girl, 1boy, netorare, office, bent over desk, sex from behind, standing, clothed female nude male, business suit, skirt lift, penis, looking back, (depth of field:1.2), sunlight, window
