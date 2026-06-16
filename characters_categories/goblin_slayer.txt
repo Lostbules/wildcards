@@ -1,8 +1,8 @@
-guild_girl_\(goblin_slayer!\),brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts
-guild_girl_\(goblin_slayer!\),brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts, white_shirt, black_skirt, long_sleeves
-high_elf_archer_\(goblin_slayer!\),green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, black_bow, elf
-high_elf_archer_\(goblin_slayer!\),green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, elf
-priestess_\(goblin_slayer!\),blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts
-priestess_\(goblin_slayer!\),blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts, hat, long_sleeves
-sword_maiden,hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, necklace, habit, black_blindfold
-sword_maiden,hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, white_dress, necklace, habit, black_blindfold
+guild_girl_\(goblin_slayer!\), goblin_slayer!, brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts
+guild_girl_\(goblin_slayer!\), goblin_slayer!, brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts, white_shirt, black_skirt, long_sleeves
+high_elf_archer_\(goblin_slayer!\), goblin_slayer!, green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, black_bow, elf
+high_elf_archer_\(goblin_slayer!\), goblin_slayer!, green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, elf
+priestess_\(goblin_slayer!\), goblin_slayer!, blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts
+priestess_\(goblin_slayer!\), goblin_slayer!, blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts, hat, long_sleeves
+sword_maiden_\(goblin_slayer!\), goblin_slayer!, hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, necklace, habit, black_blindfold
+sword_maiden_\(goblin_slayer!\), goblin_slayer!, hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, white_dress, necklace, habit, black_blindfold

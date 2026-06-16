@@ -40,7 +40,7 @@ carol_malus_dienheim, senki_zesshou_symphogear, shiny_skin, blue_eyes, mole_unde
 carol_malus_dienheim, senki_zesshou_symphogear, shiny_skin, blue_eyes, mole_under_eye, blonde_hair, long_hair, braided_ponytail, large_breasts, elbow_gloves
 carol_malus_dienheim, senki_zesshou_symphogear, sideless_outfit, side_cutout, braided_ponytail, aged_up, mole_under_eye, blue_eyes, drill_hair
 changli_\(wuthering_waves\), wuthering_waves, hair_between_eyes, yellow_eyes, white_pupils, pink_hair, white_hair, two-tone_hair, very_long_hair, twin_braids, ahoge, hair_intakes, hair_ornament, hair_bow, large_breasts, cleavage, thigh_strap, white_dress, black_jacket, bare_shoulders, black_collar, halterneck, black_bow, black_sleeves, colored_extremities, body_markings
-changli_\(wuthering_waves_\), wuthering_waves, ring_hair_extensions, hair_extensions, red_hands, colored_extremities, tacet_mark_\(wuthering_waves_\), yellow_eyes
+changli_\(wuthering_waves\), wuthering_waves, ring_hair_extensions, hair_extensions, red_hands, colored_extremities, tacet_mark_\(wuthering_waves\), yellow_eyes
 cheshire_\(azur_lane\), azur_lane, maid, maid_headdress, fake_animal_ears, aqua_eyes, blue_eyes, streaked_hair, black_hair, two-tone_hair, short_hair, aqua_hair, blue_hair, large_breasts, cleavage, white_thighhighs, bare_shoulders, wrist_cuffs
 cheshire_\(summery_date!\)_\(azur_lane\), azur_lane, skin_fang, cat_ears, fake_animal_ears, aqua_eyes, blue_eyes, streaked_hair, black_hair, short_hair, two-tone_hair, aqua_hair, blunt_bangs, large_breasts, cleavage, thighs, navel, bridal_garter, stomach, beach, sarong
 cheshire_\(summery_date!\)_\(azur_lane\), azur_lane, skin_fang, cat_ears, fake_animal_ears, aqua_eyes, blue_eyes, streaked_hair, black_hair, short_hair, two-tone_hair, aqua_hair, blunt_bangs, large_breasts, cleavage, thighs, navel, purple_bikini, strapless_bikini, bare_shoulders, frills, arm_garter, bridal_garter, stomach, beach, sarong
@@ -55,12 +55,12 @@ cyberconnect2, neptune_\(series\), tail, animal_ears, green_eyes, blonde_hair, s
 d.va_\(overwatch\), overwatch, lips, pink_lips, brown_eyes, brown_hair, long_hair, swept_bangs, medium_breasts, headphones, whisker_markings, facepaint
 d.va_\(overwatch\), overwatch, lips, pink_lips, brown_eyes, brown_hair, long_hair, swept_bangs, medium_breasts, pilot_suit, headphones, white_gloves, whisker_markings, facepaint
 djeeta_\(granblue_fantasy\), granblue_fantasy, brown_eyes, blonde_hair, short_hair, medium_breasts
-djeeta_\(granblue_fantasy_\), granblue_fantasy, pink_hairband, gauntlets, pink_dress, hairband, thigh_boots, brown_eyes
+djeeta_\(granblue_fantasy\), granblue_fantasy, pink_hairband, gauntlets, pink_dress, hairband, thigh_boots, brown_eyes
 doruji, little_busters!, red_eyes, brown_hair, long_hair, very_long_hair, ponytail, cat
 doruji, little_busters!, red_eyes, brown_hair, long_hair, very_long_hair, ponytail, school_uniform, cat
 elaina_\(majo_no_tabitabi\), majo_no_tabitabi, hair_between_eyes, blue_eyes, purple_eyes, long_hair, white_hair, grey_hair, ahoge
 elaina_\(majo_no_tabitabi\), majo_no_tabitabi, hair_between_eyes, blue_eyes, purple_eyes, long_hair, white_hair, grey_hair, ahoge, black_robe, witch_hat, white_shirt, black_headwear, collared_shirt, long_sleeves, witch
-elaina_\(majo_no_tabitabi_\), majo_no_tabitabi, open_robe, black_robe, witch, yellow_bowtie, hair_between_eyes, white_hair
+elaina_\(majo_no_tabitabi\), majo_no_tabitabi, open_robe, black_robe, witch, yellow_bowtie, hair_between_eyes, white_hair
 ellen_joe, zenless_zone_zero, shark_girl, maid, maid_headdress, shark_tail, red_eyes, hair_between_eyes, mole_under_eye, black_hair, short_hair, red_hair, colored_inner_hair, two-tone_hair, large_breasts, fins
 ellen_joe, zenless_zone_zero, shark_girl, shark_tail, red_eyes, hair_between_eyes, mole_under_eye, black_hair, short_hair, red_hair, colored_inner_hair, two-tone_hair, large_breasts, fins
 ereshkigal_\(bitter_sweet\)_\(fate\), fate/grand_order, red_eyes, blonde_hair, long_hair, very_long_hair, two_side_up, parted_bangs, hair_ribbon, hair_bow, medium_breasts, earrings, cross_necklace, shawl, gift_box
@@ -93,9 +93,9 @@ hoshimi_miyabi, zenless_zone_zero, fox_girl, fox_ears, animal_ear_fluff, red_eye
 hoshimi_miyabi, zenless_zone_zero, fox_girl, fox_ears, animal_ear_fluff, red_eyes, black_hair, long_hair, very_long_hair, blunt_bangs, sidelocks, large_breasts, white_shirt, black_skirt, black_gloves, aqua_jacket, collared_shirt, black_necktie, half_updo
 hoshino_\(blue_archive\), blue_archive, heterochromia, fang, blue_eyes, hair_between_eyes, yellow_eyes, pink_hair, very_long_hair, long_hair, ahoge, low_twintails, small_breasts, white_shirt, halo, pink_halo, long_sleeves
 hoshino_\(flowery_charms\)_\(blue_archive\), blue_archive, heterochromia, fang, hair_between_eyes, blue_eyes, yellow_eyes, pink_hair, long_hair, very_long_hair, official_alternate_hairstyle, star_hair_ornament, double_bun, ahoge, huge_ahoge, medium_bangs, small_breasts, thighs, barefoot, china_dress, white_dress, halo, pink_halo, short_sleeves
+hoshino_\(swimsuit\)_\(blue_archive\), blue_archive, frilled_bikini, yellow_eyes, hair_bobbles
 hoshino_\(swimsuit\)_\(blue_archive\), blue_archive, heterochromia, fang, blue_eyes, yellow_eyes, hair_between_eyes, pink_hair, very_long_hair, long_hair, ahoge, low_twintails, hair_bobbles, small_breasts, navel, collarbone, halo, pink_halo
 hoshino_\(swimsuit\)_\(blue_archive\), blue_archive, heterochromia, fang, blue_eyes, yellow_eyes, hair_between_eyes, pink_hair, very_long_hair, long_hair, ahoge, low_twintails, hair_bobbles, small_breasts, navel, collarbone, white_bikini, frilled_bikini, blue_jacket, open_jacket, halo, pink_halo, long_sleeves
-hoshino_\(swimsuit_\)_\(blue_archive_\), blue_archive, frilled_bikini, yellow_eyes, hair_bobbles
 if_\(neptunia\), neptune_\(series\), green_eyes, hair_between_eyes, brown_hair, long_hair, hair_bow, hair_ornament, one_side_up
 if_\(neptunia\), neptune_\(series\), green_eyes, hair_between_eyes, brown_hair, long_hair, hair_bow, hair_ornament, one_side_up, green_jacket, shorts, fingerless_gloves, belt
 inoue_takina, lycoris_recoil, purple_eyes, black_hair, long_hair
@@ -107,11 +107,11 @@ itsuka_kotori, date_a_live, red_eyes, hair_between_eyes, red_hair, very_long_hai
 jinhsi_\(wuthering_waves\), wuthering_waves, grey_eyes, white_pupils, white_hair, very_long_hair, twintails, two_side_up, medium_breasts, large_breasts, mole_on_cheek, black_dress, white_bow, earrings
 jinhsi_\(wuthering_waves\), wuthering_waves, grey_eyes, white_pupils, white_hair, very_long_hair, twintails, two_side_up, medium_breasts, large_breasts, mole_on_cheek, earrings
 kafuu_chino, gochuumon_wa_usagi_desu_ka?, blue_eyes, hair_between_eyes, blue_hair, long_hair, very_long_hair, x_hair_ornament
-kafuu_chino_(rabbit_house), gochuumon_wa_usagi_desu_ka?, blue_eyes, hair_between_eyes, blue_hair, long_hair, very_long_hair, x_hair_ornament, blue_dress, white_apron, white_thighhighs, maid_headdress, puffy_short_sleeves
+kafuu_chino_\(rabbit_house\), gochuumon_wa_usagi_desu_ka?, blue_eyes, hair_between_eyes, blue_hair, long_hair, very_long_hair, x_hair_ornament, blue_dress, white_apron, white_thighhighs, maid_headdress, puffy_short_sleeves
 kamikita_komari, little_busters!, little_busters!_school_uniform, long_ribbon, yellow_sweater, pink_bow, star_hair_ornament, eyes_visible_through_hair
 kamikita_komari, little_busters!, long_ribbon, star_hair_ornament, eyes_visible_through_hair
-kaname_madoka_\(magical_girl_\), mahou_shoujo_madoka_magica_\(anime_\), bubble_skirt, magical_girl, short_twintails, red_choker, pink_eyes, drill_hair
-kaname_madoka_\(magical_girl_\), mahou_shoujo_madoka_magica_\(anime_\), short_twintails, red_choker, pink_eyes, drill_hair
+kaname_madoka_\(magical_girl\), mahou_shoujo_madoka_magica_\(anime\), bubble_skirt, magical_girl, short_twintails, red_choker, pink_eyes, drill_hair
+kaname_madoka_\(magical_girl\), mahou_shoujo_madoka_magica_\(anime\), short_twintails, red_choker, pink_eyes, drill_hair
 kanna_kamui, kobayashi-san_chi_no_maidragon, loli, dragon_horns, tail, blue_eyes, long_hair, purple_hair, gradient_hair, light_purple_hair, blunt_bangs, low_twintails, twintails, hair_beads, hairband, white_thighhighs, dragon_girl
 kanna_kamui, kobayashi-san_chi_no_maidragon, loli, dragon_horns, tail, blue_eyes, long_hair, purple_hair, gradient_hair, light_purple_hair, blunt_bangs, low_twintails, twintails, hair_beads, hairband, white_thighhighs, dragon_girl, school_uniform, randoseru, backpack
 karuizawa_kei, youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e, blue_eyes, purple_eyes, blonde_hair, long_hair, very_long_hair, ponytail, blunt_bangs, sidelocks, hair_scrunchie, medium_breasts
@@ -121,10 +121,10 @@ kashima_\(kancolle\), kantai_collection, blue_eyes, grey_hair, wavy_hair, long_h
 kasugano_sora, yosuga_no_sora, brown_eyes, long_hair, white_hair, very_long_hair, grey_hair, twintails, hair_ribbon
 kasugano_sora, yosuga_no_sora, brown_eyes, long_hair, white_hair, very_long_hair, grey_hair, twintails, hair_ribbon, white_dress, summer_dress, hair_ribbon
 kasugano_sora, yosuga_no_sora, grey_eyes, antenna_hair
-kokkoro_\(ceremonial_\)_\(princess_connect!_\), princess_connect!, white_bridal_gauntlets, cone_hair_bun, bridal_gauntlets, elf, antenna_hair, eyes_visible_through_hair
-kokkoro_\(new_year_\)_\(princess_connect!_\), princess_connect!, two-tone_kimono, gourmet_guild_\(princess_connect!_\), green_hakama, green_kimono, miko, pink_eyes, antenna_hair
+kokkoro_\(ceremonial\)_\(princess_connect!\), princess_connect!, white_bridal_gauntlets, cone_hair_bun, bridal_gauntlets, elf, antenna_hair, eyes_visible_through_hair
+kokkoro_\(new_year\)_\(princess_connect!\), princess_connect!, two-tone_kimono, gourmet_guild_\(princess_connect!\), green_hakama, green_kimono, miko, pink_eyes, antenna_hair
+kokkoro_\(princess_connect!\), princess_connect!, gourmet_guild_\(princess_connect!\), see-through_sleeves, elf, antenna_hair, green_dress, pink_eyes
 kokkoro_\(princess_connect!\), princess_connect!, hair_between_eyes, red_eyes, pink_eyes, purple_eyes, short_hair, antenna_hair, grey_hair, white_hair, hair_flower, small_breasts, bare_shoulders, detached_sleeves, elf
-kokkoro_\(princess_connect!_\), princess_connect!, gourmet_guild_\(princess_connect!_\), see-through_sleeves, elf, antenna_hair, green_dress, pink_eyes
 kokkoro_\(summer\)_\(princess_connect!\), princess_connect!, hair_between_eyes, red_eyes, purple_eyes, pink_eyes, short_hair, antenna_hair, grey_hair, white_hair, hair_flower, small_breasts, collarbone, elf, armlet
 kokkoro_\(summer\)_\(princess_connect!\), princess_connect!, hair_between_eyes, red_eyes, purple_eyes, pink_eyes, short_hair, antenna_hair, grey_hair, white_hair, hair_flower, small_breasts, covered_navel, collarbone, casual_one-piece_swimsuit, white_one-piece_swimsuit, frilled_one-piece_swimsuit, green_one-piece_swimsuit, bare_shoulders, frills, elf, armlet
 koleda_belobog, zenless_zone_zero, bear_ears, sharp_teeth, fake_animal_ears, red_eyes, hair_between_eyes, eyepatch, red_hair, very_long_hair, long_hair, twintails, ahoge, small_breasts, navel, fingerless_gloves, black_gloves, white_pants, bare_shoulders, midriff, crop_top
@@ -241,7 +241,7 @@ sui_\(isekai_ojisan\), isekai_ojisan, green_eyes, blonde_hair, long_hair, parted
 surtr_\(arknights\), arknights, demon_horns, demon_girl, horns, purple_eyes, hair_between_eyes, red_hair, very_long_hair, long_hair, hair_intakes, medium_breasts, large_breasts, cleavage, black_dress, bare_shoulders
 surtr_\(colorful_wonderland\)_\(arknights\), arknights, demon_horns, horns, purple_eyes, hair_between_eyes, red_hair, very_long_hair, star_hair_ornament, hair_intakes, hair_rings, large_breasts, medium_breasts, cleavage, thighs, navel, stomach
 surtr_\(colorful_wonderland\)_\(arknights\), arknights, demon_horns, horns, purple_eyes, hair_between_eyes, red_hair, very_long_hair, star_hair_ornament, hair_intakes, hair_rings, large_breasts, medium_breasts, cleavage, thighs, thigh_strap, navel, black_bikini, swimsuit_cover-up, side-tie_bikini_bottom, bare_shoulders, detached_sleeves, long_sleeves, criss-cross_halter, stomach
-surtr_\(colorful_wonderland_\)_\(arknights_\), arknights, swimsuit_cover-up, burnt_clothes, criss-cross_halter, cherry, purple_eyes, star_hair_ornament
+surtr_\(colorful_wonderland\)_\(arknights\), arknights, swimsuit_cover-up, burnt_clothes, criss-cross_halter, cherry, purple_eyes, star_hair_ornament
 tachibana_kanade, angel_beats!, hand_sonic, company_connection, angel_wings, yellow_eyes, grey_hair
 tachibana_kanade, angel_beats!, hand_sonic, shinda_sekai_sensen_uniform, blazer, company_connection, angel_wings, yellow_eyes, grey_hair
 tachibana_kanade, angel_beats!, yellow_eyes, long_hair, grey_hair, blue_hair, white_hair, school_uniform, blazer
@@ -292,8 +292,8 @@ vira_\(summer\)_\(granblue_fantasy\), granblue_fantasy, red_eyes, hair_between_e
 yonah, nier_\(series\), blue_eyes, white_hair, long_hair, short_hair
 yonah, nier_\(series\), blue_eyes, white_hair, long_hair, short_hair, white_dress
 yor_briar, spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_dress, black_gloves, bare_shoulders
-yor_briar_(assassin_dress), spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_dress, black_gloves, bare_shoulders, black_thighhighs
-yor_briar_(assassin_dress), spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_thighhighs
+yor_briar_\(assassin_dress\), spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_dress, black_gloves, bare_shoulders, black_thighhighs
+yor_briar_\(assassin_dress\), spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_thighhighs
 yui_\(sao-alo\), sword_art_online, pointy_ears, black_eyes, brown_eyes, black_hair, very_long_hair, long_hair, hair_flower, barefoot, dress, detached_sleeves, bare_shoulders, fairy_wings, transparent_wings, white_wings, fairy_\(sao\), fairy, minigirl, mini_person
 yui_\(sao\), sword_art_online
 yukine_chris, senki_zesshou_symphogear, purple_eyes, hair_between_eyes, long_hair, very_long_hair, grey_hair, white_hair, ahoge, low_twintails, twintails, large_breasts, cleavage

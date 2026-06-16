@@ -5,7 +5,7 @@ arlecchino_\(genshin_impact\), genshin_impact, red_eyes, cross-shaped_pupils, wh
 barbara_\(genshin_impact\), genshin_impact, blue_eyes, hair_between_eyes, blonde_hair, long_hair, twintails, medium_breasts, hat, white_dress, white_headwear, bare_shoulders, long_sleeves, detached_sleeves, twin_drills
 barbara_\(summertime_sparkle\)_\(genshin_impact\), genshin_impact, blue_eyes, hair_between_eyes, blonde_hair, long_hair, twintails, hair_flower, thighs, blue_choker, twin_drills, duck
 barbara_\(summertime_sparkle\)_\(genshin_impact\), genshin_impact, blue_eyes, hair_between_eyes, blonde_hair, long_hair, twintails, hair_flower, thighs, thigh_strap, sailor_hat, casual_one-piece_swimsuit, blue_one-piece_swimsuit, white_headwear, detached_sleeves, long_sleeves, bare_shoulders, blue_sailor_collar, bowtie, blue_choker, bag, twin_drills, duck
-barbara_\(summertime_sparkle_\)_\(genshin_impact_\), genshin_impact, duck, animal_bag, casual_one-piece_swimsuit, sailor_hat, blue_choker, blue_eyes, drill_hair
+barbara_\(summertime_sparkle\)_\(genshin_impact\), genshin_impact, duck, animal_bag, casual_one-piece_swimsuit, sailor_hat, blue_choker, blue_eyes, drill_hair
 candace_\(genshin_impact\), genshin_impact, heterochromia, blue_eyes, yellow_eyes, blue_hair, purple_hair, long_hair, dark_skin, large_breasts
 candace_\(genshin_impact\), genshin_impact, heterochromia, blue_eyes, yellow_eyes, blue_hair, purple_hair, long_hair, dark_skin, large_breasts, white_dress, gold_accessories, bare_shoulders, egyptian
 collei_\(genshin_impact\), genshin_impact, purple_eyes, hair_between_eyes, green_hair, medium_hair, long_hair, ahoge, crossed_bangs, hair_ornament
@@ -22,16 +22,16 @@ faruzan_\(cafe\)_\(genshin_impact\), genshin_impact, green_eyes, triangle-shaped
 faruzan_\(cafe\)_\(genshin_impact\), genshin_impact, maid, maid_headdress, maid_apron, green_eyes, triangle-shaped_pupils, symbol-shaped_pupils, aqua_hair, long_hair, x_hair_ornament, twintails, white_apron, white_thighhighs, puffy_short_sleeves, wrist_cuffs, white_wrist_cuffs
 faruzan_\(genshin_impact\), genshin_impact, green_eyes, symbol-shaped_pupils, triangle-shaped_pupils, aqua_hair, long_hair, x_hair_ornament, twintails, small_breasts, white_dress, bare_shoulders, bracelet
 fischl_\(ein_immernachtstraum\)_\(genshin_impact\), genshin_impact, red_eyes, hair_over_one_eye, blonde_hair, long_hair, hair_ribbon, purple_dress, white_thighhighs, bare_shoulders, detached_sleeves, long_sleeves, tiara
+fischl_\(genshin_impact\), genshin_impact
 fischl_\(genshin_impact\), genshin_impact, green_eyes, hair_over_one_eye, eyepatch, blonde_hair, long_hair, two_side_up, hair_ribbon, medium_breasts, small_breasts, bare_shoulders
-fischl_\(genshin_impact_\), genshin_impact
 focalors_\(genshin_impact\), genshin_impact
-focalors_\(genshin_impact_\), genshin_impact, drop-shaped_pupils, gradient_dress, barefoot_sandals_\(jewelry_\), blue_brooch, cowlick, hair_between_eyes, streaked_hair
+focalors_\(genshin_impact\), genshin_impact, drop-shaped_pupils, gradient_dress, barefoot_sandals_\(jewelry\), blue_brooch, cowlick, hair_between_eyes, streaked_hair
 furina_\(genshin_impact\), genshin_impact, heterochromia, blue_eyes, hair_between_eyes, drop-shaped_pupils, white_hair, streaked_hair, light_blue_hair, long_hair, blue_hair, ahoge
 furina_\(genshin_impact\), genshin_impact, heterochromia, blue_eyes, hair_between_eyes, drop-shaped_pupils, white_hair, streaked_hair, light_blue_hair, long_hair, blue_hair, ahoge, top_hat, blue_jacket, blue_headwear, white_gloves, long_sleeves
 ganyu_\(genshin_impact\), genshin_impact, goat_horns, horns, purple_eyes, hair_between_eyes, blue_hair, long_hair, ahoge, sidelocks, medium_breasts, large_breasts, thighs, black_gloves, bare_shoulders, detached_sleeves, neck_bell, bodystocking
 ganyu_\(twilight_blossom\)_\(genshin_impact\), genshin_impact, goat_horns, purple_eyes, blue_hair, long_hair, official_alternate_hairstyle, ahoge, sidelocks, large_breasts, medium_breasts, thighs
 ganyu_\(twilight_blossom\)_\(genshin_impact\), genshin_impact, goat_horns, purple_eyes, blue_hair, long_hair, official_alternate_hairstyle, ahoge, sidelocks, large_breasts, medium_breasts, thighs, blue_dress, black_gloves, sleeveless_dress, black_dress, bare_shoulders, detached_sleeves, long_sleeves
-ganyu_\(twilight_blossom_\)_\(genshin_impact_\), genshin_impact, gradient_dress, sideless_dress, goat_horns, gradient_clothes, see-through_cleavage, purple_eyes, official_alternate_hairstyle
+ganyu_\(twilight_blossom\)_\(genshin_impact\), genshin_impact, gradient_dress, sideless_dress, goat_horns, gradient_clothes, see-through_cleavage, purple_eyes, official_alternate_hairstyle
 guizhong_\(genshin_impact\), genshin_impact, blue_eyes, grey_hair, short_hair_with_long_locks, long_hair, tassel_hair_ornament, sidelocks, thighs
 guizhong_\(genshin_impact\), genshin_impact, blue_eyes, grey_hair, short_hair_with_long_locks, long_hair, tassel_hair_ornament, sidelocks, thighs, white_dress, bare_shoulders, detached_sleeves, sleeves_past_fingers, long_sleeves, wide_sleeves
 hu_tao_\(genshin_impact\), genshin_impact, red_eyes, hair_between_eyes, flower-shaped_pupils, brown_hair, very_long_hair, long_hair, twintails, thick_thighs, black_thighhighs, grey_thighhighs, single_thighhigh, single_kneehigh, striped_thighhighs, freckles, ghost
@@ -59,16 +59,16 @@ lumine_\(genshin_impact\), genshin_impact, yellow_eyes, hair_between_eyes, blond
 lumine_\(genshin_impact\), genshin_impact, yellow_eyes, hair_between_eyes, blonde_hair, short_hair_with_long_locks, sidelocks, hair_flower, medium_breasts, large_breasts, cleavage, white_dress, bare_shoulders
 mona_\(genshin_impact\), genshin_impact, green_eyes, black_hair, long_hair, purple_hair, twintails, medium_breasts, thighs, black_pantyhose
 mona_\(genshin_impact\), genshin_impact, green_eyes, black_hair, long_hair, purple_hair, twintails, medium_breasts, thighs, witch_hat, black_gloves, black_pantyhose, blue_leotard
+nahida_\(genshin_impact\), genshin_impact, leaf_hair_ornament, cross-shaped_pupils, green_sleeves, green_cape, white_bloomers, green_eyes
 nahida_\(genshin_impact\), genshin_impact, loli, pointy_ears, green_eyes, hair_between_eyes, cross-shaped_pupils, symbol-shaped_pupils, long_hair, white_hair, green_hair, gradient_hair, grey_hair, leaf_hair_ornament, side_ponytail, sidelocks, hair_ornament, toes
 nahida_\(genshin_impact\), genshin_impact, loli, pointy_ears, green_eyes, hair_between_eyes, cross-shaped_pupils, symbol-shaped_pupils, long_hair, white_hair, green_hair, gradient_hair, grey_hair, leaf_hair_ornament, side_ponytail, sidelocks, hair_ornament, white_dress, detached_sleeves, toes
-nahida_\(genshin_impact_\), genshin_impact, leaf_hair_ornament, cross-shaped_pupils, green_sleeves, green_cape, white_bloomers, green_eyes
 navia_\(genshin_impact\), genshin_impact, blue_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, cleavage, thighs, black_headwear, black_gloves, hat_flower, bare_shoulders, detached_sleeves, drill_sidelocks
 navia_\(genshin_impact\), genshin_impact, blue_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, cleavage, thighs, hat_flower, drill_sidelocks
 nilou_\(breeze_of_sabaa\)_\(genshin_impact\), genshin_impact, aqua_eyes, red_hair, very_long_hair, parted_bangs, double_bun, hair_flower, medium_breasts, white_dress, sleeveless_dress, detached_sleeves, bare_shoulders, white_sleeves, circlet
 nilou_\(genshin_impact\), genshin_impact, fake_horns, aqua_eyes, blue_eyes, red_hair, long_hair, very_long_hair, parted_bangs, low_twintails, sidelocks, medium_breasts, thighs, navel, harem_outfit, veil, white_veil, white_headwear, blue_skirt, detached_sleeves, puffy_long_sleeves, bare_shoulders, neck_ring, circlet, stomach, brooch, crop_top, bracer
 nilou_\(genshin_impact\), genshin_impact, fake_horns, aqua_eyes, blue_eyes, red_hair, long_hair, very_long_hair, parted_bangs, low_twintails, sidelocks, medium_breasts, thighs, navel, veil, white_veil, neck_ring, circlet, stomach
+noelle_\(genshin_impact\), genshin_impact, braided_bangs, red_rose, armored_dress, red_ascot, red_flower, green_eyes, hair_flower
 noelle_\(genshin_impact\), genshin_impact, maid, maid_headdress, green_eyes, short_hair, grey_hair, braid, blunt_bangs, braided_bangs, hair_flower, medium_breasts, large_breasts, cleavage
-noelle_\(genshin_impact_\), genshin_impact, braided_bangs, red_rose, armored_dress, red_ascot, red_flower, green_eyes, hair_flower
 noelle_\(kfc\)_\(genshin_impact\), genshin_impact, green_eyes, short_hair, grey_hair, braid, blunt_bangs, braided_bangs, large_breasts, medium_breasts
 noelle_\(kfc\)_\(genshin_impact\), genshin_impact, green_eyes, short_hair, grey_hair, braid, blunt_bangs, braided_bangs, large_breasts, medium_breasts, fast_food_uniform, apron, employee_uniform, black_headwear, black_dress, white_apron, long_sleeves, beret, red_ascot, black_hat
 qiqi_\(genshin_impact\), genshin_impact, purple_eyes, hair_between_eyes, purple_hair, long_hair, coin_hair_ornament, braided_ponytail, single_braid, hat, purple_headwear, white_thighhighs, long_sleeves, wide_sleeves, bead_necklace, jiangshi, qingdai_guanmao, ofuda
@@ -78,7 +78,7 @@ raiden_shogun, genshin_impact, purple_eyes, mole_under_eye, purple_hair, long_ha
 rukkhadevata_\(genshin_impact\), genshin_impact, pointy_ears, green_eyes, hair_between_eyes, cross-shaped_pupils, symbol-shaped_pupils, white_hair, green_hair, very_long_hair, gradient_hair, long_hair, streaked_hair, leaf_hair_ornament, ahoge, sidelocks, single_braid, braid, large_breasts, cleavage
 rukkhadevata_\(genshin_impact\), genshin_impact, pointy_ears, green_eyes, hair_between_eyes, cross-shaped_pupils, symbol-shaped_pupils, white_hair, green_hair, very_long_hair, gradient_hair, long_hair, streaked_hair, leaf_hair_ornament, ahoge, sidelocks, single_braid, braid, large_breasts, cleavage, white_dress, strapless_dress, bare_shoulders, detached_sleeves, gold_trim
 sangonomiya_kokomi, genshin_impact
-sangonomiya_kokomi, genshin_impact, purple_eyes, blue_eyes, pink_hair, bow-shaped_hair, gradient_hair, long_hair, blue_hair, very_long_hair, blunt_bangs, hair_ornament, navel, white_gloves, white_thighhighs, bare_shoulders, wide_sleeves, fish, colored_tipssangonomiya_kokomi, genshin_impact, purple_eyes, blue_eyes, pink_hair, bow-shaped_hair, gradient_hair, long_hair, blue_hair, very_long_hair, blunt_bangs, hair_ornament, navel, white_gloves, white_thighhighs, bare_shoulders, wide_sleeves, fish, colored_tips
+sangonomiya_kokomi, genshin_impact, purple_eyes, blue_eyes, pink_hair, bow-shaped_hair, gradient_hair, long_hair, blue_hair, very_long_hair, blunt_bangs, hair_ornament, navel, white_gloves, white_thighhighs, bare_shoulders, wide_sleeves, fish, colored_tips
 shenhe_\(genshin_impact\), genshin_impact, blue_eyes, white_hair, long_hair, very_long_hair, braid, large_breasts, chinese_clothes, white_bodysuit, black_details, bare_shoulders, red_rope, tassel
 shenhe_\(genshin_impact\), genshin_impact, blue_eyes, white_hair, long_hair, very_long_hair, braid, large_breasts, red_rope
 skirk_\(genshin_impact\), genshin_impact, pink_eyes, hair_between_eyes, red_eyes, grey_hair, very_long_hair, long_hair, butterfly_hair_ornament, medium_breasts, large_breasts, thighs
@@ -87,7 +87,7 @@ xiangling_\(genshin_impact\), genshin_impact, yellow_eyes, thick_eyebrows, short
 xiangling_\(genshin_impact\), genshin_impact, yellow_eyes, thick_eyebrows, short_hair, blue_hair, braided_hair_rings, braid, twin_braids, hair_rings, hairclip, small_breasts, thighs, china_dress, fingerless_gloves, bare_shoulders
 xianyun_\(genshin_impact\), genshin_impact, green_eyes, white_hair, long_hair, glasses, large_breasts, mature_female
 xianyun_\(genshin_impact\), genshin_impact, green_eyes, white_hair, long_hair, glasses, large_breasts, mature_female, black_dress, green_accents, chinese_clothes, bare_shoulders, crane_motif
-yae_miko, genshin_impact, floppy_ears, nontraditional_miko, fox_ears, vision_\(genshin_impact_\), low-tied_long_hair, purple_eyes
+yae_miko, genshin_impact, floppy_ears, nontraditional_miko, fox_ears, vision_\(genshin_impact\), low-tied_long_hair, purple_eyes
 yae_miko, genshin_impact, fox_ears, floppy_ears, purple_eyes, hair_between_eyes, pink_hair, very_long_hair, long_hair, hair_ornament, large_breasts, thighs, japanese_clothes, bare_shoulders, detached_sleeves, wide_sleeves, earrings, nontraditional_miko
 yoimiya_\(genshin_impact\), genshin_impact, yellow_eyes, hair_between_eyes, orange_eyes, blonde_hair, long_hair, ponytail, hair_ornament, medium_breasts, large_breasts, chest_tattoo, cleavage, bandaged_leg, thighs, arm_tattoo, red_choker, bandaged_arm, obi, hadanugi_dousa
 yoimiya_\(genshin_impact\), genshin_impact, yellow_eyes, hair_between_eyes, orange_eyes, blonde_hair, long_hair, ponytail, hair_ornament, medium_breasts, large_breasts, chest_tattoo, cleavage, chest_sarashi, bandaged_leg, thighs, arm_tattoo, orange_kimono, red_choker, bandaged_arm, obi, hadanugi_dousa, shimenawa

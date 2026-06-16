@@ -1,7 +1,7 @@
 2b_\(nier:automata\), nier_\(series\), mole_under_mouth, short_hair, white_hair, black_hairband, medium_breasts, large_breasts, cleavage, thighs, black_thighhighs, black_blindfold_full_body
 adult_neptune, neptune_\(series\), purple_eyes, hair_between_eyes, purple_hair, long_hair, very_long_hair, d-pad_hair_ornament, medium_breasts, large_breasts, cleavage
 aerith_gainsborough, final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, braided_ponytail, medium_breasts, navel, collarbone
-aerith_gainsborough_(red_dress), final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, ponytail, ringlets, medium_breasts, cleavage, navel, collarbone
+aerith_gainsborough_\(red_dress\), final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, ponytail, ringlets, medium_breasts, cleavage, navel, collarbone
 aisaka_taiga, toradora!, brown_eyes, hair_between_eyes, brown_hair, long_hair
 aiz_wallenstein, dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka, yellow_eyes, hair_between_eyes, blonde_hair, long_hair, medium_breasts, large_breasts
 alastor_\(shakugan_no_shana\), shakugan_no_shana, red_eyes, red_hair, long_hair, very_long_hair, black_hair, thighhighs, pendant
@@ -47,7 +47,7 @@ candace_\(genshin_impact\), genshin_impact, heterochromia, blue_eyes, yellow_eye
 carol_malus_dienheim, senki_zesshou_symphogear, shiny_skin, blue_eyes, mole_under_eye, blonde_hair, long_hair, braided_ponytail, large_breasts
 cecile_neues, eiyuu_densetsu, brown_hair, braid, green_eyes, mature_female
 cecile_neues, eiyuu_densetsu, brown_hair, braid, green_eyes, pantyhose, mature_female
-changli_\(wuthering_waves_\), wuthering_waves, ring_hair_extensions, hair_extensions, red_hands, colored_extremities, tacet_mark_\(wuthering_waves_\), yellow_eyes
+changli_\(wuthering_waves\), wuthering_waves, ring_hair_extensions, hair_extensions, red_hands, colored_extremities, tacet_mark_\(wuthering_waves\), yellow_eyes
 chen, touhou
 cheshire_\(summery_date!\)_\(azur_lane\), azur_lane, skin_fang, cat_ears, fake_animal_ears, aqua_eyes, blue_eyes, streaked_hair, black_hair, short_hair, two-tone_hair, aqua_hair, blunt_bangs, large_breasts, cleavage, thighs, navel, bridal_garter, stomach, beach, sarong
 cheshire_cat_\(alice_in_wonderland\), alice_in_wonderland, cat_ears, cat_tail, blue_eyes, long_hair, blonde_hair, cat
@@ -74,7 +74,7 @@ elise_schwarzer, eiyuu_densetsu, black_hair, long_hair, hime_cut, blue_eyes, pan
 elise_schwarzer, eiyuu_densetsu, black_hair, long_hair, hime_cut, blue_eyes, ribbon
 ellen_joe, zenless_zone_zero, shark_girl, shark_tail, red_eyes, hair_between_eyes, mole_under_eye, black_hair, short_hair, red_hair, colored_inner_hair, two-tone_hair, large_breasts, fins
 elysia_\(summer_miss_elf\)_\(honkai_impact\), honkai_\(series\), blue_eyes, hair_between_eyes, pink_pupils, pink_hair, very_long_hair, long_hair, white_hairband, large_breasts, cleavage, legs, navel, pearl_necklace, elf, white_headband
-emilia_(white_robe), re:zero_kara_hajimeru_isekai_seikatsu, pointy_ears, purple_eyes, long_hair, white_hair, grey_hair, very_long_hair, x_hair_ornament, crown_braid, blunt_bangs, hair_flower, hair_ribbon, medium_breasts, cleavage, elf, white_thighhighs
+emilia_\(white_robe\), re:zero_kara_hajimeru_isekai_seikatsu, pointy_ears, purple_eyes, long_hair, white_hair, grey_hair, very_long_hair, x_hair_ornament, crown_braid, blunt_bangs, hair_flower, hair_ribbon, medium_breasts, cleavage, elf, white_thighhighs
 emma_millstein, eiyuu_densetsu, pink_hair, long_hair, braid, blue_eyes, obi
 emma_millstein, eiyuu_densetsu, pink_hair, long_hair, braid, braided_ponytail, blue_eyes
 ereshkigal_\(bitter_sweet\)_\(fate\), fate/grand_order, red_eyes, blonde_hair, long_hair, very_long_hair, two_side_up, parted_bangs, hair_ribbon, hair_bow, medium_breasts, earrings, cross_necklace, shawl, gift_box
@@ -92,7 +92,7 @@ fie_claussell, eiyuu_densetsu, white_hair, short_hair, green_eyes, bob_cut, smal
 fie_claussell, eiyuu_densetsu, white_hair, short_hair, green_eyes, navel, small_breasts
 filo_\(tate_no_yuusha_no_nariagari\), tate_no_yuusha_no_nariagari, blue_eyes, blonde_hair, very_long_hair, long_hair, parted_bangs, ahoge, barefoot, collarbone, feathered_wings, white_wings, bird_wings
 firefly_\(ar-26710\)_\(honkai:_star_rail\), honkai:_star_rail, purple_eyes, hair_between_eyes, two-tone_eyes, grey_hair, long_hair, very_long_hair, white_hair, black_hairband, medium_breasts
-fischl_\(genshin_impact_\), genshin_impact
+fischl_\(genshin_impact\), genshin_impact
 focalors_\(genshin_impact\), genshin_impact
 formidable_\(azur_lane\), azur_lane
 frederica_baumann, re:zero_kara_hajimeru_isekai_seikatsu, sharp_teeth, green_eyes, hair_between_eyes, thick_eyebrows, blonde_hair, long_hair, very_long_hair, large_breasts, medium_breasts, cleavage
@@ -104,7 +104,7 @@ fu_xuan_\(honkai:_star_rail\), honkai_\(series\), yellow_eyes, pink_eyes, pink_h
 fugue_\(honkai:_star_rail\), honkai:_star_rail, green_eyes, brown_hair, long_hair, ponytail, large_breasts
 fujibayashi_kyou, clannad, purple_eyes, purple_hair, long_hair, very_long_hair, hair_intakes
 fujiwara_chika, kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~, blue_eyes, pink_hair, long_hair, blunt_bangs, hair_bow, large_breasts, collarbone
-fujiwara_chika_(winter_uniform), kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~, blue_eyes, pink_hair, long_hair, blunt_bangs, hair_bow, large_breasts, collarbone, black_pantyhose
+fujiwara_chika_\(winter_uniform\), kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~, blue_eyes, pink_hair, long_hair, blunt_bangs, hair_bow, large_breasts, collarbone, black_pantyhose
 fujiwara_no_mokou, touhou, red_eyes, white_hair, very_long_hair, long_hair, grey_hair, hair_bow
 furina_\(genshin_impact\), genshin_impact, heterochromia, blue_eyes, hair_between_eyes, drop-shaped_pupils, white_hair, streaked_hair, light_blue_hair, long_hair, blue_hair, ahoge
 furukawa_nagisa, clannad, brown_eyes, antenna_hair, brown_hair, short_hair
@@ -116,7 +116,7 @@ gokou_ruri, ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai, cat_ears, red_eyes, pu
 gotoh_hitori, bocchi_the_rock!, blue_eyes, hair_between_eyes, pink_hair, long_hair, cube_hair_ornament, large_breasts, one_side_up
 griseo_\(starry_impression\), honkai_\(series\), purple_eyes, hair_between_eyes, blue_hair, long_hair, very_long_hair, ahoge, twintails, hair_ornament, barefoot
 gu_yuena, douluo_dalu, purple_eyes, white_hair, long_hair, very_long_hair, grey_hair, large_breasts
-guild_girl_\(goblin_slayer!\),brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts
+guild_girl_\(goblin_slayer!\), goblin_slayer!, brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts
 guinaifen_\(honkai:_star_rail\), honkai:_star_rail, hair_between_eyes, yellow_eyes, orange_eyes, orange_hair, long_hair, very_long_hair, ponytail, side_ponytail, hair_flower, large_breasts, medium_breasts
 guizhong_\(genshin_impact\), genshin_impact, blue_eyes, grey_hair, short_hair_with_long_locks, long_hair, tassel_hair_ornament, sidelocks, thighs
 hakurei_reimu, touhou, hair_tubes, brown_eyes
@@ -125,11 +125,11 @@ haruno_sakura, naruto_\(series\), green_eyes, pink_hair, short_hair
 hata_no_kokoro, touhou, pink_eyes, pink_hair, very_long_hair, long_hair, fox_mask
 hatsune_miku, vocaloid, aqua_eyes, aqua_hair, long_hair, twintails, very_long_hair, medium_breasts, slender
 hayasaka_ai, kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~, blue_eyes, hair_between_eyes, blonde_hair, long_hair, side_ponytail, sidelocks, hair_scrunchie, medium_breasts, large_breasts, thighs, collarbone, blue_nails, nail_polish, blue_scrunchie
-hayasaka_ai_(winter_uniform), kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~, blue_eyes, hair_between_eyes, blonde_hair, long_hair, side_ponytail, sidelocks, hair_scrunchie, medium_breasts, large_breasts, thighs, collarbone, blue_nails, nail_polish, blue_scrunchie, black_pantyhose
+hayasaka_ai_\(winter_uniform\), kaguya-sama_wa_kokurasetai_~tensai-tachi_no_renai_zunousen~, blue_eyes, hair_between_eyes, blonde_hair, long_hair, side_ponytail, sidelocks, hair_scrunchie, medium_breasts, large_breasts, thighs, collarbone, blue_nails, nail_polish, blue_scrunchie, black_pantyhose
 henrietta_de_tristain, zero_no_tsukaima, pentacle, lingerie, pink_eyes, purple_hair
-herta_\(honkai:_star_rail_\), honkai:_star_rail, key_necklace, key, hat_flower, purple_eyes, hair_intakes
+herta_\(honkai:_star_rail\), honkai:_star_rail, key_necklace, key, hat_flower, purple_eyes, hair_intakes
 hestia_\(danmachi\), dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka, blue_eyes, black_hair, long_hair, very_long_hair, twintails, hair_ribbon, large_breasts, cleavage
-high_elf_archer_\(goblin_slayer!\),green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, elf
+high_elf_archer_\(goblin_slayer!\), goblin_slayer!, green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, elf
 hiiragi_shinoa, owari_no_seraph, brown_eyes, purple_hair, long_hair, hair_bow, black_thighhighs
 hikami_sumire, aikatsu!_\(series\), purple_eyes, purple_hair, long_hair, blunt_bangs, hair_ribbon
 himeko_\(honkai:_star_rail\), honkai:_star_rail, brown_eyes, red_hair, long_hair, large_breasts, mature_female
@@ -162,7 +162,7 @@ inubashiri_momiji, touhou, wolf_ears, wolf_tail, red_eyes, short_hair, white_hai
 inui_sajuna, sono_bisque_doll_wa_koi_wo_suru, hair_between_eyes, pink_eyes, purple_eyes, long_hair, pink_hair, crossed_bangs, two_side_up, small_breasts, thighs, collarbone
 irie_miyuki, angel_beats!, purple_eyes, hair_between_eyes, purple_hair, long_hair, very_long_hair
 iris_\(konosuba\), kono_subarashii_sekai_ni_shukufuku_wo!, blue_eyes, hair_between_eyes, blonde_hair, long_hair, grape_hair_ornament, single_braid, side_braid, small_breasts, navel
-isshiki_iroha_(winter_uniform), yahari_ore_no_seishun_lovecome_wa_machigatteiru., brown_eyes, yellow_eyes, brown_hair, medium_hair, short_hair, medium_breasts, collarbone, black_pantyhose
+isshiki_iroha_\(winter_uniform\), yahari_ore_no_seishun_lovecome_wa_machigatteiru., brown_eyes, yellow_eyes, brown_hair, medium_hair, short_hair, medium_breasts, collarbone, black_pantyhose
 itsuka_kotori, date_a_live, red_eyes, hair_between_eyes, red_hair, very_long_hair, long_hair, twintails, ahoge, hair_ribbon, small_breasts
 izayoi_sakuya, touhou, blue_eyes, grey_hair, short_hair, twin_braids
 izumi_sagiri, eromanga_sensei, blue_eyes, grey_hair, long_hair, low-tied_long_hair, hair_bow, small_breasts
@@ -174,7 +174,7 @@ kagarino_kirie, bishoujo_mangekyou, heterochromia, red_eyes, blue_eyes, fang, va
 kamado_nezuko, kimetsu_no_yaiba, pink_eyes, black_hair, very_long_hair, gradient_hair, brown_hair, two-tone_hair, long_hair, hair_ribbon
 kamikita_komari, little_busters!, long_ribbon, star_hair_ornament, eyes_visible_through_hair
 kamisato_ayaka, genshin_impact, blue_eyes, mole_under_eye, long_hair, light_blue_hair, blue_hair, blunt_bangs, ponytail, sidelocks, hair_ornament, medium_breasts, tress_ribbon
-kaname_madoka_\(magical_girl_\), mahou_shoujo_madoka_magica_\(anime_\), short_twintails, red_choker, pink_eyes, drill_hair
+kaname_madoka_\(magical_girl\), mahou_shoujo_madoka_magica_\(anime\), short_twintails, red_choker, pink_eyes, drill_hair
 kanna_kamui, kobayashi-san_chi_no_maidragon, loli, dragon_horns, tail, blue_eyes, long_hair, purple_hair, gradient_hair, light_purple_hair, blunt_bangs, low_twintails, twintails, hair_beads, hairband, white_thighhighs, dragon_girl
 kannagi_yuuri, bishoujo_mangekyou, green_eyes, tsurime, blonde_hair, long_hair, very_long_hair, straight_hair, v_bangs, sidelocks, hairpin, pale_skin, large_breasts, navel, collarbone
 kanroji_mitsuri, kimetsu_no_yaiba, green_eyes, hair_between_eyes, mole_under_eye, mole_under_each_eye, pink_hair, green_hair, gradient_hair, long_hair, two-tone_hair, twin_braids, tri_braids, large_breasts, cleavage, green_thighhighs
@@ -221,7 +221,7 @@ lynx_landau, honkai:_star_rail, blue_pantyhose, blue_eyes, hair_intakes
 maga-reimu, touhou, red_eyes, white_hair, long_hair, hair_bow, hair_tubes
 makise_kurisu, steins;gate, blue_eyes, hair_between_eyes, purple_eyes, long_hair, brown_hair, red_hair, black_pantyhose
 march_7th_\(honkai:_star_rail\), honkai_\(series\), blue_eyes, pink_eyes, two-tone_eyes, hair_between_eyes, pink_hair, medium_hair, medium_breasts, collarbone, black_choker, single_earring
-marie_rose_(devilish_servant_against_the_splashing_waves_), dead_or_alive_5, marie_rose_(cosplay_), frilled_thighhighs, blue_thighhighs, blue_eyes, x_hair_ornament
+marie_rose_\(devilish_servant_against_the_splashing_waves\), dead_or_alive_5, marie_rose_\(cosplay\), frilled_thighhighs, blue_thighhighs, blue_eyes, x_hair_ornament
 medicine_melancholy, touhou, blue_eyes, blonde_hair, short_hair, hair_ribbon
 megumin, kono_subarashii_sekai_ni_shukufuku_wo!, bandaged_leg, short_hair_with_long_locks, single_thighhigh, mismatched_legwear, red_eyes
 melty_q_melromarc, tate_no_yuusha_no_nariagari, purple_eyes, blue_eyes, long_hair, blue_hair, purple_hair, twintails, hair_intakes, sidelocks, small_breasts, thighs
@@ -254,7 +254,7 @@ pecorine_\(summer\)_\(princess_connect!\), princess_connect!, blue_eyes, hair_be
 pinku_\(vtuber\), atelier_live, red_eyes, hair_between_eyes, pink_hair, long_hair, braid, hair_ribbon, medium_breasts, virtual_youtuber
 piper_wheel, zenless_zone_zero, green_eyes, blonde_hair, long_hair, single_hair_bun, small_breasts, navel, armpits, midriff, stomach
 power_\(chainsaw_man\), chainsaw_man, demon_horns, red_horns, sharp_teeth, hair_between_eyes, yellow_eyes, red_eyes, cross-shaped_pupils, long_hair, blonde_hair
-priestess_\(goblin_slayer!\),blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts
+priestess_\(goblin_slayer!\), goblin_slayer!, blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts
 priscilla_barielle, re:zero_kara_hajimeru_isekai_seikatsu, red_eyes, blonde_hair, long_hair, orange_hair, very_long_hair, braided_bangs, single_braid, sidelocks, hair_flower, large_breasts, medium_breasts, cleavage, collarbone, choker, necklace, earrings
 pururut, neptune_\(series\), purple_eyes, pink_eyes, hair_between_eyes, purple_hair, very_long_hair, long_hair, braid, single_braid
 pyra_\(xenoblade\), xenoblade_chronicles_\(series\), red_eyes, red_hair, short_hair, swept_bangs, bob_cut, large_breasts, chest_jewel, earrings
@@ -264,11 +264,11 @@ qingyi_\(zenless_zone_zero\), zenless_zone_zero, green_eyes, green_hair, long_ha
 qiqi_\(genshin_impact\), genshin_impact, purple_eyes, hair_between_eyes, purple_hair, long_hair, coin_hair_ornament, braided_ponytail, single_braid, white_thighhighs, bead_necklace
 raiden_mei_\(valkyrie_bladestrike\), honkai_\(series\), purple_eyes, blue_eyes, purple_hair, long_hair, very_long_hair, ponytail, side_braid, hair_flower, large_breasts, cleavage, white_thighhighs
 raiden_shogun, genshin_impact, purple_eyes, mole_under_eye, purple_hair, long_hair, very_long_hair, braided_ponytail, hair_ornament, large_breasts, cleavage, thighs, purple_nails, obi
-ram_(roswaal_maid), re:zero_kara_hajimeru_isekai_seikatsu, red_eyes, pink_eyes, hair_over_one_eye, pink_hair, short_hair, x_hair_ornament, hair_ribbon, small_breasts, medium_breasts, white_thighhighs
+ram_\(roswaal_maid\), re:zero_kara_hajimeru_isekai_seikatsu, red_eyes, pink_eyes, hair_over_one_eye, pink_hair, short_hair, x_hair_ornament, hair_ribbon, small_breasts, medium_breasts, white_thighhighs
 raphiel_shiraha_ainsworth, gabriel_dropout, yellow_eyes, long_hair, white_hair, grey_hair, very_long_hair, cross_hair_ornament, ahoge, large_breasts, medium_breasts
 reisalin_stout, atelier_\(series\), brown_eyes, brown_hair, short_hair, hairclip, large_breasts, cleavage, thighs, thick_thighs, navel, collarbone
 reisen_udongein_inaba, touhou, rabbit_ears, rabbit_girl, rabbit_tail, red_eyes, purple_hair
-rem_(roswaal_maid), re:zero_kara_hajimeru_isekai_seikatsu, blue_eyes, hair_over_one_eye, blue_hair, short_hair, x_hair_ornament, hair_ribbon, medium_breasts, large_breasts, cleavage, white_thighhighs
+rem_\(roswaal_maid\), re:zero_kara_hajimeru_isekai_seikatsu, blue_eyes, hair_over_one_eye, blue_hair, short_hair, x_hair_ornament, hair_ribbon, medium_breasts, large_breasts, cleavage, white_thighhighs
 remilia_scarlet, touhou, red_eyes, short_hair, blue_hair, bat_wings
 renge_\(bishoujo_mangekyou\), bishoujo_mangekyou, green_eyes, black_hair, very_long_hair, long_hair, blunt_bangs, hairband, small_breasts, hime_cut, petite, dark
 renne_\(eiyuu_densetsu\), eiyuu_densetsu, purple_hair, long_hair, yellow_eyes, hair_ribbon
@@ -336,7 +336,7 @@ suiseiseki, rozen_maiden, heterochromia, green_eyes, red_eyes, brown_hair, very_
 surtr_\(colorful_wonderland\)_\(arknights\), arknights, demon_horns, horns, purple_eyes, hair_between_eyes, red_hair, very_long_hair, star_hair_ornament, hair_intakes, hair_rings, large_breasts, medium_breasts, cleavage, thighs, navel, stomach
 sushang_\(honkai:_star_rail\), honkai:_star_rail
 suzushina_yuriko, toaru_majutsu_no_index, pale_skin, red_eyes, white_hair, short_hair, hair_flower, albino
-sword_maiden,hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, necklace, habit, black_blindfold
+sword_maiden_\(goblin_slayer!\), goblin_slayer!, hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, necklace, habit, black_blindfold
 syr_flova, dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka, blue_eyes, silver_hair, short_hair, medium_breasts, navel, collarbone
 tachibana_kanade, angel_beats!, hand_sonic, company_connection, angel_wings, yellow_eyes, grey_hair
 taihou_\(azur_lane\), azur_lane, red_eyes, hair_between_eyes, black_hair, very_long_hair, ahoge, crossed_bangs, hair_ornament, large_breasts, cleavage, thighs, collarbone, black_thighhighs, one_side_up
@@ -383,19 +383,19 @@ xiangling_\(genshin_impact\), genshin_impact, yellow_eyes, thick_eyebrows, short
 xianyun_\(genshin_impact\), genshin_impact, green_eyes, white_hair, long_hair, glasses, large_breasts, mature_female
 xiao_wu_\(douluo_dalu\), douluo_dalu, rabbit_ears, pink_eyes, brown_hair, long_hair, ponytail, hair_ornament
 xueyi_\(honkai:_star_rail\), honkai:_star_rail, red_eyes, hair_between_eyes, short_hair, colored_inner_hair, black_hair, red_hair, medium_hair, brown_hair, medium_breasts
-yae_miko, genshin_impact, floppy_ears, nontraditional_miko, fox_ears, vision_\(genshin_impact_\), low-tied_long_hair, purple_eyes
+yae_miko, genshin_impact, floppy_ears, nontraditional_miko, fox_ears, vision_\(genshin_impact\), low-tied_long_hair, purple_eyes
 yamada_elf, eromanga_sensei, pointy_ears, brown_eyes, blonde_hair, long_hair, drill_hair, ponytail, hair_bow, small_breasts, navel, twin_drills
 yamada_ryo, bocchi_the_rock!, yellow_eyes, mole_under_eye, blue_hair, short_hair, hairclip
 yoimiya_\(genshin_impact\), genshin_impact, yellow_eyes, hair_between_eyes, orange_eyes, blonde_hair, long_hair, ponytail, hair_ornament, medium_breasts, large_breasts, chest_tattoo, cleavage, bandaged_leg, thighs, arm_tattoo, red_choker, bandaged_arm, obi, hadanugi_dousa
 yonah, nier_\(series\), blue_eyes, white_hair, long_hair, short_hair
-yor_briar_(assassin_dress), spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_thighhighs
+yor_briar_\(assassin_dress\), spy_x_family, red_eyes, black_hair, long_hair, short_hair_with_long_locks, gold_hairband, sidelocks, hair_flower, large_breasts, cleavage, thighs, black_thighhighs
 yorigami_jo'on, touhou, orange_eyes, orange_hair, light_brown_hair, long_hair, twintails, hair_bow, earrings, ring, necklace, twin_drills, pendant, bangle
 yorigami_shion, touhou, blue_eyes, hair_between_eyes, blue_hair, very_long_hair, long_hair, hair_bow, barefoot, bangle
 yuffie_kisaragi, final_fantasy, red_eyes, black_hair, short_hair, bob_cut, small_breasts, navel, collarbone
 yui_\(sao\), sword_art_online
 yuigahama_yui, yahari_ore_no_seishun_lovecome_wa_machigatteiru., red_eyes, hair_between_eyes, blue_eyes, single_hair_bun, short_hair, pink_hair, orange_hair, single_side_bun, large_breasts, collarbone
 yukine_chris, senki_zesshou_symphogear, purple_eyes, hair_between_eyes, long_hair, very_long_hair, grey_hair, white_hair, ahoge, low_twintails, twintails, large_breasts, cleavage
-yukinoshita_yukino_(winter_uniform), yahari_ore_no_seishun_lovecome_wa_machigatteiru., blue_eyes, hair_between_eyes, black_hair, long_hair, ahoge, hair_ribbon, small_breasts, black_pantyhose
+yukinoshita_yukino_\(winter_uniform\), yahari_ore_no_seishun_lovecome_wa_machigatteiru., blue_eyes, hair_between_eyes, black_hair, long_hair, ahoge, hair_ribbon, small_breasts, black_pantyhose
 yukong_\(honkai:_star_rail\), honkai:_star_rail, fox_girl, fox_ears, animal_ear_fluff, fox_tail, purple_eyes, hair_between_eyes, long_hair, green_hair, very_long_hair, blue_hair, hair_ornament, large_breasts, cleavage, thighs, legs
 yun_jin_\(genshin_impact\), genshin_impact
 yun_yun_\(doupo_cangqiong\), doupo_cangqiong, blue_eyes, long_hair, black_hair, single_hair_bun, brown_hair, hair_ornament, necklace

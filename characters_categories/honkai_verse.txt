@@ -32,9 +32,9 @@ griseo_\(starry_impression\), honkai_\(series\), purple_eyes, hair_between_eyes,
 griseo_\(starry_impression\), honkai_\(series\), purple_eyes, hair_between_eyes, blue_hair, long_hair, very_long_hair, ahoge, twintails, hair_ornament, barefoot, white_dress, black_headwear, bare_shoulders, beret
 guinaifen_\(honkai:_star_rail\), honkai:_star_rail, hair_between_eyes, yellow_eyes, orange_eyes, orange_hair, long_hair, very_long_hair, ponytail, side_ponytail, hair_flower, large_breasts, medium_breasts
 guinaifen_\(honkai:_star_rail\), honkai:_star_rail, hair_between_eyes, yellow_eyes, orange_eyes, orange_hair, long_hair, very_long_hair, ponytail, side_ponytail, hair_flower, large_breasts, medium_breasts, chinese_clothes, black_gloves, bare_shoulders, detached_sleeves
-guinaifen_\(honkai:_star_rail_\), honkai:_star_rail, partially_fingerless_gloves, orange_hair, red_dress, chinese_clothes, side_ponytail, orange_eyes
+guinaifen_\(honkai:_star_rail\), honkai:_star_rail, partially_fingerless_gloves, orange_hair, red_dress, chinese_clothes, side_ponytail, orange_eyes
+herta_\(honkai:_star_rail\), honkai:_star_rail, key_necklace, key, hat_flower, purple_eyes, hair_intakes
 herta_\(honkai:_star_rail\), honkai_\(series\), purple_eyes, brown_hair, very_long_hair, long_hair, hair_intakes, hair_flower, black_headwear, white_dress, hat_flower, long_sleeves, shoulder_cutout, purple_choker, key_necklace, beret, key, chain, lock, black_hat
-herta_\(honkai:_star_rail_\), honkai:_star_rail, key_necklace, key, hat_flower, purple_eyes, hair_intakes
 himeko_\(honkai:_star_rail\), honkai:_star_rail, brown_eyes, red_hair, long_hair, large_breasts, mature_female
 himeko_\(honkai:_star_rail\), honkai:_star_rail, brown_eyes, red_hair, long_hair, large_breasts, mature_female, white_coat, black_dress, red_ribbon, rose, coffee
 huohuo_\(honkai:_star_rail\), honkai:_star_rail
@@ -71,10 +71,10 @@ serval_landau, honkai:_star_rail, blue_eyes, hair_between_eyes, blonde_hair, str
 serval_landau, honkai:_star_rail, blue_eyes, hair_between_eyes, blonde_hair, streaked_hair, long_hair, blue_hair, large_breasts, black_choker, nail_polish, black_nails, earrings
 silver_wolf_\(honkai:_star_rail\), honkai_\(series\), grey_eyes, hair_between_eyes, grey_hair, long_hair, drill_hair, ponytail, crossed_bangs, hair_ribbon, thighs, navel, midriff
 silver_wolf_\(honkai:_star_rail\), honkai_\(series\), grey_eyes, hair_between_eyes, grey_hair, long_hair, drill_hair, ponytail, crossed_bangs, hair_ribbon, thighs, thigh_strap, navel, black_jacket, fur-trimmed_jacket, black_gloves, white_shirt, black_shorts, fingerless_gloves, crop_top, midriff
+sparkle_\(honkai:_star_rail\), honkai:_star_rail, fox_mask, flower_tattoo, mask_on_head, mark_under_both_eyes, butterfly-shaped_pupils, gradient_hair
 sparkle_\(honkai:_star_rail\), honkai_\(series\), pink_eyes, red_eyes, black_hair, very_long_hair, brown_hair, long_hair, twintails, medium_breasts, thighs, mask_on_head, fox_mask, black_choker, facial_mark, obi
 sparkle_\(honkai:_star_rail\), honkai_\(series\), pink_eyes, red_eyes, black_hair, very_long_hair, brown_hair, long_hair, twintails, medium_breasts, thighs, mask_on_head, red_dress, fox_mask, black_gloves, bare_shoulders, black_choker, detached_sleeves, facial_mark, neck_bell, criss-cross_halter, obi
-sparkle_\(honkai:_star_rail_\), honkai:_star_rail, fox_mask, flower_tattoo, mask_on_head, mark_under_both_eyes, butterfly-shaped_pupils, gradient_hair
-sparkle_\(school_uniform_\)_\(honkai:_star_rail_\), honkai:_star_rail, holding_mask, fox_mask, mask_on_head, blazer, straight_hair, pink_eyes
+sparkle_\(school_uniform\)_\(honkai:_star_rail\), honkai:_star_rail, holding_mask, fox_mask, mask_on_head, blazer, straight_hair, pink_eyes
 sushang_\(honkai:_star_rail\), honkai:_star_rail
 sushang_\(honkai:_star_rail\), honkai:_star_rail, brown_eyes, brown_hair, long_hair, very_long_hair, twintails, braid, hair_bell, large_breasts, medium_breasts, chinese_clothes, bare_shoulders, long_sleeves
 the_herta_\(honkai:_star_rail\), honkai:_star_rail, purple_eyes, purple_hair, long_hair, very_long_hair, large_breasts

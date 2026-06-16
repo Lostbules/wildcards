@@ -32,7 +32,7 @@
   remaining_characters.txt:L241  surtr_\(arknights\)
   remaining_characters.txt:L242  surtr_\(colorful_wonderland\)_\(arknights\)
   remaining_characters.txt:L243  surtr_\(colorful_wonderland\)_\(arknights\)
-  remaining_characters.txt:L244  surtr_\(colorful_wonderland_\)_\(arknights_\)
+  remaining_characters.txt:L244  surtr_\(colorful_wonderland\)_\(arknights\)
 ## arknights  [10]
 
   remaining_characters.txt:L191  reisalin_stout
@@ -79,14 +79,10 @@
   remaining_characters.txt:L95  hoshino_\(flowery_charms\)_\(blue_archive\)
   remaining_characters.txt:L96  hoshino_\(swimsuit\)_\(blue_archive\)
   remaining_characters.txt:L97  hoshino_\(swimsuit\)_\(blue_archive\)
-  remaining_characters.txt:L98  hoshino_\(swimsuit_\)_\(blue_archive_\)
+  remaining_characters.txt:L98  hoshino_\(swimsuit\)_\(blue_archive\)
   remaining_characters.txt:L222  shiroko_\(blue_archive\)
   remaining_characters.txt:L223  shiroko_\(blue_archive\)
 ## blue_archive  [9]
-
-  goblin_slayer.txt:L5  priestess_\(goblin_slayer!\)
-  goblin_slayer.txt:L6  priestess_\(goblin_slayer!\)
-## blue_eyes  [2]
 
   bocchi_the_rock.txt:L1  gotoh_hitori
   bocchi_the_rock.txt:L2  gotoh_hitori
@@ -102,10 +98,6 @@
   bocchi_the_rock.txt:L12  yamada_ryo
   bocchi_the_rock.txt:L13  yamada_ryo
 ## bocchi_the_rock!  [13]
-
-  goblin_slayer.txt:L1  guild_girl_\(goblin_slayer!\)
-  goblin_slayer.txt:L2  guild_girl_\(goblin_slayer!\)
-## brown_eyes  [2]
 
   remaining_characters.txt:L180  power_\(chainsaw_man\)
   remaining_characters.txt:L181  power_\(chainsaw_man\)
@@ -141,8 +133,8 @@
   remaining_characters.txt:L269  tokisaki_kurumi
 ## date_a_live  [6]
 
-  dead_or_alive.txt:L5  marie_rose_(devilish_servant_against_the_splashing_waves_)
-  dead_or_alive.txt:L6  marie_rose_(devilish_servant_against_the_splashing_waves_)
+  dead_or_alive.txt:L5  marie_rose_\(devilish_servant_against_the_splashing_waves\)
+  dead_or_alive.txt:L6  marie_rose_\(devilish_servant_against_the_splashing_waves\)
 ## dead_or_alive_5  [2]
 
   douluo_dalu.txt:L1  gu_yuena
@@ -151,7 +143,7 @@
   douluo_dalu.txt:L4  ning_rongrong_\(douluo_dalu\)
   douluo_dalu.txt:L5  qian_renxue_\(douluo_dalu\)
   douluo_dalu.txt:L6  qian_renxue_\(douluo_dalu\)
-  douluo_dalu.txt:L7  qian_renxue_\(douluo_dalu_\)
+  douluo_dalu.txt:L7  qian_renxue_\(douluo_dalu\)
   douluo_dalu.txt:L8  tang_wutong_\(douluo_dalu\)
   douluo_dalu.txt:L9  tang_wutong_\(douluo_dalu\)
   douluo_dalu.txt:L10  xiao_wu_\(douluo_dalu\)
@@ -170,7 +162,7 @@
   danmachi.txt:L4  haruhime
   danmachi.txt:L5  hestia_\(danmachi\)
   danmachi.txt:L6  hestia_\(danmachi\)
-  danmachi.txt:L7  hestia_\(danmachi_\)
+  danmachi.txt:L7  hestia_\(danmachi\)
   danmachi.txt:L8  ryu_lion
   danmachi.txt:L9  ryu_lion
   danmachi.txt:L10  ryu_lion
@@ -306,7 +298,7 @@
 
   final_fantasy.txt:L1  aerith_gainsborough
   final_fantasy.txt:L2  aerith_gainsborough
-  final_fantasy.txt:L3  aerith_gainsborough_(red_dress)
+  final_fantasy.txt:L3  aerith_gainsborough_\(red_dress\)
   final_fantasy.txt:L4  aerith_gainsborough_\(red_dress\)
   final_fantasy.txt:L5  astrologian_\(final_fantasy\)
   final_fantasy.txt:L6  astrologian_\(final_fantasy\)
@@ -342,7 +334,7 @@
   genshin_impact.txt:L5  barbara_\(genshin_impact\)
   genshin_impact.txt:L6  barbara_\(summertime_sparkle\)_\(genshin_impact\)
   genshin_impact.txt:L7  barbara_\(summertime_sparkle\)_\(genshin_impact\)
-  genshin_impact.txt:L8  barbara_\(summertime_sparkle_\)_\(genshin_impact_\)
+  genshin_impact.txt:L8  barbara_\(summertime_sparkle\)_\(genshin_impact\)
   genshin_impact.txt:L9  candace_\(genshin_impact\)
   genshin_impact.txt:L10  candace_\(genshin_impact\)
   genshin_impact.txt:L11  collei_\(genshin_impact\)
@@ -360,15 +352,15 @@
   genshin_impact.txt:L23  faruzan_\(genshin_impact\)
   genshin_impact.txt:L24  fischl_\(ein_immernachtstraum\)_\(genshin_impact\)
   genshin_impact.txt:L25  fischl_\(genshin_impact\)
-  genshin_impact.txt:L26  fischl_\(genshin_impact_\)
+  genshin_impact.txt:L26  fischl_\(genshin_impact\)
   genshin_impact.txt:L27  focalors_\(genshin_impact\)
-  genshin_impact.txt:L28  focalors_\(genshin_impact_\)
+  genshin_impact.txt:L28  focalors_\(genshin_impact\)
   genshin_impact.txt:L29  furina_\(genshin_impact\)
   genshin_impact.txt:L30  furina_\(genshin_impact\)
   genshin_impact.txt:L31  ganyu_\(genshin_impact\)
   genshin_impact.txt:L32  ganyu_\(twilight_blossom\)_\(genshin_impact\)
   genshin_impact.txt:L33  ganyu_\(twilight_blossom\)_\(genshin_impact\)
-  genshin_impact.txt:L34  ganyu_\(twilight_blossom_\)_\(genshin_impact_\)
+  genshin_impact.txt:L34  ganyu_\(twilight_blossom\)_\(genshin_impact\)
   genshin_impact.txt:L35  guizhong_\(genshin_impact\)
   genshin_impact.txt:L36  guizhong_\(genshin_impact\)
   genshin_impact.txt:L37  hu_tao_\(genshin_impact\)
@@ -398,14 +390,14 @@
   genshin_impact.txt:L61  mona_\(genshin_impact\)
   genshin_impact.txt:L62  nahida_\(genshin_impact\)
   genshin_impact.txt:L63  nahida_\(genshin_impact\)
-  genshin_impact.txt:L64  nahida_\(genshin_impact_\)
+  genshin_impact.txt:L64  nahida_\(genshin_impact\)
   genshin_impact.txt:L65  navia_\(genshin_impact\)
   genshin_impact.txt:L66  navia_\(genshin_impact\)
   genshin_impact.txt:L67  nilou_\(breeze_of_sabaa\)_\(genshin_impact\)
   genshin_impact.txt:L68  nilou_\(genshin_impact\)
   genshin_impact.txt:L69  nilou_\(genshin_impact\)
   genshin_impact.txt:L70  noelle_\(genshin_impact\)
-  genshin_impact.txt:L71  noelle_\(genshin_impact_\)
+  genshin_impact.txt:L71  noelle_\(genshin_impact\)
   genshin_impact.txt:L72  noelle_\(kfc\)_\(genshin_impact\)
   genshin_impact.txt:L73  noelle_\(kfc\)_\(genshin_impact\)
   genshin_impact.txt:L74  qiqi_\(genshin_impact\)
@@ -432,8 +424,18 @@
   genshin_impact.txt:L95  yun_jin_\(genshin_impact\)
 ## genshin_impact  [95]
 
+  goblin_slayer.txt:L1  guild_girl_\(goblin_slayer!\)
+  goblin_slayer.txt:L2  guild_girl_\(goblin_slayer!\)
+  goblin_slayer.txt:L3  high_elf_archer_\(goblin_slayer!\)
+  goblin_slayer.txt:L4  high_elf_archer_\(goblin_slayer!\)
+  goblin_slayer.txt:L5  priestess_\(goblin_slayer!\)
+  goblin_slayer.txt:L6  priestess_\(goblin_slayer!\)
+  goblin_slayer.txt:L7  sword_maiden_\(goblin_slayer!\)
+  goblin_slayer.txt:L8  sword_maiden_\(goblin_slayer!\)
+## goblin_slayer!  [8]
+
   remaining_characters.txt:L109  kafuu_chino
-  remaining_characters.txt:L110  kafuu_chino_(rabbit_house)
+  remaining_characters.txt:L110  kafuu_chino_\(rabbit_house\)
   remaining_characters.txt:L256  tedeza_rize
   remaining_characters.txt:L257  tedeza_rize
 ## gochuumon_wa_usagi_desu_ka?  [4]
@@ -444,7 +446,7 @@
 ## gosick  [3]
 
   remaining_characters.txt:L57  djeeta_\(granblue_fantasy\)
-  remaining_characters.txt:L58  djeeta_\(granblue_fantasy_\)
+  remaining_characters.txt:L58  djeeta_\(granblue_fantasy\)
   remaining_characters.txt:L155  narmaya_\(granblue_fantasy\)
   remaining_characters.txt:L156  narmaya_\(summer\)_\(granblue_fantasy\)
   remaining_characters.txt:L157  narmaya_\(summer\)_\(granblue_fantasy\)
@@ -452,14 +454,6 @@
   remaining_characters.txt:L290  vira_\(summer\)_\(granblue_fantasy\)
   remaining_characters.txt:L291  vira_\(summer\)_\(granblue_fantasy\)
 ## granblue_fantasy  [8]
-
-  goblin_slayer.txt:L3  high_elf_archer_\(goblin_slayer!\)
-  goblin_slayer.txt:L4  high_elf_archer_\(goblin_slayer!\)
-## green_eyes  [2]
-
-  goblin_slayer.txt:L7  sword_maiden
-  goblin_slayer.txt:L8  sword_maiden
-## hair_between_eyes  [2]
 
   honkai_verse.txt:L1  asta_\(honkai:_star_rail\)
   honkai_verse.txt:L2  asta_\(honkai:_star_rail\)
@@ -476,8 +470,8 @@
   honkai_verse.txt:L29  fugue_\(honkai:_star_rail\)
   honkai_verse.txt:L33  guinaifen_\(honkai:_star_rail\)
   honkai_verse.txt:L34  guinaifen_\(honkai:_star_rail\)
-  honkai_verse.txt:L35  guinaifen_\(honkai:_star_rail_\)
-  honkai_verse.txt:L37  herta_\(honkai:_star_rail_\)
+  honkai_verse.txt:L35  guinaifen_\(honkai:_star_rail\)
+  honkai_verse.txt:L36  herta_\(honkai:_star_rail\)
   honkai_verse.txt:L38  himeko_\(honkai:_star_rail\)
   honkai_verse.txt:L39  himeko_\(honkai:_star_rail\)
   honkai_verse.txt:L40  huohuo_\(honkai:_star_rail\)
@@ -494,8 +488,8 @@
   honkai_verse.txt:L60  ruan_mei_\(honkai:_star_rail\)
   honkai_verse.txt:L70  serval_landau
   honkai_verse.txt:L71  serval_landau
-  honkai_verse.txt:L76  sparkle_\(honkai:_star_rail_\)
-  honkai_verse.txt:L77  sparkle_\(school_uniform_\)_\(honkai:_star_rail_\)
+  honkai_verse.txt:L74  sparkle_\(honkai:_star_rail\)
+  honkai_verse.txt:L77  sparkle_\(school_uniform\)_\(honkai:_star_rail\)
   honkai_verse.txt:L78  sushang_\(honkai:_star_rail\)
   honkai_verse.txt:L79  sushang_\(honkai:_star_rail\)
   honkai_verse.txt:L80  the_herta_\(honkai:_star_rail\)
@@ -525,7 +519,7 @@
   honkai_verse.txt:L30  griseo
   honkai_verse.txt:L31  griseo_\(starry_impression\)
   honkai_verse.txt:L32  griseo_\(starry_impression\)
-  honkai_verse.txt:L36  herta_\(honkai:_star_rail\)
+  honkai_verse.txt:L37  herta_\(honkai:_star_rail\)
   honkai_verse.txt:L41  huohuo_\(honkai:_star_rail\)
   honkai_verse.txt:L48  march_7th_\(honkai:_star_rail\)
   honkai_verse.txt:L49  march_7th_\(honkai:_star_rail\)
@@ -546,8 +540,8 @@
   honkai_verse.txt:L69  seele_vollerei_\(swallowtail_phantasm\)
   honkai_verse.txt:L72  silver_wolf_\(honkai:_star_rail\)
   honkai_verse.txt:L73  silver_wolf_\(honkai:_star_rail\)
-  honkai_verse.txt:L74  sparkle_\(honkai:_star_rail\)
   honkai_verse.txt:L75  sparkle_\(honkai:_star_rail\)
+  honkai_verse.txt:L76  sparkle_\(honkai:_star_rail\)
   honkai_verse.txt:L82  tingyun_\(honkai:_star_rail\)
   honkai_verse.txt:L83  tingyun_\(honkai:_star_rail\)
   honkai_verse.txt:L88  yunli_\(honkai:_star_rail\)
@@ -564,12 +558,12 @@
 
   kaguya_sama.txt:L1  fujiwara_chika
   kaguya_sama.txt:L2  fujiwara_chika
-  kaguya_sama.txt:L3  fujiwara_chika_(winter_uniform)
-  kaguya_sama.txt:L4  fujiwara_chika_(winter_uniform)
+  kaguya_sama.txt:L3  fujiwara_chika_\(winter_uniform\)
+  kaguya_sama.txt:L4  fujiwara_chika_\(winter_uniform\)
   kaguya_sama.txt:L5  hayasaka_ai
   kaguya_sama.txt:L6  hayasaka_ai
-  kaguya_sama.txt:L7  hayasaka_ai_(winter_uniform)
-  kaguya_sama.txt:L8  hayasaka_ai_(winter_uniform)
+  kaguya_sama.txt:L7  hayasaka_ai_\(winter_uniform\)
+  kaguya_sama.txt:L8  hayasaka_ai_\(winter_uniform\)
   kaguya_sama.txt:L9  iino_miko
   kaguya_sama.txt:L10  iino_miko
   kaguya_sama.txt:L11  shinomiya_kaguya
@@ -664,9 +658,9 @@
   remaining_characters.txt:L277  ultimate_madoka
 ## mahou_shoujo_madoka_magica  [4]
 
-  remaining_characters.txt:L113  kaname_madoka_\(magical_girl_\)
-  remaining_characters.txt:L114  kaname_madoka_\(magical_girl_\)
-## mahou_shoujo_madoka_magica_\(anime_\)  [2]
+  remaining_characters.txt:L113  kaname_madoka_\(magical_girl\)
+  remaining_characters.txt:L114  kaname_madoka_\(magical_girl\)
+## mahou_shoujo_madoka_magica_\(anime\)  [2]
 
   remaining_characters.txt:L214  shiba_miyuki
   remaining_characters.txt:L215  shiba_miyuki
@@ -674,7 +668,7 @@
 
   remaining_characters.txt:L61  elaina_\(majo_no_tabitabi\)
   remaining_characters.txt:L62  elaina_\(majo_no_tabitabi\)
-  remaining_characters.txt:L63  elaina_\(majo_no_tabitabi_\)
+  remaining_characters.txt:L63  elaina_\(majo_no_tabitabi\)
 ## majo_no_tabitabi  [3]
 
   remaining_characters.txt:L235  spider-gwen
@@ -777,10 +771,10 @@
   remaining_characters.txt:L211  serena_\(sygna_suit\)_\(pokemon\)
 ## pokemon  [2]
 
-  remaining_characters.txt:L124  kokkoro_\(ceremonial_\)_\(princess_connect!_\)
-  remaining_characters.txt:L125  kokkoro_\(new_year_\)_\(princess_connect!_\)
+  remaining_characters.txt:L124  kokkoro_\(ceremonial\)_\(princess_connect!\)
+  remaining_characters.txt:L125  kokkoro_\(new_year\)_\(princess_connect!\)
   remaining_characters.txt:L126  kokkoro_\(princess_connect!\)
-  remaining_characters.txt:L127  kokkoro_\(princess_connect!_\)
+  remaining_characters.txt:L127  kokkoro_\(princess_connect!\)
   remaining_characters.txt:L128  kokkoro_\(summer\)_\(princess_connect!\)
   remaining_characters.txt:L129  kokkoro_\(summer\)_\(princess_connect!\)
   remaining_characters.txt:L173  pecorine_\(princess_connect!\)
@@ -788,26 +782,26 @@
   remaining_characters.txt:L175  pecorine_\(summer\)_\(princess_connect!\)
 ## princess_connect!  [9]
 
-  re_zero.txt:L1  beatrice_(court_mage)
+  re_zero.txt:L1  beatrice_\(court_mage\)
   re_zero.txt:L2  beatrice_\(re:zero\)
   re_zero.txt:L3  beatrice_\(re:zero\)
   re_zero.txt:L4  echidna_\(re:zero\)
   re_zero.txt:L5  echidna_\(re:zero\)
-  re_zero.txt:L6  emilia_(white_robe)
-  re_zero.txt:L7  emilia_(white_robe)
-  re_zero.txt:L8  emilia_\(re:zero\)
-  re_zero.txt:L9  emilia_\(re:zero_\)
+  re_zero.txt:L6  emilia_\(re:zero\)
+  re_zero.txt:L7  emilia_\(re:zero\)
+  re_zero.txt:L8  emilia_\(white_robe\)
+  re_zero.txt:L9  emilia_\(white_robe\)
   re_zero.txt:L10  frederica_baumann
   re_zero.txt:L11  frederica_baumann
   re_zero.txt:L12  priscilla_barielle
   re_zero.txt:L13  priscilla_barielle
-  re_zero.txt:L14  ram_(roswaal_maid)
-  re_zero.txt:L15  ram_(roswaal_maid)
-  re_zero.txt:L16  ram_\(re:zero\)
-  re_zero.txt:L17  ram_\(re:zero_\)
-  re_zero.txt:L18  rem_(roswaal_maid)
-  re_zero.txt:L19  rem_(roswaal_maid)
-  re_zero.txt:L20  rem_\(re:zero\)
+  re_zero.txt:L14  ram_\(re:zero\)
+  re_zero.txt:L15  ram_\(re:zero\)
+  re_zero.txt:L16  ram_\(roswaal_maid\)
+  re_zero.txt:L17  ram_\(roswaal_maid\)
+  re_zero.txt:L18  rem_\(re:zero\)
+  re_zero.txt:L19  rem_\(roswaal_maid\)
+  re_zero.txt:L20  rem_\(roswaal_maid\)
 ## re:zero_kara_hajimeru_isekai_seikatsu  [20]
 
   rozen_maiden.txt:L1  shinku
@@ -863,8 +857,8 @@
 ## sousou_no_frieren  [4]
 
   remaining_characters.txt:L294  yor_briar
-  remaining_characters.txt:L295  yor_briar_(assassin_dress)
-  remaining_characters.txt:L296  yor_briar_(assassin_dress)
+  remaining_characters.txt:L295  yor_briar_\(assassin_dress\)
+  remaining_characters.txt:L296  yor_briar_\(assassin_dress\)
 ## spy_x_family  [3]
 
   remaining_characters.txt:L145  makise_kurisu
@@ -1017,7 +1011,7 @@
 ## vocaloid  [2]
 
   remaining_characters.txt:L42  changli_\(wuthering_waves\)
-  remaining_characters.txt:L43  changli_\(wuthering_waves_\)
+  remaining_characters.txt:L43  changli_\(wuthering_waves\)
   remaining_characters.txt:L107  jinhsi_\(wuthering_waves\)
   remaining_characters.txt:L108  jinhsi_\(wuthering_waves\)
 ## wuthering_waves  [4]
@@ -1031,13 +1025,13 @@
   oregairu.txt:L1  hiratsuka_shizuka
   oregairu.txt:L2  hiratsuka_shizuka
   oregairu.txt:L3  isshiki_iroha
-  oregairu.txt:L4  isshiki_iroha_(winter_uniform)
-  oregairu.txt:L5  isshiki_iroha_(winter_uniform)
+  oregairu.txt:L4  isshiki_iroha_\(winter_uniform\)
+  oregairu.txt:L5  isshiki_iroha_\(winter_uniform\)
   oregairu.txt:L6  yuigahama_yui
   oregairu.txt:L7  yuigahama_yui
   oregairu.txt:L8  yukinoshita_yukino
-  oregairu.txt:L9  yukinoshita_yukino_(winter_uniform)
-  oregairu.txt:L10  yukinoshita_yukino_(winter_uniform)
+  oregairu.txt:L9  yukinoshita_yukino_\(winter_uniform\)
+  oregairu.txt:L10  yukinoshita_yukino_\(winter_uniform\)
 ## yahari_ore_no_seishun_lovecome_wa_machigatteiru.  [10]
 
   remaining_characters.txt:L121  kasugano_sora
@@ -1073,7 +1067,8 @@
   zero_no_tsukaima.txt:L2  henrietta_de_tristain
   zero_no_tsukaima.txt:L3  henrietta_de_tristain
   zero_no_tsukaima.txt:L4  louise_francoise_le_blanc_de_la_valliere
-  zero_no_tsukaima.txt:L5  tiffania
+  zero_no_tsukaima.txt:L5  louise_francoise_le_blanc_de_la_valliere
   zero_no_tsukaima.txt:L6  tiffania
-## zero_no_tsukaima  [6]
+  zero_no_tsukaima.txt:L7  tiffania
+## zero_no_tsukaima  [7]
 

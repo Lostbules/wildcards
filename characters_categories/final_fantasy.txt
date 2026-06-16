@@ -1,7 +1,7 @@
 aerith_gainsborough, final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, braided_ponytail, hair_ribbon, medium_breasts, pink_dress, cropped_jacket, red_jacket
 aerith_gainsborough, final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, braided_ponytail, medium_breasts, navel, collarbone
-aerith_gainsborough_(red_dress), final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, ponytail, ringlets, medium_breasts, cleavage, navel, collarbone
 aerith_gainsborough_\(red_dress\), final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, ponytail, ringlets, hair_flower, hair_ribbon, medium_breasts, cleavage, red_dress, strapless_dress, flamenco_dress, bare_shoulders, red_ribbon, bracelet
+aerith_gainsborough_\(red_dress\), final_fantasy, green_eyes, brown_hair, long_hair, wavy_hair, sidelocks, parted_bangs, ponytail, ringlets, medium_breasts, cleavage, navel, collarbone
 astrologian_\(final_fantasy\), final_fantasy, blue_eyes, long_hair, black_hair, medium_breasts, au_ra, miqo'te
 astrologian_\(final_fantasy\), final_fantasy, blue_eyes, long_hair, black_hair, medium_breasts, au_ra, miqo'te, astrologian_robe, long_robe, star_pattern, hood, gold_trim
 tifa_lockhart, final_fantasy, red_eyes, brown_eyes, black_hair, long_hair, very_long_hair, low-tied_long_hair, swept_bangs, large_breasts, cleavage, navel, collarbone, midriff
