@@ -36,11 +36,11 @@ emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, blue_eyes, obi
 emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, braided_ponytail, blue_eyes
 emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, braided_ponytail, blue_eyes, dress, purple_dress, staff, mage_staff
 emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, braided_ponytail, blue_eyes, dress, purple_dress, staff, mage_staff, black_pantyhose
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone, ribbon
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone, single pauldron, red_jacket, white_shirt, orange_skirt, white thighhighs, fingerless_gloves, blue_scarf, scarf
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone, thighhighs, scarf
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone, waitress, white_apron, apron, blue_dress, dress, red_bowtie, bowtie, white_ribbon, ribbon, puffy_short_sleeves, puffy_sleeves, short_sleeves, white_wrist_cuffs, wrist_cuffs
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, ribbon, white thighhighs
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, single pauldron, red_jacket, white_shirt, orange_skirt, white thighhighs, fingerless_gloves, blue_scarf
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, waitress, white_apron, blue_dress, red_bowtie, white_ribbon, puffy_short_sleeves, white_wrist_cuffs, white thighhighs
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, white thighhighs
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, white thighhighs, scarf
 fie_claussell, eiyuu densetsu, white_hair, long_hair, green_eyes, alternate_costume, alternate_hairstyle, ponytail
 fie_claussell, eiyuu densetsu, white_hair, long_hair, green_eyes, alternate_costume, alternate_hairstyle, witch, miniskirt, elbow_gloves, ponytail
 fie_claussell, eiyuu densetsu, white_hair, short_hair, green_eyes, bob_cut, bare_shoulders, barefoot, small_breasts

@@ -38,7 +38,6 @@ aurelia_le_guin, eiyuu densetsu, white_hair, long_hair, braid, crown_braid, purp
 aurelia_le_guin, eiyuu densetsu, white_hair, long_hair, braid, crown_braid, purple_eyes, military_uniform, cape, epaulettes, aiguillette, ascot, red_ascot, black_gloves, jacket, skirt, sword, large_breasts, tall_female, mature_female
 ayame, koutetsujou no kabaneri, purple eyes, black hair, long hair, medium breasts, kimono, obi, traditional, princess
 bailu \(honkai: star rail\), honkai: star rail, dragon horns, dragon tail, pointy ears, hair between eyes, blue eyes, aqua eyes, purple hair, long hair, very long hair, blue hair, crossed bangs, ahoge, twin braids, hair tubes, detached sleeves, long sleeves, dragon girl
-barasuishou, rozen maiden, yellow eyes, eyepatch, long hair, very long hair, two side up, gothic lolita, white dress, frilled dress, eyepatch, rose
 barbara \(genshin impact\), genshin impact, blue eyes, hair between eyes, blonde hair, long hair, twintails, medium breasts, hat, white dress, white headwear, bare shoulders, long sleeves, detached sleeves, twin drills
 barbara \(summertime sparkle \) \(genshin impact \), genshin impact, duck, animal bag, casual one-piece swimsuit, sailor hat, blue choker, blue eyes, drill hair
 barbara \(summertime sparkle\) \(genshin impact\), genshin impact, blue eyes, hair between eyes, blonde hair, long hair, twintails, hair flower, thighs, thigh strap, sailor hat, casual one-piece swimsuit, blue one-piece swimsuit, white headwear, detached sleeves, long sleeves, bare shoulders, blue sailor collar, bowtie, blue choker, bag, twin drills, duck
@@ -68,7 +67,6 @@ chitanda eru, hyouka, purple eyes, black hair, long hair, serafuku, kamiyama hig
 cirno, touhou, blue eyes, blue hair, short hair, hair bow, blue dress, blue bow, ice wings, wings
 clara \(honkai: star rail\), honkai: star rail, red eyes, hair between eyes, pink eyes, white hair, long hair, grey hair, very long hair, sidelocks, hair intakes, feet, legs, barefoot, red jacket, red coat, long sleeves
 collei \(genshin impact\), genshin impact, purple eyes, hair between eyes, green hair, medium hair, long hair, ahoge, crossed bangs, hair ornament, green capelet, detached sleeves
-compa, neptune \(series\), nurse uniform, nurse cap, white dress
 corin wickes, zenless zone zero, maid, maid headdress, maid apron, purple eyes, hair between eyes, screw hair ornament, green hair, long hair, twintails, black dress, white apron, puffy short sleeves
 cyberconnect2, neptune \(series\), tail, animal ears, green eyes, blonde hair, short hair, navel, hat, gloves, crop top
 d.va \(overwatch\), overwatch, lips, pink lips, brown eyes, brown hair, long hair, swept bangs, medium breasts, pilot suit, headphones, white gloves, whisker markings, facepaint
@@ -100,8 +98,8 @@ emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, braided_ponytail, b
 emma_millstein, eiyuu densetsu, pink_hair, long_hair, braid, braided_ponytail, blue_eyes, dress, purple_dress, staff, mage_staff, black_pantyhose
 ereshkigal \(bitter sweet\) \(fate\), fate/grand order, red eyes, blonde hair, long hair, very long hair, two side up, parted bangs, hair ribbon, hair bow, medium breasts, red dress, sleeveless dress, bare shoulders, white ribbon, earrings, cross necklace, shawl, gift box
 eris greyrat, mushoku tensei, red eyes, hair between eyes, thick eyebrows, red hair, very long hair, long hair, black hairband, ahoge, small breasts, navel, white shirt
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone, single pauldron, red_jacket, white_shirt, orange_skirt, white thighhighs, fingerless_gloves, blue_scarf, scarf
-estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, navel, collarbone, waitress, white_apron, apron, blue_dress, dress, red_bowtie, bowtie, white_ribbon, ribbon, puffy_short_sleeves, puffy_sleeves, short_sleeves, white_wrist_cuffs, wrist_cuffs
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, single pauldron, red_jacket, white_shirt, orange_skirt, white thighhighs, fingerless_gloves, blue_scarf
+estelle_bright, eiyuu densetsu, brown_hair, long_hair, twintails, red_eyes, ahoge, hair_between_eyes, medium breasts, navel, collarbone, waitress, white_apron, blue_dress, red_bowtie, white_ribbon, puffy_short_sleeves, white_wrist_cuffs, white thighhighs
 eula \(genshin impact\), genshin impact, yellow eyes, blue hair, medium hair, large breasts, blue cape, white shirt, black leotard, thighhighs, gloves, bare shoulders
 faruzan \(cafe\) \(genshin impact\), genshin impact, maid, maid headdress, maid apron, green eyes, triangle-shaped pupils, symbol-shaped pupils, aqua hair, long hair, x hair ornament, twintails, white apron, white thighhighs, puffy short sleeves, wrist cuffs, white wrist cuffs
 faruzan \(genshin impact\), genshin impact, green eyes, symbol-shaped pupils, triangle-shaped pupils, aqua hair, long hair, x hair ornament, twintails, small breasts, white dress, bare shoulders, bracelet
@@ -175,7 +173,6 @@ houraisan kaguya, touhou, red eyes, black hair, long hair, very long hair, long 
 hu tao \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, twintails, thick thighs, goth fashion, black dress, grey dress, short dress, layered dress, spaghetti strap, off shoulder, detached sleeves, striped sleeves, cleavage cutout, fur-trimmed coat, open coat, black thighhighs, grey thighhighs, single thighhigh, single kneehigh, striped thighhighs, black choker, pendant choker, multiple belts, belt, chain, zipper, earrings, multiple rings, freckles, ghost
 hu tao \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, twintails, thighs, barefoot, hat flower, black headwear, long sleeves, black nails, nail polish, ghost
 hu tao \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, twintails, thighs, black pantyhose, hat flower, black headwear, long sleeves, ghost
-hu tao \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, twintails, thighs, white pantyhose, hat flower, black headwear, long sleeves, ghost
 hu tao \(genshin impact\), genshin impact, red eyes, hair between eyes, flower-shaped pupils, brown hair, very long hair, long hair, twintails, thighs, white socks, hat flower, black headwear, long sleeves, ghost
 huohuo \(honkai: star rail\), honkai \(series\), fox girl, fox ears, fox tail, green eyes, paw-shaped pupils, symbol-shaped pupils, green hair, long hair, yin yang hair ornament, ahoge, hair ornament, hat, long sleeves, bare shoulders, yin yang
 hyuuga hanabi, naruto \(series\), purple eyes, hair between eyes, long hair, black hair, brown hair, very long hair, large breasts, collarbone, kimono, hyuuga robe, traditional, sandals
@@ -366,10 +363,10 @@ seele vollerei \(herrscher of rebirth\), honkai \(series\), hair between eyes, b
 seele vollerei \(starchasm nyx\), honkai \(series\), red eyes, hair between eyes, black hair, long hair, red hair, colored inner hair, two-tone hair, ahoge, hair ornament, medium breasts, black dress, red gloves, bare shoulders
 seele vollerei \(stygian nymph\), honkai \(series\), hair between eyes, blue eyes, red eyes, short hair, blue hair, black hair, red hair, multicolored hair, ahoge, hair flower, white dress, sleeveless dress, bare shoulders, chain
 seele vollerei \(swallowtail phantasm\), honkai \(series\), blue eyes, hair between eyes, blue hair, short hair, black hair, antenna hair, ahoge, hair ornament, tattoo, bare shoulders
-sekine shiori, angel beats!, blue eyes, hair between eyes, blonde hair, long hair, very long hair, ahoge, serafuku, shinda sekai sensen uniform
 senjougahara hitagi, monogatari \(series\), blue eyes, purple hair, long hair, medium breasts, naoetsu high school uniform
 sento isuzu, amagi brilliant park, brown eyes, brown hair, long hair, antenna hair, ponytail, hair intakes, hair bow, large breasts, military uniform, royal guard uniform, gloves, boots
 sephie, to love-ru, red eyes, blonde hair, long hair, very long hair, large breasts, navel, collarbone, white dress, bare shoulders
+seraphina, original, pink hair, long hair, amber eyes, medium breasts, navel, collarbone, black sundress, sundress, black dress
 serena \(sygna suit\) \(pokemon\), pokemon, grey eyes, eyelashes, short hair, blonde hair, hair ornament, hair ribbon, long sleeves, black ribbon, white ascot
 serval landau, honkai: star rail, blue eyes, hair between eyes, blonde hair, streaked hair, long hair, blue hair, large breasts, bare shoulders, black choker, detached sleeves, nail polish, black nails, earrings
 shana, shakugan no shana, red eyes, hair between eyes, red hair, long hair, very long hair, black hair, ahoge, school uniform, black cloak, serafuku
