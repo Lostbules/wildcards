@@ -1,8 +1,8 @@
-haruno sakura, naruto \(series\), green eyes, pink hair, short hair
-haruno sakura, naruto \(series\), green eyes, pink hair, short hair, red cheongsam, chinese dress, sandals
-hyuuga hanabi, naruto \(series\), purple eyes, hair between eyes, long hair, black hair, brown hair, very long hair, large breasts, collarbone
-hyuuga hanabi, naruto \(series\), purple eyes, hair between eyes, long hair, black hair, brown hair, very long hair, large breasts, collarbone, kimono, hyuuga robe, traditional, sandals
-hyuuga hinata, naruto \(series\), purple eyes, black hair, long hair, short hair, blunt bangs, large breasts
-hyuuga hinata, naruto \(series\), purple eyes, black hair, long hair, short hair, blunt bangs, large breasts, ninja outfit, fishnet shirt, mesh armor, sandals, headband
-tsunade, naruto \(series\), brown eyes, blonde hair, long hair, low twintails, large breasts, thick thighs, (green haori:1.1), grey kimono, obi, sandals, nail polish, forehead mark
-tsunade, naruto \(series\), brown eyes, blonde hair, long hair, low twintails, large breasts, thick thighs, forehead mark
+haruno_sakura, naruto_\(series\), green_eyes, pink_hair, short_hair
+haruno_sakura, naruto_\(series\), green_eyes, pink_hair, short_hair, red_cheongsam, chinese_dress, sandals
+hyuuga_hanabi, naruto_\(series\), purple_eyes, hair_between_eyes, long_hair, black_hair, brown_hair, very_long_hair, large_breasts, collarbone
+hyuuga_hanabi, naruto_\(series\), purple_eyes, hair_between_eyes, long_hair, black_hair, brown_hair, very_long_hair, large_breasts, collarbone, kimono, hyuuga_robe, traditional, sandals
+hyuuga_hinata, naruto_\(series\), purple_eyes, black_hair, long_hair, short_hair, blunt_bangs, large_breasts
+hyuuga_hinata, naruto_\(series\), purple_eyes, black_hair, long_hair, short_hair, blunt_bangs, large_breasts, ninja_outfit, fishnet_shirt, mesh_armor, sandals, headband
+tsunade, naruto_\(series\), brown_eyes, blonde_hair, long_hair, low_twintails, large_breasts, thick_thighs, (green_haori:1.1), grey_kimono, obi, sandals, nail_polish, forehead_mark
+tsunade, naruto_\(series\), brown_eyes, blonde_hair, long_hair, low_twintails, large_breasts, thick_thighs, forehead_mark

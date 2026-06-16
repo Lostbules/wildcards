@@ -1,10 +1,10 @@
-frenda seivelun, toaru majutsu no index, blue eyes, blonde hair, long hair, beret
-index \(toaru majutsu no index\), toaru majutsu no index, nun, green eyes, long hair, blue hair, grey hair, habit, safety pin, white dress
-misaka imouto, toaru majutsu no index, brown eyes, brown hair, short hair, medium hair, small breasts, tokiwadai school uniform, head-mounted display
-misaka imouto, toaru majutsu no index, brown eyes, brown hair, short hair, medium hair, small breasts, tokiwadai school uniform
-misaka mikoto, toaru majutsu no index, brown eyes, brown hair, short hair, medium hair, small breasts, tokiwadai school uniform
-saten ruiko, toaru majutsu no index, blue eyes, green eyes, black hair, long hair, hair flower, medium breasts, sakugawa school uniform, serafuku, summer uniform
-shirai kuroko, toaru majutsu no index, brown eyes, brown hair, long hair, twintails, hair bow, small breasts, tokiwadai school uniform, summer uniform
-shokuhou misaki, toaru majutsu no index, yellow eyes, hair between eyes, brown eyes, star-shaped pupils, blonde hair, long hair, very long hair, large breasts, tokiwadai school uniform, white gloves, elbow gloves, white thighhighs, summer uniform
-suzushina yuriko, toaru majutsu no index, pale skin, red eyes, white hair, short hair, hair flower, a certain high school uniform, serafuku, albino
-tsukuyomi komoe, toaru majutsu no index, pink eyes, pink hair, short hair, school uniform, serafuku, lab coat
+frenda_seivelun, toaru_majutsu_no_index, blue_eyes, blonde_hair, long_hair, beret
+index_\(toaru_majutsu_no_index\), toaru_majutsu_no_index, nun, green_eyes, long_hair, blue_hair, grey_hair, habit, safety_pin, white_dress
+misaka_imouto, toaru_majutsu_no_index, brown_eyes, brown_hair, short_hair, medium_hair, small_breasts, tokiwadai_school_uniform, head-mounted_display
+misaka_imouto, toaru_majutsu_no_index, brown_eyes, brown_hair, short_hair, medium_hair, small_breasts, tokiwadai_school_uniform
+misaka_mikoto, toaru_majutsu_no_index, brown_eyes, brown_hair, short_hair, medium_hair, small_breasts, tokiwadai_school_uniform
+saten_ruiko, toaru_majutsu_no_index, blue_eyes, green_eyes, black_hair, long_hair, hair_flower, medium_breasts, sakugawa_school_uniform, serafuku, summer_uniform
+shirai_kuroko, toaru_majutsu_no_index, brown_eyes, brown_hair, long_hair, twintails, hair_bow, small_breasts, tokiwadai_school_uniform, summer_uniform
+shokuhou_misaki, toaru_majutsu_no_index, yellow_eyes, hair_between_eyes, brown_eyes, star-shaped_pupils, blonde_hair, long_hair, very_long_hair, large_breasts, tokiwadai_school_uniform, white_gloves, elbow_gloves, white_thighhighs, summer_uniform
+suzushina_yuriko, toaru_majutsu_no_index, pale_skin, red_eyes, white_hair, short_hair, hair_flower, a_certain_high_school_uniform, serafuku, albino
+tsukuyomi_komoe, toaru_majutsu_no_index, pink_eyes, pink_hair, short_hair, school_uniform, serafuku, lab_coat

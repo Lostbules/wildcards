@@ -1,4 +1,4 @@
-guild girl \(goblin slayer!\),brown eyes, hair between eyes, yellow eyes, long hair, brown hair, blonde hair, single braid, large breasts, white shirt, black skirt, long sleeves
-high elf archer \(goblin slayer!\),green eyes, hair between eyes, green hair, long hair, sidelocks, hair bow, small breasts, black bow, elf
-priestess \(goblin slayer!\),blue eyes, hair between eyes, blonde hair, long hair, very long hair, small breasts, hat, long sleeves
-sword maiden,hair between eyes, blonde hair, very long hair, long hair, large breasts, white dress, necklace, habit, black blindfold
+guild_girl_\(goblin_slayer!\),brown_eyes, hair_between_eyes, yellow_eyes, long_hair, brown_hair, blonde_hair, single_braid, large_breasts, white_shirt, black_skirt, long_sleeves
+high_elf_archer_\(goblin_slayer!\),green_eyes, hair_between_eyes, green_hair, long_hair, sidelocks, hair_bow, small_breasts, black_bow, elf
+priestess_\(goblin_slayer!\),blue_eyes, hair_between_eyes, blonde_hair, long_hair, very_long_hair, small_breasts, hat, long_sleeves
+sword_maiden,hair_between_eyes, blonde_hair, very_long_hair, long_hair, large_breasts, white_dress, necklace, habit, black_blindfold

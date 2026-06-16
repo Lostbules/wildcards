@@ -1,3 +1,3 @@
-shinku, rozen maiden, blue eyes, blonde hair, long hair, very long hair, drill hair, twintails, red dress, long sleeves, bonnet
-suigintou, rozen maiden, lolita hairband, gothic lolita, lolita fashion, ouji fashion, pink eyes
-suiseiseki, rozen maiden, heterochromia, green eyes, red eyes, brown hair, very long hair, long hair, long sleeves
+shinku, rozen_maiden, blue_eyes, blonde_hair, long_hair, very_long_hair, drill_hair, twintails, red_dress, long_sleeves, bonnet
+suigintou, rozen_maiden, lolita_hairband, gothic_lolita, lolita_fashion, ouji_fashion, pink_eyes
+suiseiseki, rozen_maiden, heterochromia, green_eyes, red_eyes, brown_hair, very_long_hair, long_hair, long_sleeves

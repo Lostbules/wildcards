@@ -1,13 +1,13 @@
-gotoh hitori, bocchi the rock!, blue eyes, hair between eyes, pink hair, long hair, cube hair ornament, large breasts, one side up
-gotoh hitori, bocchi the rock!, blue eyes, hair between eyes, pink hair, long hair, cube hair ornament, large breasts, pink jacket, track jacket, long sleeves, one side up
-ijichi nijika, bocchi the rock!
-ijichi nijika, bocchi the rock!, red eyes, blonde hair, long hair, very long hair, side ponytail, ahoge, sidelocks, school uniform, white shirt, collared shirt, long sleeves
-ijichi seika, bocchi the rock!, red eyes, blonde hair, long hair, very long hair, ahoge, collarbone, black choker
-ijichi seika, bocchi the rock!, red eyes, blonde hair, long hair, very long hair, ahoge, collarbone, long sleeves, black choker
-kita ikuyo, bocchi the rock!, green eyes, hair between eyes, red hair, long hair, one side up
-kita ikuyo, bocchi the rock!, green eyes, hair between eyes, red hair, long hair, shuka high school uniform, one side up
-pa-san, bocchi the rock!,
-pa-san, bocchi the rock!, ear piercing, green eyes, aqua eyes, black hair, colored inner hair, purple hair, long hair, two-tone hair, blunt bangs, large breasts, black dress, black choker, long sleeves, bare shoulders, goth fashion, chin piercing, hime cut
-pa-san, bocchi the rock!, labret piercing, mouth piercing, goth fashion, forked tongue, lip piercing, aqua eyes, colored inner hair
-yamada ryo, bocchi the rock!, yellow eyes, mole under eye, blue hair, short hair, hairclip
-yamada ryo, bocchi the rock!, yellow eyes, mole under eye, blue hair, short hair, hairclip, school uniform, shimokitazawa high school uniform, white shirt, collared shirt, long sleeves
+gotoh_hitori, bocchi_the_rock!, blue_eyes, hair_between_eyes, pink_hair, long_hair, cube_hair_ornament, large_breasts, one_side_up
+gotoh_hitori, bocchi_the_rock!, blue_eyes, hair_between_eyes, pink_hair, long_hair, cube_hair_ornament, large_breasts, pink_jacket, track_jacket, long_sleeves, one_side_up
+ijichi_nijika, bocchi_the_rock!
+ijichi_nijika, bocchi_the_rock!, red_eyes, blonde_hair, long_hair, very_long_hair, side_ponytail, ahoge, sidelocks, school_uniform, white_shirt, collared_shirt, long_sleeves
+ijichi_seika, bocchi_the_rock!, red_eyes, blonde_hair, long_hair, very_long_hair, ahoge, collarbone, black_choker
+ijichi_seika, bocchi_the_rock!, red_eyes, blonde_hair, long_hair, very_long_hair, ahoge, collarbone, long_sleeves, black_choker
+kita_ikuyo, bocchi_the_rock!, green_eyes, hair_between_eyes, red_hair, long_hair, one_side_up
+kita_ikuyo, bocchi_the_rock!, green_eyes, hair_between_eyes, red_hair, long_hair, shuka_high_school_uniform, one_side_up
+pa-san, bocchi_the_rock!,
+pa-san, bocchi_the_rock!, ear_piercing, green_eyes, aqua_eyes, black_hair, colored_inner_hair, purple_hair, long_hair, two-tone_hair, blunt_bangs, large_breasts, black_dress, black_choker, long_sleeves, bare_shoulders, goth_fashion, chin_piercing, hime_cut
+pa-san, bocchi_the_rock!, labret_piercing, mouth_piercing, goth_fashion, forked_tongue, lip_piercing, aqua_eyes, colored_inner_hair
+yamada_ryo, bocchi_the_rock!, yellow_eyes, mole_under_eye, blue_hair, short_hair, hairclip
+yamada_ryo, bocchi_the_rock!, yellow_eyes, mole_under_eye, blue_hair, short_hair, hairclip, school_uniform, shimokitazawa_high_school_uniform, white_shirt, collared_shirt, long_sleeves

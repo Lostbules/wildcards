@@ -1,3 +1,3 @@
-shinku, rozen maiden, blue eyes, blonde hair, long hair, very long hair, drill hair, twintails
-suigintou, rozen maiden, red eyes, long hair, grey hair, white hair, wings
-suiseiseki, rozen maiden, heterochromia, green eyes, red eyes, brown hair, very long hair, long hair
+shinku, rozen_maiden, blue_eyes, blonde_hair, long_hair, very_long_hair, drill_hair, twintails
+suigintou, rozen_maiden, red_eyes, long_hair, grey_hair, white_hair, wings
+suiseiseki, rozen_maiden, heterochromia, green_eyes, red_eyes, brown_hair, very_long_hair, long_hair

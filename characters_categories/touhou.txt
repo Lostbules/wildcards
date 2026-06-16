@@ -1,55 +1,55 @@
-alice margatroid, touhou, blue eyes, blonde hair, short hair, hairband
-alice margatroid, touhou, blue eyes, blonde hair, short hair, hairband, blue dress, frilled dress, apron, hairband
+alice_margatroid, touhou, blue_eyes, blonde_hair, short_hair, hairband
+alice_margatroid, touhou, blue_eyes, blonde_hair, short_hair, hairband, blue_dress, frilled_dress, apron, hairband
 chen, touhou
-chen, touhou, multiple tails, nekomata, two tails, animal ear piercing, mob cap, brown eyes, brown hair
-cirno, touhou, blue eyes, blue hair, short hair, hair bow, blue dress, blue bow, ice wings, wings
-cirno, touhou, blue eyes, blue hair, short hair, hair bow, ice wings, wings
-fujiwara no mokou, touhou, red eyes, white hair, very long hair, long hair, grey hair, hair bow
-fujiwara no mokou, touhou, red eyes, white hair, very long hair, long hair, grey hair, hair bow, suspenders
-hakurei reimu, touhou, hair tubes, brown eyes
-hakurei reimu, touhou, hair tubes, frilled bow, ribbon-trimmed sleeves, ascot, brown eyes
-hata no kokoro, touhou, pink eyes, pink hair, very long hair, long hair, fox mask
-hata no kokoro, touhou, pink eyes, pink hair, very long hair, long hair, plaid shirt, fox mask, bubble skirt, long sleeves
-hinanawi tenshi, touhou, red eyes, blue hair, long hair, very long hair
-hinanawi tenshi, touhou, red eyes, blue hair, long hair, very long hair, hat
-houraisan kaguya, touhou, red eyes, black hair, long hair, very long hair, hime cut
-houraisan kaguya, touhou, red eyes, black hair, long hair, very long hair, long sleeves, hime cut
-ibaraki kasen, touhou, pink eyes, red eyes, pink hair, short hair, double bun, bun cover, large breasts, bandages, chinese clothes, shackles, tabard, bandaged arm
-ibaraki kasen, touhou, pink eyes, red eyes, pink hair, short hair, double bun, bun cover, large breasts, bandages, shackles, tabard, bandaged arm
-inubashiri momiji, touhou, wolf ears, wolf tail, red eyes, short hair, white hair, pom pom \(clothes\)
-inubashiri momiji, touhou, wolf ears, wolf tail, red eyes, short hair, white hair, tokin hat, pom pom \(clothes\), detached sleeves
-izayoi sakuya, touhou, blue eyes, grey hair, short hair, twin braids
-izayoi sakuya, touhou, maid, maid headdress, blue eyes, grey hair, short hair, twin braids
-kirisame marisa, touhou, yellow eyes, blonde hair, long hair, single braid
-kirisame marisa, touhou, yellow eyes, blonde hair, long hair, single braid, witch hat
-kishin sagume, touhou, red eyes, hair between eyes, short hair, grey hair, white hair, french braid, purple dress, long sleeves, single wing, feathered wings, white wings
-kishin sagume, touhou, red eyes, hair between eyes, short hair, grey hair, white hair, french braid, single wing, feathered wings, white wings
-koakuma, touhou, demon wings, red eyes, red hair, long hair, large breasts, head wings, bat wings
-koakuma, touhou, demon wings, red eyes, red hair, long hair, large breasts, head wings, bat wings, black dress, gothic dress, demon wings, collar
-kochiya sanae, touhou, green eyes, green hair, long hair, frog hair ornament, snake hair ornament, hair tubes, large breasts, detached sleeves, snake
-kochiya sanae, touhou, green eyes, green hair, long hair, frog hair ornament, snake hair ornament, hair tubes, large breasts, snake
-komeiji satori, touhou, pink eyes, purple eyes, third eye, short hair, pink hair, purple hair, hairband, long sleeves, eyeball, heart
-komeiji satori, touhou, third eye, eyeball, heart hair ornament, heart button, heart of string, pink eyes
-konpaku youmu, touhou, blue eyes, short hair, white hair, grey hair, black hairband, hair ribbon
-konpaku youmu, touhou, blue eyes, short hair, white hair, grey hair, black hairband, hair ribbon, green dress, hakama, white shirt, ribbon
-lily black, touhou, red eyes, blonde hair, long hair, fairy wings, wings
-lily black, touhou, red eyes, blonde hair, long hair, hat, black dress, long sleeves, fairy wings, wings
-luna child, touhou, red eyes, blonde hair, drill hair, short hair, fairy wings
-luna child, touhou, red eyes, blonde hair, drill hair, short hair, hat, fairy wings
-maga-reimu, touhou, red eyes, white hair, long hair, hair bow, hair tubes
-maga-reimu, touhou, red eyes, white hair, long hair, hair bow, hair tubes, detached sleeves
-medicine melancholy, touhou, blue eyes, blonde hair, short hair, hair ribbon
-medicine melancholy, touhou, blue eyes, blonde hair, short hair, hair ribbon, gothic dress, black dress, red ribbon
-mononobe no futo, touhou, blue eyes, grey eyes, grey hair, long hair, ponytail, kariginu, tate eboshi
-mononobe no futo, touhou, blue eyes, grey eyes, grey hair, long hair, ponytail, wide sleeves, long sleeves, kariginu, tate eboshi
-reisen udongein inaba, touhou, rabbit ears, rabbit girl, rabbit tail, red eyes, purple hair
-reisen udongein inaba, touhou, rabbit ears, rabbit girl, red necktie, blazer, rabbit tail, red eyes, purple hair
-reisen udongein inaba, touhou, rabbit ears, red eyes, purple hair, long hair, skirt
-remilia scarlet, touhou, red eyes, short hair, blue hair, bat wings
-remilia scarlet, touhou, red eyes, short hair, blue hair, mob cap, bat wings
-watatsuki no yorihime, touhou, red eyes, purple eyes, purple hair, long hair, ponytail, high ponytail, hair ribbon, hair bow, large breasts
-watatsuki no yorihime, touhou, red eyes, purple eyes, purple hair, long hair, ponytail, high ponytail, hair ribbon, hair bow, large breasts, elegant dress, purple dress, high collar, long skirt
-yorigami jo'on, touhou, orange eyes, orange hair, light brown hair, long hair, twintails, hair bow, earrings, ring, necklace, twin drills, pendant, bangle
-yorigami jo'on, touhou, orange eyes, orange hair, light brown hair, long hair, twintails, hair bow, hat bow, white dress, top hat, black headwear, purple coat, long sleeves, earrings, ring, necklace, twin drills, pendant, bangle
-yorigami shion, touhou, blue eyes, hair between eyes, blue hair, very long hair, long hair, hair bow, barefoot, bangle
-yorigami shion, touhou, blue eyes, hair between eyes, blue hair, very long hair, long hair, hair bow, barefoot, blue skirt, grey hoodie, blue bow, short sleeves, bangle
+chen, touhou, multiple_tails, nekomata, two_tails, animal_ear_piercing, mob_cap, brown_eyes, brown_hair
+cirno, touhou, blue_eyes, blue_hair, short_hair, hair_bow, blue_dress, blue_bow, ice_wings, wings
+cirno, touhou, blue_eyes, blue_hair, short_hair, hair_bow, ice_wings, wings
+fujiwara_no_mokou, touhou, red_eyes, white_hair, very_long_hair, long_hair, grey_hair, hair_bow
+fujiwara_no_mokou, touhou, red_eyes, white_hair, very_long_hair, long_hair, grey_hair, hair_bow, suspenders
+hakurei_reimu, touhou, hair_tubes, brown_eyes
+hakurei_reimu, touhou, hair_tubes, frilled_bow, ribbon-trimmed_sleeves, ascot, brown_eyes
+hata_no_kokoro, touhou, pink_eyes, pink_hair, very_long_hair, long_hair, fox_mask
+hata_no_kokoro, touhou, pink_eyes, pink_hair, very_long_hair, long_hair, plaid_shirt, fox_mask, bubble_skirt, long_sleeves
+hinanawi_tenshi, touhou, red_eyes, blue_hair, long_hair, very_long_hair
+hinanawi_tenshi, touhou, red_eyes, blue_hair, long_hair, very_long_hair, hat
+houraisan_kaguya, touhou, red_eyes, black_hair, long_hair, very_long_hair, hime_cut
+houraisan_kaguya, touhou, red_eyes, black_hair, long_hair, very_long_hair, long_sleeves, hime_cut
+ibaraki_kasen, touhou, pink_eyes, red_eyes, pink_hair, short_hair, double_bun, bun_cover, large_breasts, bandages, chinese_clothes, shackles, tabard, bandaged_arm
+ibaraki_kasen, touhou, pink_eyes, red_eyes, pink_hair, short_hair, double_bun, bun_cover, large_breasts, bandages, shackles, tabard, bandaged_arm
+inubashiri_momiji, touhou, wolf_ears, wolf_tail, red_eyes, short_hair, white_hair, pom_pom_\(clothes\)
+inubashiri_momiji, touhou, wolf_ears, wolf_tail, red_eyes, short_hair, white_hair, tokin_hat, pom_pom_\(clothes\), detached_sleeves
+izayoi_sakuya, touhou, blue_eyes, grey_hair, short_hair, twin_braids
+izayoi_sakuya, touhou, maid, maid_headdress, blue_eyes, grey_hair, short_hair, twin_braids
+kirisame_marisa, touhou, yellow_eyes, blonde_hair, long_hair, single_braid
+kirisame_marisa, touhou, yellow_eyes, blonde_hair, long_hair, single_braid, witch_hat
+kishin_sagume, touhou, red_eyes, hair_between_eyes, short_hair, grey_hair, white_hair, french_braid, purple_dress, long_sleeves, single_wing, feathered_wings, white_wings
+kishin_sagume, touhou, red_eyes, hair_between_eyes, short_hair, grey_hair, white_hair, french_braid, single_wing, feathered_wings, white_wings
+koakuma, touhou, demon_wings, red_eyes, red_hair, long_hair, large_breasts, head_wings, bat_wings
+koakuma, touhou, demon_wings, red_eyes, red_hair, long_hair, large_breasts, head_wings, bat_wings, black_dress, gothic_dress, demon_wings, collar
+kochiya_sanae, touhou, green_eyes, green_hair, long_hair, frog_hair_ornament, snake_hair_ornament, hair_tubes, large_breasts, detached_sleeves, snake
+kochiya_sanae, touhou, green_eyes, green_hair, long_hair, frog_hair_ornament, snake_hair_ornament, hair_tubes, large_breasts, snake
+komeiji_satori, touhou, pink_eyes, purple_eyes, third_eye, short_hair, pink_hair, purple_hair, hairband, long_sleeves, eyeball, heart
+komeiji_satori, touhou, third_eye, eyeball, heart_hair_ornament, heart_button, heart_of_string, pink_eyes
+konpaku_youmu, touhou, blue_eyes, short_hair, white_hair, grey_hair, black_hairband, hair_ribbon
+konpaku_youmu, touhou, blue_eyes, short_hair, white_hair, grey_hair, black_hairband, hair_ribbon, green_dress, hakama, white_shirt, ribbon
+lily_black, touhou, red_eyes, blonde_hair, long_hair, fairy_wings, wings
+lily_black, touhou, red_eyes, blonde_hair, long_hair, hat, black_dress, long_sleeves, fairy_wings, wings
+luna_child, touhou, red_eyes, blonde_hair, drill_hair, short_hair, fairy_wings
+luna_child, touhou, red_eyes, blonde_hair, drill_hair, short_hair, hat, fairy_wings
+maga-reimu, touhou, red_eyes, white_hair, long_hair, hair_bow, hair_tubes
+maga-reimu, touhou, red_eyes, white_hair, long_hair, hair_bow, hair_tubes, detached_sleeves
+medicine_melancholy, touhou, blue_eyes, blonde_hair, short_hair, hair_ribbon
+medicine_melancholy, touhou, blue_eyes, blonde_hair, short_hair, hair_ribbon, gothic_dress, black_dress, red_ribbon
+mononobe_no_futo, touhou, blue_eyes, grey_eyes, grey_hair, long_hair, ponytail, kariginu, tate_eboshi
+mononobe_no_futo, touhou, blue_eyes, grey_eyes, grey_hair, long_hair, ponytail, wide_sleeves, long_sleeves, kariginu, tate_eboshi
+reisen_udongein_inaba, touhou, rabbit_ears, rabbit_girl, rabbit_tail, red_eyes, purple_hair
+reisen_udongein_inaba, touhou, rabbit_ears, rabbit_girl, red_necktie, blazer, rabbit_tail, red_eyes, purple_hair
+reisen_udongein_inaba, touhou, rabbit_ears, red_eyes, purple_hair, long_hair, skirt
+remilia_scarlet, touhou, red_eyes, short_hair, blue_hair, bat_wings
+remilia_scarlet, touhou, red_eyes, short_hair, blue_hair, mob_cap, bat_wings
+watatsuki_no_yorihime, touhou, red_eyes, purple_eyes, purple_hair, long_hair, ponytail, high_ponytail, hair_ribbon, hair_bow, large_breasts
+watatsuki_no_yorihime, touhou, red_eyes, purple_eyes, purple_hair, long_hair, ponytail, high_ponytail, hair_ribbon, hair_bow, large_breasts, elegant_dress, purple_dress, high_collar, long_skirt
+yorigami_jo'on, touhou, orange_eyes, orange_hair, light_brown_hair, long_hair, twintails, hair_bow, earrings, ring, necklace, twin_drills, pendant, bangle
+yorigami_jo'on, touhou, orange_eyes, orange_hair, light_brown_hair, long_hair, twintails, hair_bow, hat_bow, white_dress, top_hat, black_headwear, purple_coat, long_sleeves, earrings, ring, necklace, twin_drills, pendant, bangle
+yorigami_shion, touhou, blue_eyes, hair_between_eyes, blue_hair, very_long_hair, long_hair, hair_bow, barefoot, bangle
+yorigami_shion, touhou, blue_eyes, hair_between_eyes, blue_hair, very_long_hair, long_hair, hair_bow, barefoot, blue_skirt, grey_hoodie, blue_bow, short_sleeves, bangle

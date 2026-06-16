@@ -1,6 +1,6 @@
-gu yuena, douluo dalu, purple eyes, white hair, long hair, very long hair, grey hair, large breasts, white dress, bare shoulders
-ning rongrong \(douluo dalu\), douluo dalu, blue eyes, long hair, brown hair, braid, blue dress, long sleeves
-qian renxue \(douluo dalu \), douluo dalu, falling feathers, dark persona, side cutout, armored dress, blue eyes
-qian renxue \(douluo dalu\), douluo dalu, blue eyes, long hair, blonde hair, hair ornament, white dress, bare shoulders, detached sleeves, detached collar
-tang wutong \(douluo dalu\), douluo dalu, blue eyes, long hair, blue hair, hair ornament, white dress, bare shoulders
-xiao wu \(douluo dalu\), douluo dalu, rabbit ears, pink eyes, brown hair, long hair, ponytail, hair ornament, pink dress
+gu_yuena, douluo_dalu, purple_eyes, white_hair, long_hair, very_long_hair, grey_hair, large_breasts, white_dress, bare_shoulders
+ning_rongrong_\(douluo_dalu\), douluo_dalu, blue_eyes, long_hair, brown_hair, braid, blue_dress, long_sleeves
+qian_renxue_\(douluo_dalu_\), douluo_dalu, falling_feathers, dark_persona, side_cutout, armored_dress, blue_eyes
+qian_renxue_\(douluo_dalu\), douluo_dalu, blue_eyes, long_hair, blonde_hair, hair_ornament, white_dress, bare_shoulders, detached_sleeves, detached_collar
+tang_wutong_\(douluo_dalu\), douluo_dalu, blue_eyes, long_hair, blue_hair, hair_ornament, white_dress, bare_shoulders
+xiao_wu_\(douluo_dalu\), douluo_dalu, rabbit_ears, pink_eyes, brown_hair, long_hair, ponytail, hair_ornament, pink_dress

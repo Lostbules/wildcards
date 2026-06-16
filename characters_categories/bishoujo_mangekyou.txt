@@ -1,14 +1,14 @@
-alice \(bishoujo mangekyou\), bishoujo mangekyou, blue eyes, blonde hair, long hair, drill hair, twintails, large breasts, petite
-alice \(bishoujo mangekyou\), bishoujo mangekyou, blue eyes, blonde hair, long hair, drill hair, twintails, large breasts, petite, maid headdress, maid, frilled apron, black dress, white apron, puffy short sleeves, frills, choker
-dorothy \(bishoujo mangekyou\), bishoujo mangekyou, purple eyes, black hair, short hair, bob cut, blunt bangs, small breasts, petite
-dorothy \(bishoujo mangekyou\), bishoujo mangekyou, purple eyes, black hair, short hair, bob cut, blunt bangs, small breasts, petite, maid headdress, maid, frilled apron, black dress, white apron, puffy short sleeves, frills
-kagarino kirie, bishoujo mangekyou, heterochromia, red eyes, blue eyes, fang, vampire, white hair, long hair, very long hair, twintails, red ribbon, pale skin, small breasts
-kagarino kirie, bishoujo mangekyou, heterochromia, red eyes, blue eyes, fang, vampire, white hair, long hair, very long hair, twintails, red ribbon, pale skin, small breasts, black dress, gothic, detached sleeves, choker, frills
-kannagi yuuri, bishoujo mangekyou, green eyes, tsurime, blonde hair, long hair, very long hair, straight hair, v bangs, sidelocks, hairpin, pale skin, large breasts, navel, collarbone
-kannagi yuuri, bishoujo mangekyou, green eyes, tsurime, blonde hair, long hair, very long hair, straight hair, v bangs, sidelocks, hairpin, pale skin, large breasts, navel, collarbone, white shirt, pleated skirt, miniskirt, green necktie, green kneehighs, loafers
-nanayama moyoka, bishoujo mangekyou, brown eyes, green hair, long hair, straight hair, blunt bangs, small breasts, loli, petite, navel, collarbone
-nanayama moyoka, bishoujo mangekyou, brown eyes, green hair, long hair, straight hair, blunt bangs, small breasts, loli, petite, navel, collarbone, miko, white kimono, red hakama, red ribbon, geta
-renge \(bishoujo mangekyou\), bishoujo mangekyou, green eyes, black hair, very long hair, long hair, blunt bangs, hairband, small breasts, hime cut, petite, dark
-renge \(bishoujo mangekyou\), bishoujo mangekyou, green eyes, black hair, very long hair, long hair, blunt bangs, hairband, small breasts, serafuku, black serafuku, red ribbon, wide sleeves, red skirt, pleated skirt, hime cut, petite, dark
-sawatari shizuku, bishoujo mangekyou, yellow eyes, blue hair, very long hair, long hair, straight hair, swept bangs, hairclip, large breasts, navel, collarbone, school uniform, necktie, plaid skirt, pleated skirt, kneehighs, loafers
-sawatari shizuku, bishoujo mangekyou, yellow eyes, blue hair, very long hair, long hair, straight hair, swept bangs, large breasts, navel, collarbone
+alice_\(bishoujo_mangekyou\), bishoujo_mangekyou, blue_eyes, blonde_hair, long_hair, drill_hair, twintails, large_breasts, petite
+alice_\(bishoujo_mangekyou\), bishoujo_mangekyou, blue_eyes, blonde_hair, long_hair, drill_hair, twintails, large_breasts, petite, maid_headdress, maid, frilled_apron, black_dress, white_apron, puffy_short_sleeves, frills, choker
+dorothy_\(bishoujo_mangekyou\), bishoujo_mangekyou, purple_eyes, black_hair, short_hair, bob_cut, blunt_bangs, small_breasts, petite
+dorothy_\(bishoujo_mangekyou\), bishoujo_mangekyou, purple_eyes, black_hair, short_hair, bob_cut, blunt_bangs, small_breasts, petite, maid_headdress, maid, frilled_apron, black_dress, white_apron, puffy_short_sleeves, frills
+kagarino_kirie, bishoujo_mangekyou, heterochromia, red_eyes, blue_eyes, fang, vampire, white_hair, long_hair, very_long_hair, twintails, red_ribbon, pale_skin, small_breasts
+kagarino_kirie, bishoujo_mangekyou, heterochromia, red_eyes, blue_eyes, fang, vampire, white_hair, long_hair, very_long_hair, twintails, red_ribbon, pale_skin, small_breasts, black_dress, gothic, detached_sleeves, choker, frills
+kannagi_yuuri, bishoujo_mangekyou, green_eyes, tsurime, blonde_hair, long_hair, very_long_hair, straight_hair, v_bangs, sidelocks, hairpin, pale_skin, large_breasts, navel, collarbone
+kannagi_yuuri, bishoujo_mangekyou, green_eyes, tsurime, blonde_hair, long_hair, very_long_hair, straight_hair, v_bangs, sidelocks, hairpin, pale_skin, large_breasts, navel, collarbone, white_shirt, pleated_skirt, miniskirt, green_necktie, green_kneehighs, loafers
+nanayama_moyoka, bishoujo_mangekyou, brown_eyes, green_hair, long_hair, straight_hair, blunt_bangs, small_breasts, loli, petite, navel, collarbone
+nanayama_moyoka, bishoujo_mangekyou, brown_eyes, green_hair, long_hair, straight_hair, blunt_bangs, small_breasts, loli, petite, navel, collarbone, miko, white_kimono, red_hakama, red_ribbon, geta
+renge_\(bishoujo_mangekyou\), bishoujo_mangekyou, green_eyes, black_hair, very_long_hair, long_hair, blunt_bangs, hairband, small_breasts, hime_cut, petite, dark
+renge_\(bishoujo_mangekyou\), bishoujo_mangekyou, green_eyes, black_hair, very_long_hair, long_hair, blunt_bangs, hairband, small_breasts, serafuku, black_serafuku, red_ribbon, wide_sleeves, red_skirt, pleated_skirt, hime_cut, petite, dark
+sawatari_shizuku, bishoujo_mangekyou, yellow_eyes, blue_hair, very_long_hair, long_hair, straight_hair, swept_bangs, hairclip, large_breasts, navel, collarbone, school_uniform, necktie, plaid_skirt, pleated_skirt, kneehighs, loafers
+sawatari_shizuku, bishoujo_mangekyou, yellow_eyes, blue_hair, very_long_hair, long_hair, straight_hair, swept_bangs, large_breasts, navel, collarbone

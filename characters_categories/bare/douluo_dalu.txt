@@ -1,5 +1,5 @@
-gu yuena, douluo dalu, purple eyes, white hair, long hair, very long hair, grey hair, large breasts
-ning rongrong \(douluo dalu\), douluo dalu, blue eyes, long hair, brown hair, braid
-qian renxue \(douluo dalu\), douluo dalu, blue eyes, long hair, blonde hair, hair ornament
-tang wutong \(douluo dalu\), douluo dalu, blue eyes, long hair, blue hair, hair ornament
-xiao wu \(douluo dalu\), douluo dalu, rabbit ears, pink eyes, brown hair, long hair, ponytail, hair ornament
+gu_yuena, douluo_dalu, purple_eyes, white_hair, long_hair, very_long_hair, grey_hair, large_breasts
+ning_rongrong_\(douluo_dalu\), douluo_dalu, blue_eyes, long_hair, brown_hair, braid
+qian_renxue_\(douluo_dalu\), douluo_dalu, blue_eyes, long_hair, blonde_hair, hair_ornament
+tang_wutong_\(douluo_dalu\), douluo_dalu, blue_eyes, long_hair, blue_hair, hair_ornament
+xiao_wu_\(douluo_dalu\), douluo_dalu, rabbit_ears, pink_eyes, brown_hair, long_hair, ponytail, hair_ornament
