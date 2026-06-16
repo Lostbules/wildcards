@@ -8,39 +8,39 @@
 
   remaining_characters.txt:L139  latifa_fleuranza
   remaining_characters.txt:L140  latifa_fleuranza
-  remaining_characters.txt:L206  sento_isuzu
-  remaining_characters.txt:L207  sento_isuzu
+  remaining_characters.txt:L201  sento_isuzu
+  remaining_characters.txt:L202  sento_isuzu
 ## amagi_brilliant_park  [4]
 
   remaining_characters.txt:L103  irie_miyuki
   remaining_characters.txt:L104  irie_miyuki
-  remaining_characters.txt:L171  otonashi_yuzuru
-  remaining_characters.txt:L172  otonashi_yuzuru
-  remaining_characters.txt:L216  shiina_\(angel_beats!\)
-  remaining_characters.txt:L217  shiina_\(angel_beats!\)
-  remaining_characters.txt:L245  tachibana_kanade
-  remaining_characters.txt:L246  tachibana_kanade
-  remaining_characters.txt:L247  tachibana_kanade
+  remaining_characters.txt:L168  otonashi_yuzuru
+  remaining_characters.txt:L169  otonashi_yuzuru
+  remaining_characters.txt:L211  shiina_\(angel_beats!\)
+  remaining_characters.txt:L212  shiina_\(angel_beats!\)
+  remaining_characters.txt:L240  tachibana_kanade
+  remaining_characters.txt:L241  tachibana_kanade
+  remaining_characters.txt:L242  tachibana_kanade
 ## angel_beats!  [9]
 
   remaining_characters.txt:L12  amiya_\(arknights\)
   remaining_characters.txt:L13  amiya_\(arknights\)
-  remaining_characters.txt:L229  skadi_\(waverider\)_\(arknights\)
-  remaining_characters.txt:L230  skadi_\(waverider\)_\(arknights\)
-  remaining_characters.txt:L231  skadi_the_corrupting_heart_\(arknights\)
-  remaining_characters.txt:L232  skadi_the_corrupting_heart_\(arknights\)
-  remaining_characters.txt:L241  surtr_\(arknights\)
-  remaining_characters.txt:L242  surtr_\(colorful_wonderland\)_\(arknights\)
-  remaining_characters.txt:L243  surtr_\(colorful_wonderland\)_\(arknights\)
-  remaining_characters.txt:L244  surtr_\(colorful_wonderland\)_\(arknights\)
+  remaining_characters.txt:L224  skadi_\(waverider\)_\(arknights\)
+  remaining_characters.txt:L225  skadi_\(waverider\)_\(arknights\)
+  remaining_characters.txt:L226  skadi_the_corrupting_heart_\(arknights\)
+  remaining_characters.txt:L227  skadi_the_corrupting_heart_\(arknights\)
+  remaining_characters.txt:L236  surtr_\(arknights\)
+  remaining_characters.txt:L237  surtr_\(colorful_wonderland\)_\(arknights\)
+  remaining_characters.txt:L238  surtr_\(colorful_wonderland\)_\(arknights\)
+  remaining_characters.txt:L239  surtr_\(colorful_wonderland\)_\(arknights\)
 ## arknights  [10]
 
-  remaining_characters.txt:L191  reisalin_stout
-  remaining_characters.txt:L192  reisalin_stout
+  remaining_characters.txt:L188  reisalin_stout
+  remaining_characters.txt:L189  reisalin_stout
 ## atelier_\(series\)  [2]
 
-  remaining_characters.txt:L176  pinku_\(vtuber\)
-  remaining_characters.txt:L177  pinku_\(vtuber\)
+  remaining_characters.txt:L173  pinku_\(vtuber\)
+  remaining_characters.txt:L174  pinku_\(vtuber\)
 ## atelier_live  [2]
 
   remaining_characters.txt:L23  atago_\(azur_lane\)
@@ -53,8 +53,8 @@
   remaining_characters.txt:L46  cheshire_\(summery_date!\)_\(azur_lane\)
   remaining_characters.txt:L72  formidable_\(azur_lane\)
   remaining_characters.txt:L73  formidable_\(azur_lane\)
-  remaining_characters.txt:L248  taihou_\(azur_lane\)
-  remaining_characters.txt:L249  taihou_\(azur_lane\)
+  remaining_characters.txt:L243  taihou_\(azur_lane\)
+  remaining_characters.txt:L244  taihou_\(azur_lane\)
 ## azur_lane  [12]
 
   bishoujo_mangekyou.txt:L1  alice_\(bishoujo_mangekyou\)
@@ -80,8 +80,8 @@
   remaining_characters.txt:L96  hoshino_\(swimsuit\)_\(blue_archive\)
   remaining_characters.txt:L97  hoshino_\(swimsuit\)_\(blue_archive\)
   remaining_characters.txt:L98  hoshino_\(swimsuit\)_\(blue_archive\)
-  remaining_characters.txt:L222  shiroko_\(blue_archive\)
-  remaining_characters.txt:L223  shiroko_\(blue_archive\)
+  remaining_characters.txt:L217  shiroko_\(blue_archive\)
+  remaining_characters.txt:L218  shiroko_\(blue_archive\)
 ## blue_archive  [9]
 
   bocchi_the_rock.txt:L1  gotoh_hitori
@@ -99,18 +99,18 @@
   bocchi_the_rock.txt:L13  yamada_ryo
 ## bocchi_the_rock!  [13]
 
-  remaining_characters.txt:L180  power_\(chainsaw_man\)
-  remaining_characters.txt:L181  power_\(chainsaw_man\)
+  remaining_characters.txt:L177  power_\(chainsaw_man\)
+  remaining_characters.txt:L178  power_\(chainsaw_man\)
 ## chainsaw_man  [2]
 
-  remaining_characters.txt:L272  tomori_nao
-  remaining_characters.txt:L273  tomori_nao
+  remaining_characters.txt:L267  tomori_nao
+  remaining_characters.txt:L268  tomori_nao
 ## charlotte_\(anime\)  [2]
 
-  remaining_characters.txt:L250  takanashi_rikka
-  remaining_characters.txt:L251  takanashi_rikka
-  remaining_characters.txt:L252  takanashi_touka
-  remaining_characters.txt:L253  takanashi_touka
+  remaining_characters.txt:L245  takanashi_rikka
+  remaining_characters.txt:L246  takanashi_rikka
+  remaining_characters.txt:L247  takanashi_touka
+  remaining_characters.txt:L248  takanashi_touka
 ## chuunibyou_demo_koi_ga_shitai!  [4]
 
   clannad.txt:L1  fujibayashi_kyou
@@ -127,10 +127,10 @@
 
   remaining_characters.txt:L105  itsuka_kotori
   remaining_characters.txt:L106  itsuka_kotori
-  remaining_characters.txt:L260  tobiichi_origami
-  remaining_characters.txt:L261  tobiichi_origami
-  remaining_characters.txt:L268  tokisaki_kurumi
-  remaining_characters.txt:L269  tokisaki_kurumi
+  remaining_characters.txt:L255  tobiichi_origami
+  remaining_characters.txt:L256  tobiichi_origami
+  remaining_characters.txt:L263  tokisaki_kurumi
+  remaining_characters.txt:L264  tokisaki_kurumi
 ## date_a_live  [6]
 
   dead_or_alive.txt:L5  marie_rose_\(devilish_servant_against_the_splashing_waves\)
@@ -152,8 +152,8 @@
 
   remaining_characters.txt:L37  cai_lin_\(doupo_cangqiong\)
   remaining_characters.txt:L38  cai_lin_\(doupo_cangqiong\)
-  remaining_characters.txt:L301  yun_yun_\(doupo_cangqiong\)
-  remaining_characters.txt:L302  yun_yun_\(doupo_cangqiong\)
+  remaining_characters.txt:L296  yun_yun_\(doupo_cangqiong\)
+  remaining_characters.txt:L297  yun_yun_\(doupo_cangqiong\)
 ## doupo_cangqiong  [4]
 
   danmachi.txt:L1  aiz_wallenstein
@@ -286,14 +286,14 @@
   remaining_characters.txt:L17  artoria_caster_\(second_ascension\)_\(fate\)
   remaining_characters.txt:L66  ereshkigal_\(bitter_sweet\)_\(fate\)
   remaining_characters.txt:L67  ereshkigal_\(bitter_sweet\)_\(fate\)
-  remaining_characters.txt:L233  space_ereshkigal_\(fate\)
-  remaining_characters.txt:L234  space_ereshkigal_\(fate\)
+  remaining_characters.txt:L228  space_ereshkigal_\(fate\)
+  remaining_characters.txt:L229  space_ereshkigal_\(fate\)
 ## fate/grand_order  [6]
 
   remaining_characters.txt:L18  artoria_pendragon
   remaining_characters.txt:L19  artoria_pendragon
-  remaining_characters.txt:L264  tohsaka_rin
-  remaining_characters.txt:L265  tohsaka_rin
+  remaining_characters.txt:L259  tohsaka_rin
+  remaining_characters.txt:L260  tohsaka_rin
 ## fate/stay_night  [4]
 
   final_fantasy.txt:L1  aerith_gainsborough
@@ -316,15 +316,15 @@
 
   remaining_characters.txt:L80  gabriel_tenma_white
   remaining_characters.txt:L81  gabriel_tenma_white
-  remaining_characters.txt:L189  raphiel_shiraha_ainsworth
-  remaining_characters.txt:L190  raphiel_shiraha_ainsworth
-  remaining_characters.txt:L254  tapris_chisaki_sugarbell
-  remaining_characters.txt:L255  tapris_chisaki_sugarbell
+  remaining_characters.txt:L186  raphiel_shiraha_ainsworth
+  remaining_characters.txt:L187  raphiel_shiraha_ainsworth
+  remaining_characters.txt:L249  tapris_chisaki_sugarbell
+  remaining_characters.txt:L250  tapris_chisaki_sugarbell
 ## gabriel_dropout  [6]
 
-  remaining_characters.txt:L199  sakura_chiyo
-  remaining_characters.txt:L200  sakura_chiyo
-  remaining_characters.txt:L201  sakura_chiyo
+  remaining_characters.txt:L194  sakura_chiyo
+  remaining_characters.txt:L195  sakura_chiyo
+  remaining_characters.txt:L196  sakura_chiyo
 ## gekkan_shoujo_nozaki-kun  [3]
 
   genshin_impact.txt:L1  amber_\(genshin_impact\)
@@ -436,24 +436,22 @@
 
   remaining_characters.txt:L109  kafuu_chino
   remaining_characters.txt:L110  kafuu_chino_\(rabbit_house\)
-  remaining_characters.txt:L256  tedeza_rize
-  remaining_characters.txt:L257  tedeza_rize
+  remaining_characters.txt:L251  tedeza_rize
+  remaining_characters.txt:L252  tedeza_rize
 ## gochuumon_wa_usagi_desu_ka?  [4]
 
-  remaining_characters.txt:L284  victorica_de_blois
-  remaining_characters.txt:L285  victorica_de_blois
-  remaining_characters.txt:L286  victorica_de_blois
+  remaining_characters.txt:L279  victorica_de_blois
+  remaining_characters.txt:L280  victorica_de_blois
+  remaining_characters.txt:L281  victorica_de_blois
 ## gosick  [3]
 
   remaining_characters.txt:L57  djeeta_\(granblue_fantasy\)
   remaining_characters.txt:L58  djeeta_\(granblue_fantasy\)
   remaining_characters.txt:L155  narmaya_\(granblue_fantasy\)
-  remaining_characters.txt:L156  narmaya_\(summer\)_\(granblue_fantasy\)
-  remaining_characters.txt:L157  narmaya_\(summer\)_\(granblue_fantasy\)
-  remaining_characters.txt:L289  vira_\(granblue_fantasy\)
-  remaining_characters.txt:L290  vira_\(summer\)_\(granblue_fantasy\)
-  remaining_characters.txt:L291  vira_\(summer\)_\(granblue_fantasy\)
-## granblue_fantasy  [8]
+  remaining_characters.txt:L284  vira_\(granblue_fantasy\)
+  remaining_characters.txt:L285  vira_\(summer\)_\(granblue_fantasy\)
+  remaining_characters.txt:L286  vira_\(summer\)_\(granblue_fantasy\)
+## granblue_fantasy  [6]
 
   honkai_verse.txt:L1  asta_\(honkai:_star_rail\)
   honkai_verse.txt:L2  asta_\(honkai:_star_rail\)
@@ -552,8 +550,8 @@
   remaining_characters.txt:L50  chitanda_eru
 ## hyouka  [2]
 
-  remaining_characters.txt:L239  sui_\(isekai_ojisan\)
-  remaining_characters.txt:L240  sui_\(isekai_ojisan\)
+  remaining_characters.txt:L234  sui_\(isekai_ojisan\)
+  remaining_characters.txt:L235  sui_\(isekai_ojisan\)
 ## isekai_ojisan  [2]
 
   kaguya_sama.txt:L1  fujiwara_chika
@@ -576,12 +574,12 @@
   remaining_characters.txt:L24  atago_\(kancolle\)
   remaining_characters.txt:L119  kashima_\(kancolle\)
   remaining_characters.txt:L120  kashima_\(kancolle\)
-  remaining_characters.txt:L218  shimakaze_\(kancolle\)
-  remaining_characters.txt:L219  shimakaze_\(kancolle\)
-  remaining_characters.txt:L280  verniy_\(kancolle\)
-  remaining_characters.txt:L281  verniy_\(kancolle\)
-  remaining_characters.txt:L305  yuudachi_kai_ni_\(kancolle\)
-  remaining_characters.txt:L306  yuudachi_kai_ni_\(kancolle\)
+  remaining_characters.txt:L213  shimakaze_\(kancolle\)
+  remaining_characters.txt:L214  shimakaze_\(kancolle\)
+  remaining_characters.txt:L275  verniy_\(kancolle\)
+  remaining_characters.txt:L276  verniy_\(kancolle\)
+  remaining_characters.txt:L300  yuudachi_kai_ni_\(kancolle\)
+  remaining_characters.txt:L301  yuudachi_kai_ni_\(kancolle\)
 ## kantai_collection  [9]
 
   demon_slayer.txt:L1  daki_\(kimetsu_no_yaiba\)
@@ -602,11 +600,9 @@
 
   remaining_characters.txt:L115  kanna_kamui
   remaining_characters.txt:L116  kanna_kamui
-  remaining_characters.txt:L195  saikawa_riko
-  remaining_characters.txt:L196  saikawa_riko
-  remaining_characters.txt:L262  tohru_\(maidragon\)
-  remaining_characters.txt:L263  tohru_\(maidragon\)
-## kobayashi-san_chi_no_maidragon  [6]
+  remaining_characters.txt:L257  tohru_\(maidragon\)
+  remaining_characters.txt:L258  tohru_\(maidragon\)
+## kobayashi-san_chi_no_maidragon  [4]
 
   konosuba.txt:L1  aqua_\(konosuba\)
   konosuba.txt:L2  aqua_\(konosuba\)
@@ -635,35 +631,34 @@
   remaining_characters.txt:L112  kamikita_komari
   remaining_characters.txt:L137  kurugaya_yuiko
   remaining_characters.txt:L138  kurugaya_yuiko
-  remaining_characters.txt:L166  noumi_kudryavka
-  remaining_characters.txt:L167  noumi_kudryavka
-  remaining_characters.txt:L168  noumi_kudryavka
-  remaining_characters.txt:L193  saigusa_haruka
-  remaining_characters.txt:L194  saigusa_haruka
-  remaining_characters.txt:L202  sasasegawa_sasami
-  remaining_characters.txt:L203  sasasegawa_sasami
-  remaining_characters.txt:L266  tokido_saya
-  remaining_characters.txt:L267  tokido_saya
-## little_busters!  [17]
+  remaining_characters.txt:L164  noumi_kudryavka
+  remaining_characters.txt:L165  noumi_kudryavka
+  remaining_characters.txt:L190  saigusa_haruka
+  remaining_characters.txt:L191  saigusa_haruka
+  remaining_characters.txt:L197  sasasegawa_sasami
+  remaining_characters.txt:L198  sasasegawa_sasami
+  remaining_characters.txt:L261  tokido_saya
+  remaining_characters.txt:L262  tokido_saya
+## little_busters!  [16]
 
   remaining_characters.txt:L101  inoue_takina
   remaining_characters.txt:L102  inoue_takina
-  remaining_characters.txt:L162  nishikigi_chisato
-  remaining_characters.txt:L163  nishikigi_chisato
+  remaining_characters.txt:L160  nishikigi_chisato
+  remaining_characters.txt:L161  nishikigi_chisato
 ## lycoris_recoil  [4]
 
-  remaining_characters.txt:L270  tomoe_mami
-  remaining_characters.txt:L271  tomoe_mami
-  remaining_characters.txt:L276  ultimate_madoka
-  remaining_characters.txt:L277  ultimate_madoka
+  remaining_characters.txt:L265  tomoe_mami
+  remaining_characters.txt:L266  tomoe_mami
+  remaining_characters.txt:L271  ultimate_madoka
+  remaining_characters.txt:L272  ultimate_madoka
 ## mahou_shoujo_madoka_magica  [4]
 
   remaining_characters.txt:L113  kaname_madoka_\(magical_girl\)
   remaining_characters.txt:L114  kaname_madoka_\(magical_girl\)
 ## mahou_shoujo_madoka_magica_\(anime\)  [2]
 
-  remaining_characters.txt:L214  shiba_miyuki
-  remaining_characters.txt:L215  shiba_miyuki
+  remaining_characters.txt:L209  shiba_miyuki
+  remaining_characters.txt:L210  shiba_miyuki
 ## mahouka_koukou_no_rettousei  [2]
 
   remaining_characters.txt:L61  elaina_\(majo_no_tabitabi\)
@@ -671,12 +666,12 @@
   remaining_characters.txt:L63  elaina_\(majo_no_tabitabi\)
 ## majo_no_tabitabi  [3]
 
-  remaining_characters.txt:L235  spider-gwen
-  remaining_characters.txt:L236  spider-gwen
+  remaining_characters.txt:L230  spider-gwen
+  remaining_characters.txt:L231  spider-gwen
 ## marvel  [2]
 
-  remaining_characters.txt:L204  senjougahara_hitagi
-  remaining_characters.txt:L205  senjougahara_hitagi
+  remaining_characters.txt:L199  senjougahara_hitagi
+  remaining_characters.txt:L200  senjougahara_hitagi
 ## monogatari_\(series\)  [2]
 
   mushoku_tensei.txt:L1  elinalise_dragonroad
@@ -710,31 +705,31 @@
   remaining_characters.txt:L91  histoire
   remaining_characters.txt:L99  if_\(neptunia\)
   remaining_characters.txt:L100  if_\(neptunia\)
-  remaining_characters.txt:L158  neptune_\(neptunia\)
-  remaining_characters.txt:L159  neptune_\(neptunia\)
-  remaining_characters.txt:L164  noire_\(neptunia\)
-  remaining_characters.txt:L165  noire_\(neptunia\)
-  remaining_characters.txt:L169  orange_heart_\(neptunia\)
-  remaining_characters.txt:L170  orange_heart_\(neptunia\)
-  remaining_characters.txt:L182  pururut
-  remaining_characters.txt:L183  pururut
-  remaining_characters.txt:L188  ram_\(neptunia\)
-  remaining_characters.txt:L278  uni_\(neptunia\)
-  remaining_characters.txt:L279  uni_\(neptunia\)
-  remaining_characters.txt:L282  vert_\(neptunia\)
-  remaining_characters.txt:L283  vert_\(neptunia\)
+  remaining_characters.txt:L156  neptune_\(neptunia\)
+  remaining_characters.txt:L157  neptune_\(neptunia\)
+  remaining_characters.txt:L162  noire_\(neptunia\)
+  remaining_characters.txt:L163  noire_\(neptunia\)
+  remaining_characters.txt:L166  orange_heart_\(neptunia\)
+  remaining_characters.txt:L167  orange_heart_\(neptunia\)
+  remaining_characters.txt:L179  pururut
+  remaining_characters.txt:L180  pururut
+  remaining_characters.txt:L185  ram_\(neptunia\)
+  remaining_characters.txt:L273  uni_\(neptunia\)
+  remaining_characters.txt:L274  uni_\(neptunia\)
+  remaining_characters.txt:L277  vert_\(neptunia\)
+  remaining_characters.txt:L278  vert_\(neptunia\)
 ## neptune_\(series\)  [25]
 
   remaining_characters.txt:L1  2b_\(nier:automata\)
   remaining_characters.txt:L2  2b_\(nier:automata\)
-  remaining_characters.txt:L292  yonah
-  remaining_characters.txt:L293  yonah
+  remaining_characters.txt:L287  yonah
+  remaining_characters.txt:L288  yonah
 ## nier_\(series\)  [4]
 
-  remaining_characters.txt:L220  shiro_\(no_game_no_life\)
-  remaining_characters.txt:L221  shiro_\(no_game_no_life\)
-  remaining_characters.txt:L237  stephanie_dora
-  remaining_characters.txt:L238  stephanie_dora
+  remaining_characters.txt:L215  shiro_\(no_game_no_life\)
+  remaining_characters.txt:L216  shiro_\(no_game_no_life\)
+  remaining_characters.txt:L232  stephanie_dora
+  remaining_characters.txt:L233  stephanie_dora
 ## no_game_no_life  [4]
 
   remaining_characters.txt:L153  nami_\(one_piece\)
@@ -750,8 +745,8 @@
   oreimo_eromanga.txt:L10  kousaka_kirino
 ## ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai  [7]
 
-  remaining_characters.txt:L208  seraphina
-  remaining_characters.txt:L209  seraphina
+  remaining_characters.txt:L203  seraphina
+  remaining_characters.txt:L204  seraphina
 ## original  [2]
 
   remaining_characters.txt:L31  black_cat_d.va
@@ -767,8 +762,8 @@
   remaining_characters.txt:L136  krul_tepes
 ## owari_no_seraph  [5]
 
-  remaining_characters.txt:L210  serena_\(sygna_suit\)_\(pokemon\)
-  remaining_characters.txt:L211  serena_\(sygna_suit\)_\(pokemon\)
+  remaining_characters.txt:L205  serena_\(sygna_suit\)_\(pokemon\)
+  remaining_characters.txt:L206  serena_\(sygna_suit\)_\(pokemon\)
 ## pokemon  [2]
 
   remaining_characters.txt:L124  kokkoro_\(ceremonial\)_\(princess_connect!\)
@@ -777,9 +772,9 @@
   remaining_characters.txt:L127  kokkoro_\(princess_connect!\)
   remaining_characters.txt:L128  kokkoro_\(summer\)_\(princess_connect!\)
   remaining_characters.txt:L129  kokkoro_\(summer\)_\(princess_connect!\)
-  remaining_characters.txt:L173  pecorine_\(princess_connect!\)
-  remaining_characters.txt:L174  pecorine_\(summer\)_\(princess_connect!\)
-  remaining_characters.txt:L175  pecorine_\(summer\)_\(princess_connect!\)
+  remaining_characters.txt:L170  pecorine_\(princess_connect!\)
+  remaining_characters.txt:L171  pecorine_\(summer\)_\(princess_connect!\)
+  remaining_characters.txt:L172  pecorine_\(summer\)_\(princess_connect!\)
 ## princess_connect!  [9]
 
   re_zero.txt:L1  beatrice_\(court_mage\)
@@ -814,8 +809,8 @@
 
   remaining_characters.txt:L74  frey_\(rune_factory\)
   remaining_characters.txt:L75  frey_\(rune_factory\)
-  remaining_characters.txt:L274  toona
-  remaining_characters.txt:L275  toona
+  remaining_characters.txt:L269  toona
+  remaining_characters.txt:L270  toona
 ## rune_factory  [4]
 
   seishun_buta.txt:L1  sakurajima_mai
@@ -825,14 +820,14 @@
   remaining_characters.txt:L39  carol_malus_dienheim
   remaining_characters.txt:L40  carol_malus_dienheim
   remaining_characters.txt:L41  carol_malus_dienheim
-  remaining_characters.txt:L299  yukine_chris
-  remaining_characters.txt:L300  yukine_chris
+  remaining_characters.txt:L294  yukine_chris
+  remaining_characters.txt:L295  yukine_chris
 ## senki_zesshou_symphogear  [5]
 
   remaining_characters.txt:L8  alastor_\(shakugan_no_shana\)
   remaining_characters.txt:L9  alastor_\(shakugan_no_shana\)
-  remaining_characters.txt:L212  shana
-  remaining_characters.txt:L213  shana
+  remaining_characters.txt:L207  shana
+  remaining_characters.txt:L208  shana
 ## shakugan_no_shana  [4]
 
   remaining_characters.txt:L132  krista_lenz
@@ -856,9 +851,9 @@
   remaining_characters.txt:L77  frieren
 ## sousou_no_frieren  [4]
 
-  remaining_characters.txt:L294  yor_briar
-  remaining_characters.txt:L295  yor_briar_\(assassin_dress\)
-  remaining_characters.txt:L296  yor_briar_\(assassin_dress\)
+  remaining_characters.txt:L289  yor_briar
+  remaining_characters.txt:L290  yor_briar_\(assassin_dress\)
+  remaining_characters.txt:L291  yor_briar_\(assassin_dress\)
 ## spy_x_family  [3]
 
   remaining_characters.txt:L145  makise_kurisu
@@ -876,17 +871,17 @@
   remaining_characters.txt:L142  leafa
   remaining_characters.txt:L143  lisbeth_\(sao-alo\)
   remaining_characters.txt:L144  lisbeth_\(sao-alo\)
-  remaining_characters.txt:L226  silica
-  remaining_characters.txt:L227  sinon
-  remaining_characters.txt:L228  sinon_\(sao-alo\)
-  remaining_characters.txt:L258  titania_\(sao\)
-  remaining_characters.txt:L259  titania_\(sao\)
-  remaining_characters.txt:L297  yui_\(sao-alo\)
-  remaining_characters.txt:L298  yui_\(sao\)
-  remaining_characters.txt:L303  yuna_\(sao\)
-  remaining_characters.txt:L304  yuna_\(sao\)
-  remaining_characters.txt:L307  yuuki_\(sao\)
-  remaining_characters.txt:L308  yuuki_\(sao\)
+  remaining_characters.txt:L221  silica
+  remaining_characters.txt:L222  sinon
+  remaining_characters.txt:L223  sinon_\(sao-alo\)
+  remaining_characters.txt:L253  titania_\(sao\)
+  remaining_characters.txt:L254  titania_\(sao\)
+  remaining_characters.txt:L292  yui_\(sao-alo\)
+  remaining_characters.txt:L293  yui_\(sao\)
+  remaining_characters.txt:L298  yuna_\(sao\)
+  remaining_characters.txt:L299  yuna_\(sao\)
+  remaining_characters.txt:L302  yuuki_\(sao\)
+  remaining_characters.txt:L303  yuuki_\(sao\)
 ## sword_art_online  [22]
 
   remaining_characters.txt:L70  filo_\(tate_no_yuusha_no_nariagari\)
@@ -895,8 +890,8 @@
   remaining_characters.txt:L148  melty_q_melromarc
 ## tate_no_yuusha_no_nariagari  [4]
 
-  remaining_characters.txt:L224  shuna_\(tensei_shitara_slime_datta_ken\)
-  remaining_characters.txt:L225  shuna_\(tensei_shitara_slime_datta_ken\)
+  remaining_characters.txt:L219  shuna_\(tensei_shitara_slime_datta_ken\)
+  remaining_characters.txt:L220  shuna_\(tensei_shitara_slime_datta_ken\)
 ## tensei_shitara_slime_datta_ken  [2]
 
   dead_or_alive.txt:L1  asamiya_athena
@@ -1002,8 +997,8 @@
   touhou.txt:L55  yorigami_shion
 ## touhou  [55]
 
-  remaining_characters.txt:L287  violet_evergarden
-  remaining_characters.txt:L288  violet_evergarden
+  remaining_characters.txt:L282  violet_evergarden
+  remaining_characters.txt:L283  violet_evergarden
 ## violet_evergarden_\(series\)  [2]
 
   remaining_characters.txt:L82  hatsune_miku
@@ -1018,8 +1013,8 @@
 
   remaining_characters.txt:L151  mythra_\(massive_melee\)_\(xenoblade\)
   remaining_characters.txt:L152  mythra_\(massive_melee\)_\(xenoblade\)
-  remaining_characters.txt:L184  pyra_\(xenoblade\)
-  remaining_characters.txt:L185  pyra_\(xenoblade\)
+  remaining_characters.txt:L181  pyra_\(xenoblade\)
+  remaining_characters.txt:L182  pyra_\(xenoblade\)
 ## xenoblade_chronicles_\(series\)  [4]
 
   oregairu.txt:L1  hiratsuka_shizuka
@@ -1041,8 +1036,8 @@
 
   remaining_characters.txt:L117  karuizawa_kei
   remaining_characters.txt:L118  karuizawa_kei
-  remaining_characters.txt:L197  sakayanagi_arisu
-  remaining_characters.txt:L198  sakayanagi_arisu
+  remaining_characters.txt:L192  sakayanagi_arisu
+  remaining_characters.txt:L193  sakayanagi_arisu
 ## youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e  [4]
 
   remaining_characters.txt:L29  belle_\(zenless_zone_zero\)
@@ -1055,12 +1050,12 @@
   remaining_characters.txt:L93  hoshimi_miyabi
   remaining_characters.txt:L130  koleda_belobog
   remaining_characters.txt:L131  koleda_belobog
-  remaining_characters.txt:L160  nicole_demara
-  remaining_characters.txt:L161  nicole_demara
-  remaining_characters.txt:L178  piper_wheel
-  remaining_characters.txt:L179  piper_wheel
-  remaining_characters.txt:L186  qingyi_\(zenless_zone_zero\)
-  remaining_characters.txt:L187  qingyi_\(zenless_zone_zero\)
+  remaining_characters.txt:L158  nicole_demara
+  remaining_characters.txt:L159  nicole_demara
+  remaining_characters.txt:L175  piper_wheel
+  remaining_characters.txt:L176  piper_wheel
+  remaining_characters.txt:L183  qingyi_\(zenless_zone_zero\)
+  remaining_characters.txt:L184  qingyi_\(zenless_zone_zero\)
 ## zenless_zone_zero  [16]
 
   zero_no_tsukaima.txt:L1  henrietta_de_tristain

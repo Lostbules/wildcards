@@ -153,8 +153,6 @@ mythra_\(massive_melee\)_\(xenoblade\), xenoblade_chronicles_\(series\), yellow_
 nami_\(one_piece\), one_piece, brown_eyes, orange_eyes, orange_hair, long_hair, large_breasts, cleavage, navel, shoulder_tattoo
 nami_\(one_piece\), one_piece, brown_eyes, orange_eyes, orange_hair, long_hair, large_breasts, cleavage, navel, shoulder_tattoo, bikini_top, jeans, log_pose, bracelet
 narmaya_\(granblue_fantasy\), granblue_fantasy, pointy_ears, horns, blue_eyes, hair_over_one_eye, long_hair, very_long_hair, purple_hair, light_purple_hair, pink_hair, single_braid, braid, hair_ornament, large_breasts, cleavage, black_gloves, bare_shoulders, draph
-narmaya_\(summer\)_\(granblue_fantasy\), granblue_fantasy, pointy_ears, horns, blue_eyes, hair_over_one_eye, long_hair, light_purple_hair, very_long_hair, purple_hair, pink_hair, double_bun, braid, hair_ornament, large_breasts, cleavage, navel, collarbone, draph
-narmaya_\(summer\)_\(granblue_fantasy\), granblue_fantasy, pointy_ears, horns, blue_eyes, hair_over_one_eye, long_hair, light_purple_hair, very_long_hair, purple_hair, pink_hair, double_bun, braid, hair_ornament, large_breasts, cleavage, navel, thigh_strap, collarbone, white_bikini, draph
 neptune_\(neptunia\), neptune_\(series\), purple_eyes, hair_between_eyes, purple_hair, short_hair, d-pad_hair_ornament
 neptune_\(neptunia\), neptune_\(series\), purple_eyes, hair_between_eyes, purple_hair, short_hair, d-pad_hair_ornament, striped_clothes
 nicole_demara, zenless_zone_zero, green_eyes, mole_under_eye, pink_hair, long_hair, very_long_hair, two_side_up, hair_ribbon, hairclip, large_breasts, mole_on_breast, cleavage, thighs, navel, black_shorts, black_thighhighs, black_ribbon, bare_shoulders, long_sleeves, crop_top, midriff, tube_top, stomach
@@ -165,7 +163,6 @@ noire_\(neptunia\), neptune_\(series\), red_eyes, hair_between_eyes, black_hair,
 noire_\(neptunia\), neptune_\(series\), red_eyes, hair_between_eyes, black_hair, very_long_hair, long_hair, twintails, hair_ribbon, hair_ornament, medium_breasts, cleavage, bare_shoulders
 noumi_kudryavka, little_busters!, fang, blue_eyes, long_hair, blonde_hair, grey_hair, bat_hair_ornament, school_uniform, little_busters!_school_uniform, hat, cape, thighhighs, plaid_skirt, pink_bow
 noumi_kudryavka, little_busters!, fang, blue_eyes, long_hair, blonde_hair, grey_hair, bat_hair_ornament, thighhighs
-noumi_kudryavka, little_busters!, little_busters!_school_uniform, bat_hair_ornament, large_buttons, pink_bow, plaid_skirt, blue_eyes
 orange_heart_\(neptunia\), neptune_\(series\), blue_eyes, hair_between_eyes, symbol-shaped_pupils, power_symbol-shaped_pupils, orange_hair, long_hair, twintails, medium_breasts, elbow_gloves, bare_shoulders, power_symbol
 orange_heart_\(neptunia\), neptune_\(series\), blue_eyes, hair_between_eyes, symbol-shaped_pupils, power_symbol-shaped_pupils, orange_hair, long_hair, twintails, medium_breasts, power_symbol
 otonashi_yuzuru, angel_beats!, 1boy, brown_eyes, brown_hair
@@ -192,8 +189,6 @@ reisalin_stout, atelier_\(series\), brown_eyes, brown_hair, short_hair, hairclip
 reisalin_stout, atelier_\(series\), brown_eyes, brown_hair, short_hair, hairclip, large_breasts, cleavage, thighs, thick_thighs, navel, collarbone, white_headwear, short_shorts, red_shorts, brown_gloves, bare_shoulders, beret
 saigusa_haruka, little_busters!, blue_eyes, purple_hair, long_hair, very_long_hair, side_ponytail, hair_bobbles, hairclip, school_uniform, little_busters!_school_uniform, striped_clothes, striped_thighhighs, plaid_skirt, pink_bow
 saigusa_haruka, little_busters!, blue_eyes, purple_hair, long_hair, very_long_hair, side_ponytail, hair_bobbles, hairclip, striped_thighhighs
-saikawa_riko, kobayashi-san_chi_no_maidragon
-saikawa_riko, kobayashi-san_chi_no_maidragon, green_eyes, brown_hair, long_hair, hair_flower, green_shirt, long_sleeves
 sakayanagi_arisu, youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e, purple_eyes, blue_eyes, long_hair, grey_hair, medium_hair, blunt_bangs, braid, advanced_nurturing_high_school_uniform, red_jacket, white_thighhighs, white_shirt, white_skirt, pleated_skirt, long_sleeves, blazer
 sakayanagi_arisu, youkoso_jitsuryoku_shijou_shugi_no_kyoushitsu_e, purple_eyes, blue_eyes, long_hair, grey_hair, medium_hair, blunt_bangs, braid, white_thighhighs
 sakura_chiyo, gekkan_shoujo_nozaki-kun, purple_eyes, long_hair, orange_hair, hair_bow
